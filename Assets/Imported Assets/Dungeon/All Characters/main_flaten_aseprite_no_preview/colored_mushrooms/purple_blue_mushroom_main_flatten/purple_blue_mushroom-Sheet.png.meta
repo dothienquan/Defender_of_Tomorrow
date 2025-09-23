@@ -1,0 +1,1817 @@
+fileFormatVersion: 2
+guid: 9cdf6acf861b10d48bcaa50a09274855
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4755940254068785174
+    second: purple_blue_mushroom-Sheet_0
+  - first:
+      213: 997129613456706886
+    second: purple_blue_mushroom-Sheet_1
+  - first:
+      213: 6757193931834698172
+    second: purple_blue_mushroom-Sheet_2
+  - first:
+      213: 5426087238413573817
+    second: purple_blue_mushroom-Sheet_3
+  - first:
+      213: 6838688164155646807
+    second: purple_blue_mushroom-Sheet_4
+  - first:
+      213: -3571204720835985649
+    second: purple_blue_mushroom-Sheet_5
+  - first:
+      213: -4106466104681259752
+    second: purple_blue_mushroom-Sheet_6
+  - first:
+      213: 1111585351895053927
+    second: purple_blue_mushroom-Sheet_7
+  - first:
+      213: 8322976903514059871
+    second: purple_blue_mushroom-Sheet_8
+  - first:
+      213: 6397976113922885752
+    second: purple_blue_mushroom-Sheet_9
+  - first:
+      213: -5227108309118680797
+    second: purple_blue_mushroom-Sheet_10
+  - first:
+      213: 5014967235134205638
+    second: purple_blue_mushroom-Sheet_11
+  - first:
+      213: 784534976834944903
+    second: purple_blue_mushroom-Sheet_12
+  - first:
+      213: -8535131734819354296
+    second: purple_blue_mushroom-Sheet_13
+  - first:
+      213: -7055812253343611137
+    second: purple_blue_mushroom-Sheet_14
+  - first:
+      213: 7190414287940822267
+    second: purple_blue_mushroom-Sheet_15
+  - first:
+      213: 325980701212010693
+    second: purple_blue_mushroom-Sheet_16
+  - first:
+      213: 5838341477770303299
+    second: purple_blue_mushroom-Sheet_17
+  - first:
+      213: 7239680846719888977
+    second: purple_blue_mushroom-Sheet_18
+  - first:
+      213: -4578869275750451249
+    second: purple_blue_mushroom-Sheet_19
+  - first:
+      213: -888056178836709224
+    second: purple_blue_mushroom-Sheet_20
+  - first:
+      213: 3874725073727328426
+    second: purple_blue_mushroom-Sheet_21
+  - first:
+      213: 6412180360893704056
+    second: purple_blue_mushroom-Sheet_22
+  - first:
+      213: -5817865751293396193
+    second: purple_blue_mushroom-Sheet_23
+  - first:
+      213: -3895350528926445751
+    second: purple_blue_mushroom-Sheet_24
+  - first:
+      213: 8022365139779308024
+    second: purple_blue_mushroom-Sheet_25
+  - first:
+      213: -5959419384797058439
+    second: purple_blue_mushroom-Sheet_26
+  - first:
+      213: -2306080069929711832
+    second: purple_blue_mushroom-Sheet_27
+  - first:
+      213: -4403719588087922236
+    second: purple_blue_mushroom-Sheet_28
+  - first:
+      213: -3954157293820853
+    second: purple_blue_mushroom-Sheet_29
+  - first:
+      213: 6489584761647824802
+    second: purple_blue_mushroom-Sheet_30
+  - first:
+      213: 6274844257440190792
+    second: purple_blue_mushroom-Sheet_31
+  - first:
+      213: 1537364244799202113
+    second: purple_blue_mushroom-Sheet_32
+  - first:
+      213: -1235286696810708866
+    second: purple_blue_mushroom-Sheet_33
+  - first:
+      213: 5288325881495544595
+    second: purple_blue_mushroom-Sheet_34
+  - first:
+      213: -2408921912928447291
+    second: purple_blue_mushroom-Sheet_35
+  - first:
+      213: 6906293208616343224
+    second: purple_blue_mushroom-Sheet_36
+  - first:
+      213: 4703371414215315399
+    second: purple_blue_mushroom-Sheet_37
+  - first:
+      213: -774838892099044273
+    second: purple_blue_mushroom-Sheet_38
+  - first:
+      213: 7676966915974042802
+    second: purple_blue_mushroom-Sheet_39
+  - first:
+      213: -5138777761807499537
+    second: purple_blue_mushroom-Sheet_40
+  - first:
+      213: -2977517230160544668
+    second: purple_blue_mushroom-Sheet_41
+  - first:
+      213: 4437110125162715373
+    second: purple_blue_mushroom-Sheet_42
+  - first:
+      213: 3179689715426866918
+    second: purple_blue_mushroom-Sheet_43
+  - first:
+      213: -9631227294290171
+    second: purple_blue_mushroom-Sheet_44
+  - first:
+      213: -8978444924709688895
+    second: purple_blue_mushroom-Sheet_45
+  - first:
+      213: -2997043229633156401
+    second: purple_blue_mushroom-Sheet_46
+  - first:
+      213: -8073495117017593505
+    second: purple_blue_mushroom-Sheet_47
+  - first:
+      213: 5604769252172975672
+    second: purple_blue_mushroom-Sheet_48
+  - first:
+      213: 6249787820445789633
+    second: purple_blue_mushroom-Sheet_49
+  - first:
+      213: 4057785527920902958
+    second: purple_blue_mushroom-Sheet_50
+  - first:
+      213: 6028482701467847830
+    second: purple_blue_mushroom-Sheet_51
+  - first:
+      213: -9196944681904933516
+    second: purple_blue_mushroom-Sheet_52
+  - first:
+      213: -7525027676611399631
+    second: purple_blue_mushroom-Sheet_53
+  - first:
+      213: -5284806412868624440
+    second: purple_blue_mushroom-Sheet_54
+  - first:
+      213: 8095900017564614225
+    second: purple_blue_mushroom-Sheet_55
+  - first:
+      213: 5784095421540442037
+    second: purple_blue_mushroom-Sheet_56
+  - first:
+      213: -959299898786754704
+    second: purple_blue_mushroom-Sheet_57
+  - first:
+      213: 2476625139440899283
+    second: purple_blue_mushroom-Sheet_58
+  - first:
+      213: 8049516597534200095
+    second: purple_blue_mushroom-Sheet_59
+  - first:
+      213: 242186448777831369
+    second: purple_blue_mushroom-Sheet_60
+  - first:
+      213: 1537448742293843569
+    second: purple_blue_mushroom-Sheet_61
+  - first:
+      213: -2224244537125001053
+    second: purple_blue_mushroom-Sheet_62
+  - first:
+      213: 5821078167714219832
+    second: purple_blue_mushroom-Sheet_63
+  - first:
+      213: -1493845800521530628
+    second: purple_blue_mushroom-Sheet_64
+  - first:
+      213: 1794438991350773678
+    second: purple_blue_mushroom-Sheet_65
+  - first:
+      213: -8521096375012211481
+    second: purple_blue_mushroom-Sheet_66
+  - first:
+      213: 6268690905358602795
+    second: purple_blue_mushroom-Sheet_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 604
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefbf3779818ffdb0800000000000000
+      internalID: -4755940254068785174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 604
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d0c15b91486dd00800000000000000
+      internalID: 997129613456706886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 604
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9ae61741066cd50800000000000000
+      internalID: 6757193931834698172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 604
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bedbed38955d4b40800000000000000
+      internalID: 5426087238413573817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 604
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7536a2207a6e7ee50800000000000000
+      internalID: 6838688164155646807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 604
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f7f5a3a38807ec0800000000000000
+      internalID: -3571204720835985649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 604
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d9a44b5d6e207c0800000000000000
+      internalID: -4106466104681259752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 492
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7667b35fcf42d6f00800000000000000
+      internalID: 1111585351895053927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 492
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f547cbf8567218370800000000000000
+      internalID: 8322976903514059871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 492
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878cecfa06d2ac850800000000000000
+      internalID: 6397976113922885752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 492
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3210d70ffa49577b0800000000000000
+      internalID: -5227108309118680797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 492
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cea562412eb89540800000000000000
+      internalID: 5014967235134205638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 492
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fbd10a76a33ea00800000000000000
+      internalID: 784534976834944903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 492
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849cde288ee1d8980800000000000000
+      internalID: -8535131734819354296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 396
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff60b9d8328b41e90800000000000000
+      internalID: -7055812253343611137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 399
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf42b9cc2bb79c360800000000000000
+      internalID: 7190414287940822267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 380
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8ef5b78bd168400800000000000000
+      internalID: 325980701212010693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 380
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3479de324a4f50150800000000000000
+      internalID: 5838341477770303299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 398
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e20f36f53887460800000000000000
+      internalID: 7239680846719888977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 380
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7b1f157a69470c0800000000000000
+      internalID: -4578869275750451249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 380
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890e8d74c9dfca3f0800000000000000
+      internalID: -888056178836709224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 380
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa011d5ece9c5c530800000000000000
+      internalID: 3874725073727328426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 380
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8772ec6a014acf850800000000000000
+      internalID: 6412180360893704056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 380
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bfe3f6ce9c24fa0800000000000000
+      internalID: -5817865751293396193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 289
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f85b7155fe0f9c0800000000000000
+      internalID: -3895350528926445751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 268
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9c50f179a255f60800000000000000
+      internalID: 8022365139779308024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 275
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a2895d4a3eb4da0800000000000000
+      internalID: -5959419384797058439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 282
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8274b3005682fffd0800000000000000
+      internalID: -2306080069929711832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 289
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c10795dd58d2e2c0800000000000000
+      internalID: -4403719588087922236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 268
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44ad1307b3f1fff0800000000000000
+      internalID: -3954157293820853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 268
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af7ec915f2af0a50800000000000000
+      internalID: 6489584761647824802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 268
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8415f994b99b41750800000000000000
+      internalID: 6274844257440190792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 278
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143a4a5a2a0d55510800000000000000
+      internalID: 1537364244799202113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 270
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7005d84b416bdee0800000000000000
+      internalID: -1235286696810708866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 270
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313eb07de58e36940800000000000000
+      internalID: 5288325881495544595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 272
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4de30884ac19ed0800000000000000
+      internalID: -2408921912928447291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 273
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b61546051518df50800000000000000
+      internalID: 6906293208616343224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 275
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfc707b16bb54140800000000000000
+      internalID: 4703371414215315399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 275
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c774602283f35f0800000000000000
+      internalID: -774838892099044273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 277
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b41f0b5cb01a8a60800000000000000
+      internalID: 7676966915974042802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 268
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee79cf1ad46fa8b0800000000000000
+      internalID: -5138777761807499537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 268
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cfcafcadbbda6d0800000000000000
+      internalID: -2977517230160544668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 267
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8dc976628c39d30800000000000000
+      internalID: 4437110125162715373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 268
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e63bff03f6802c20800000000000000
+      internalID: 3179689715426866918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 267
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f6f562378cddff0800000000000000
+      internalID: -9631227294290171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 174
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9254b29e7266380800000000000000
+      internalID: -8978444924709688895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 169
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcae939cf0d5866d0800000000000000
+      internalID: -2997043229633156401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 156
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59c05e57fe25ff80800000000000000
+      internalID: -8073495117017593505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 156
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e4dc380f328cd40800000000000000
+      internalID: 5604769252172975672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 156
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdeb3fe8e4bbb650800000000000000
+      internalID: 6249787820445789633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 156
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2342764076205830800000000000000
+      internalID: 4057785527920902958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 156
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c0493a31979a350800000000000000
+      internalID: 6028482701467847830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 155
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47573201a83ed5080800000000000000
+      internalID: -9196944681904933516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130389a823bb19790800000000000000
+      internalID: -7525027676611399631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 155
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf524e419898a6b0800000000000000
+      internalID: -5284806412868624440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 155
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e740c0c2a6a5070800000000000000
+      internalID: 8095900017564614225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 156
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf91e3f32c354050800000000000000
+      internalID: 5784095421540442037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 155
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f4fbb13d1efa2f0800000000000000
+      internalID: -959299898786754704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 44
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d45d2e417dbe5220800000000000000
+      internalID: 2476625139440899283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 44
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1113a182b0a5bf60800000000000000
+      internalID: 8049516597534200095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 56
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3e0d0ca4b6c5300800000000000000
+      internalID: 242186448777831369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17eabc04c7d165510800000000000000
+      internalID: 1537448742293843569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 53
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8af07c065e121e0800000000000000
+      internalID: -2224244537125001053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 45
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837436c80cf98c050800000000000000
+      internalID: 5821078167714219832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 44
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf284beb82bc44be0800000000000000
+      internalID: -1493845800521530628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 45
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7b29a51c027e810800000000000000
+      internalID: 1794438991350773678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 45
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4478e5efbfeb980800000000000000
+      internalID: -8521096375012211481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_blue_mushroom-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 45
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b221f9c5a2ddef650800000000000000
+      internalID: 6268690905358602795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

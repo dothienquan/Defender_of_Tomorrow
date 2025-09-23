@@ -1,0 +1,2492 @@
+fileFormatVersion: 2
+guid: b61ba03d3faf9b545ac6cc54e2fada19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4001087669408451636
+    second: wretchbjorn-Sheet_0
+  - first:
+      213: -6911216693655610283
+    second: wretchbjorn-Sheet_1
+  - first:
+      213: -8660425334353576779
+    second: wretchbjorn-Sheet_2
+  - first:
+      213: -847331216243892269
+    second: wretchbjorn-Sheet_3
+  - first:
+      213: 1070522450290421462
+    second: wretchbjorn-Sheet_4
+  - first:
+      213: -1237561243607931579
+    second: wretchbjorn-Sheet_5
+  - first:
+      213: -1776474402104664607
+    second: wretchbjorn-Sheet_6
+  - first:
+      213: -4339077003730257953
+    second: wretchbjorn-Sheet_7
+  - first:
+      213: -4651318856576702585
+    second: wretchbjorn-Sheet_8
+  - first:
+      213: -5302605132129490475
+    second: wretchbjorn-Sheet_9
+  - first:
+      213: -2625502362170322959
+    second: wretchbjorn-Sheet_10
+  - first:
+      213: -6464740145036511676
+    second: wretchbjorn-Sheet_11
+  - first:
+      213: 3488685865774233676
+    second: wretchbjorn-Sheet_12
+  - first:
+      213: -619321243124531122
+    second: wretchbjorn-Sheet_13
+  - first:
+      213: -7574252350683861500
+    second: wretchbjorn-Sheet_14
+  - first:
+      213: 6046276365863022909
+    second: wretchbjorn-Sheet_15
+  - first:
+      213: 2304882965407546574
+    second: wretchbjorn-Sheet_16
+  - first:
+      213: 206938522707004656
+    second: wretchbjorn-Sheet_17
+  - first:
+      213: -6230056489166407407
+    second: wretchbjorn-Sheet_18
+  - first:
+      213: 4971903236516915193
+    second: wretchbjorn-Sheet_19
+  - first:
+      213: 7883217736389795908
+    second: wretchbjorn-Sheet_20
+  - first:
+      213: -6351252359344496480
+    second: wretchbjorn-Sheet_21
+  - first:
+      213: 3323841803651047817
+    second: wretchbjorn-Sheet_22
+  - first:
+      213: -1035885007637727933
+    second: wretchbjorn-Sheet_23
+  - first:
+      213: -9109769680915672287
+    second: wretchbjorn-Sheet_24
+  - first:
+      213: -6531967064170984067
+    second: wretchbjorn-Sheet_25
+  - first:
+      213: -6008955408777861343
+    second: wretchbjorn-Sheet_26
+  - first:
+      213: -2196532348484373198
+    second: wretchbjorn-Sheet_27
+  - first:
+      213: 5093667668702320063
+    second: wretchbjorn-Sheet_28
+  - first:
+      213: -3939259577930936381
+    second: wretchbjorn-Sheet_29
+  - first:
+      213: -1855322901462492329
+    second: wretchbjorn-Sheet_30
+  - first:
+      213: -3301634636191440099
+    second: wretchbjorn-Sheet_31
+  - first:
+      213: -7141829865589786824
+    second: wretchbjorn-Sheet_32
+  - first:
+      213: -5491541026205733994
+    second: wretchbjorn-Sheet_33
+  - first:
+      213: 7205461187591695497
+    second: wretchbjorn-Sheet_34
+  - first:
+      213: 4898566871376392469
+    second: wretchbjorn-Sheet_35
+  - first:
+      213: 4871764048665628845
+    second: wretchbjorn-Sheet_36
+  - first:
+      213: -8828321664754708607
+    second: wretchbjorn-Sheet_37
+  - first:
+      213: 3787163265626516643
+    second: wretchbjorn-Sheet_38
+  - first:
+      213: 3655253260122805877
+    second: wretchbjorn-Sheet_39
+  - first:
+      213: -4654352946489303304
+    second: wretchbjorn-Sheet_40
+  - first:
+      213: -3420240387805760034
+    second: wretchbjorn-Sheet_41
+  - first:
+      213: -6282488013721854158
+    second: wretchbjorn-Sheet_42
+  - first:
+      213: -3905055567099474602
+    second: wretchbjorn-Sheet_43
+  - first:
+      213: -7661622620024050698
+    second: wretchbjorn-Sheet_44
+  - first:
+      213: -6762172345967868897
+    second: wretchbjorn-Sheet_45
+  - first:
+      213: -7367451209722582753
+    second: wretchbjorn-Sheet_46
+  - first:
+      213: -3909646531856394871
+    second: wretchbjorn-Sheet_47
+  - first:
+      213: -2822364838082130429
+    second: wretchbjorn-Sheet_48
+  - first:
+      213: 7315654191301794242
+    second: wretchbjorn-Sheet_49
+  - first:
+      213: 8105275066506521692
+    second: wretchbjorn-Sheet_50
+  - first:
+      213: -8921567115911126632
+    second: wretchbjorn-Sheet_51
+  - first:
+      213: 734911701410339534
+    second: wretchbjorn-Sheet_52
+  - first:
+      213: 5363622172863066979
+    second: wretchbjorn-Sheet_53
+  - first:
+      213: 7285349950902361174
+    second: wretchbjorn-Sheet_54
+  - first:
+      213: -1101864866388811540
+    second: wretchbjorn-Sheet_55
+  - first:
+      213: -82978414025983426
+    second: wretchbjorn-Sheet_56
+  - first:
+      213: 2973525589027827940
+    second: wretchbjorn-Sheet_57
+  - first:
+      213: 2387674555133273997
+    second: wretchbjorn-Sheet_58
+  - first:
+      213: -5605592045353105381
+    second: wretchbjorn-Sheet_59
+  - first:
+      213: -7581952612690860461
+    second: wretchbjorn-Sheet_60
+  - first:
+      213: -3979406641150854189
+    second: wretchbjorn-Sheet_61
+  - first:
+      213: -1459988707262618988
+    second: wretchbjorn-Sheet_62
+  - first:
+      213: 4819836224965503646
+    second: wretchbjorn-Sheet_63
+  - first:
+      213: 5076112313915966399
+    second: wretchbjorn-Sheet_64
+  - first:
+      213: 430971316889434076
+    second: wretchbjorn-Sheet_65
+  - first:
+      213: 8586373786809571076
+    second: wretchbjorn-Sheet_66
+  - first:
+      213: -3680107508109651913
+    second: wretchbjorn-Sheet_67
+  - first:
+      213: 5857810848886599569
+    second: wretchbjorn-Sheet_68
+  - first:
+      213: 7686724867986089193
+    second: wretchbjorn-Sheet_69
+  - first:
+      213: -1460720771986487095
+    second: wretchbjorn-Sheet_70
+  - first:
+      213: 9057031861339483733
+    second: wretchbjorn-Sheet_71
+  - first:
+      213: -754140313784604635
+    second: wretchbjorn-Sheet_72
+  - first:
+      213: 7067042823670058026
+    second: wretchbjorn-Sheet_73
+  - first:
+      213: 5433623712640094962
+    second: wretchbjorn-Sheet_74
+  - first:
+      213: -7850447170336187621
+    second: wretchbjorn-Sheet_75
+  - first:
+      213: 2038351174290243905
+    second: wretchbjorn-Sheet_76
+  - first:
+      213: -974942723866387232
+    second: wretchbjorn-Sheet_77
+  - first:
+      213: -4776092826361114472
+    second: wretchbjorn-Sheet_78
+  - first:
+      213: -1250804288492503719
+    second: wretchbjorn-Sheet_79
+  - first:
+      213: -7772412051393188046
+    second: wretchbjorn-Sheet_80
+  - first:
+      213: 6930334589457644703
+    second: wretchbjorn-Sheet_81
+  - first:
+      213: 8806885267631649484
+    second: wretchbjorn-Sheet_82
+  - first:
+      213: 8006792774317243348
+    second: wretchbjorn-Sheet_83
+  - first:
+      213: 2556335237136853985
+    second: wretchbjorn-Sheet_84
+  - first:
+      213: 657668218983360057
+    second: wretchbjorn-Sheet_85
+  - first:
+      213: -7123770080718328415
+    second: wretchbjorn-Sheet_86
+  - first:
+      213: 3027274775384698057
+    second: wretchbjorn-Sheet_87
+  - first:
+      213: -6226869497497500351
+    second: wretchbjorn-Sheet_88
+  - first:
+      213: -6675322440859314338
+    second: wretchbjorn-Sheet_89
+  - first:
+      213: -3092690335703454062
+    second: wretchbjorn-Sheet_90
+  - first:
+      213: -2759679660507016841
+    second: wretchbjorn-Sheet_91
+  - first:
+      213: -7028460403808711789
+    second: wretchbjorn-Sheet_92
+  - first:
+      213: -2506507612878225594
+    second: wretchbjorn-Sheet_93
+  - first:
+      213: -3565271379524916803
+    second: wretchbjorn-Sheet_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1719
+        width: 32
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3b6bd96f74978c0800000000000000
+      internalID: -4001087669408451636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1718
+        width: 32
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c58e8c80d6610a0800000000000000
+      internalID: -6911216693655610283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1718
+        width: 32
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcbf061b0dffc780800000000000000
+      internalID: -8660425334353576779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1719
+        width: 32
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfdea88fbcad34f0800000000000000
+      internalID: -847331216243892269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1720
+        width: 33
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de24a52f724bde00800000000000000
+      internalID: 1070522450290421462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1719
+        width: 30
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54565f61b9c43dee0800000000000000
+      internalID: -1237561243607931579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1718
+        width: 30
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed1af581f1b857e0800000000000000
+      internalID: -1776474402104664607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1722
+        width: 30
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7779b547088c3c0800000000000000
+      internalID: -4339077003730257953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 1720
+        width: 30
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7876ba8c422337fb0800000000000000
+      internalID: -4651318856576702585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1511
+        width: 30
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9224b0abc5966b0800000000000000
+      internalID: -5302605132129490475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1510
+        width: 30
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff83e91387509bd0800000000000000
+      internalID: -2625502362170322959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1514
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44634e9f611a846a0800000000000000
+      internalID: -6464740145036511676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1511
+        width: 32
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c483662af4d4a6030800000000000000
+      internalID: 3488685865774233676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1512
+        width: 34
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4085b55c9ab767f0800000000000000
+      internalID: -619321243124531122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1515
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e225efd99d2e690800000000000000
+      internalID: -7574252350683861500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1520
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31fa19f150b8e350800000000000000
+      internalID: 6046276365863022909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1522
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc37f168d69cff10800000000000000
+      internalID: 2304882965407546574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1555
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc8b407d713fd200800000000000000
+      internalID: 206938522707004656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1505
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1197e90a1a46a89a0800000000000000
+      internalID: -6230056489166407407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1353
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7a43eb6afbff440800000000000000
+      internalID: 4971903236516915193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1356
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440a290a3c0d66d60800000000000000
+      internalID: 7883217736389795908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1353
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0e86a21a1dbd7a0800000000000000
+      internalID: -6351252359344496480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1347
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981e63c8288a02e20800000000000000
+      internalID: 3323841803651047817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1353
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345b99be21ccf91f0800000000000000
+      internalID: -1035885007637727933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1356
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123d567adb8939180800000000000000
+      internalID: -9109769680915672287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1357
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d898f109ac955a0800000000000000
+      internalID: -6531967064170984067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 1353
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12722ac74e6eb9ca0800000000000000
+      internalID: -6008955408777861343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 1347
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2353fee77795481e0800000000000000
+      internalID: -2196532348484373198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1291
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5d4ecd1c750b640800000000000000
+      internalID: 5093667668702320063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1288
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf0f53f840f459c0800000000000000
+      internalID: -3939259577930936381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1291
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b5eaaa6a19046e0800000000000000
+      internalID: -1855322901462492329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1297
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13eeab8acc3e22d0800000000000000
+      internalID: -3301634636191440099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1291
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837be37839f13ec90800000000000000
+      internalID: -7141829865589786824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1281
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69be58738802ac3b0800000000000000
+      internalID: -5491541026205733994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1285
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c644126c0fef360800000000000000
+      internalID: 7205461187591695497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 1293
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511f2e4ad943bf340800000000000000
+      internalID: 4898566871376392469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 1299
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0db3e279bfb9340800000000000000
+      internalID: 4871764048665628845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1140
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f096968308b7580800000000000000
+      internalID: -8828321664754708607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1146
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aca312cce4be8430800000000000000
+      internalID: 3787163265626516643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1104
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57655b549711ab230800000000000000
+      internalID: 3655253260122805877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1140
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe563da7aa686fb0800000000000000
+      internalID: -4654352946489303304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1106
+        width: 97
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5b46e0d7dd880d0800000000000000
+      internalID: -3420240387805760034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1095
+        width: 32
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f9574007e10d8a0800000000000000
+      internalID: -6282488013721854158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1096
+        width: 34
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65dcfdec6a47ec9c0800000000000000
+      internalID: -3905055567099474602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1099
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb6e52f1d27ca590800000000000000
+      internalID: -7661622620024050698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1104
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f148d903410f722a0800000000000000
+      internalID: -6762172345967868897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1106
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19a670c82e81c990800000000000000
+      internalID: -7367451209722582753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1106
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9859c5781352eb9c0800000000000000
+      internalID: -3909646531856394871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1106
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ecf8f1222f4d8d0800000000000000
+      internalID: -2822364838082130429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 928
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9142c1abc668560800000000000000
+      internalID: 7315654191301794242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 929
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ca3f9bab8bb7070800000000000000
+      internalID: 8105275066506521692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 891
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891af400af9303480800000000000000
+      internalID: -8921567115911126632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 896
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca57d77c4ee23a00800000000000000
+      internalID: 734911701410339534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 898
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36379e2d2f96f6a40800000000000000
+      internalID: 5363622172863066979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 948
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cd1ff4e23ca1560800000000000000
+      internalID: 7285349950902361174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 939
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce06960fdb365b0f0800000000000000
+      internalID: -1101864866388811540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 896
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ab4f3729339def0800000000000000
+      internalID: -82978414025983426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 891
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0b980d4c5144920800000000000000
+      internalID: 2973525589027827940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 887
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8725f18b59b22120800000000000000
+      internalID: 2387674555133273997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 887
+        width: 36
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1809f40cbfe432b0800000000000000
+      internalID: -5605592045353105381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 930
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35667b8054e77c690800000000000000
+      internalID: -7581952612690860461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 921
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db7f516ebe46c8c0800000000000000
+      internalID: -3979406641150854189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 891
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492a78f81041dbbe0800000000000000
+      internalID: -1459988707262618988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 883
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ae0a0928f73e240800000000000000
+      internalID: 4819836224965503646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 678
+        width: 42
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb382fe4149f17640800000000000000
+      internalID: 5076112313915966399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 671
+        width: 35
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7b39b112e1bf500800000000000000
+      internalID: 430971316889434076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 677
+        width: 34
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407928f677de82770800000000000000
+      internalID: 8586373786809571076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 685
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73050eb28b1adecc0800000000000000
+      internalID: -3680107508109651913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 685
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fa0595eef1b4150800000000000000
+      internalID: 5857810848886599569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 683
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4e87a9a8bbcaa60800000000000000
+      internalID: 7686724867986089193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 710
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c806b5723a7abbe0800000000000000
+      internalID: -1460720771986487095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 679
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ee88edd7a01bd70800000000000000
+      internalID: 9057031861339483733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 679
+        width: 41
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52821165161c885f0800000000000000
+      internalID: -754140313784604635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 678
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2cc35d510e231260800000000000000
+      internalID: 7067042823670058026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 462
+        width: 35
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f25d036afb186b40800000000000000
+      internalID: 5433623712640094962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 468
+        width: 27
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b142c54eb9d0390800000000000000
+      internalID: -7850447170336187621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 484
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1410217e79da94c10800000000000000
+      internalID: 2038351174290243905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 484
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec979312ce4872f0800000000000000
+      internalID: -974942723866387232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 482
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890547611e8e7bdb0800000000000000
+      internalID: -4776092826361114472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 510
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d7edc602044aee0800000000000000
+      internalID: -1250804288492503719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 482
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f6eb45b68d22490800000000000000
+      internalID: -7772412051393188046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 510
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cb933379e7d2060800000000000000
+      internalID: 6930334589457644703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 482
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc23ec27d77583a70800000000000000
+      internalID: 8806885267631649484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 480
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbf75f3b97dd1f60800000000000000
+      internalID: 8006792774317243348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 471
+        width: 33
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb2b58aa5de97320800000000000000
+      internalID: 2556335237136853985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 263
+        width: 30
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936219cb2c1802900800000000000000
+      internalID: 657668218983360057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 263
+        width: 33
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad6a3ddad8432d90800000000000000
+      internalID: -7123770080718328415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 263
+        width: 30
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc2e487e5a030a20800000000000000
+      internalID: 3027274775384698057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 263
+        width: 32
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14542f2fe27b599a0800000000000000
+      internalID: -6226869497497500351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 268
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57136f7b9d7c53a0800000000000000
+      internalID: -6675322440859314338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 276
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29eac14868e8415d0800000000000000
+      internalID: -3092690335703454062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 281
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771db9d58f5a3b9d0800000000000000
+      internalID: -2759679660507016841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 286
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b45194084e57e90800000000000000
+      internalID: -7028460403808711789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 286
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fb49b2b98173dd0800000000000000
+      internalID: -2506507612878225594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wretchbjorn-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 78
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9ec87e19c958ec0800000000000000
+      internalID: -3565271379524916803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

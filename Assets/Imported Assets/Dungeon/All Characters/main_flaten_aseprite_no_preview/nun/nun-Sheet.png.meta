@@ -1,0 +1,2567 @@
+fileFormatVersion: 2
+guid: 17366099bd82c27468e24ba615e2f67a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -578677276978903602
+    second: nun-Sheet_0
+  - first:
+      213: -2174485825474277779
+    second: nun-Sheet_1
+  - first:
+      213: -7544622783821436042
+    second: nun-Sheet_2
+  - first:
+      213: -8405820080492270363
+    second: nun-Sheet_3
+  - first:
+      213: -6813208280290320516
+    second: nun-Sheet_4
+  - first:
+      213: 561999178513831344
+    second: nun-Sheet_5
+  - first:
+      213: 2124858590941078107
+    second: nun-Sheet_6
+  - first:
+      213: -735419229072583268
+    second: nun-Sheet_7
+  - first:
+      213: 4858281086404787000
+    second: nun-Sheet_8
+  - first:
+      213: -8109236570540493670
+    second: nun-Sheet_9
+  - first:
+      213: 3759970172704111703
+    second: nun-Sheet_10
+  - first:
+      213: 4855052252512460554
+    second: nun-Sheet_11
+  - first:
+      213: 7900543347326651546
+    second: nun-Sheet_12
+  - first:
+      213: -4711959006695492980
+    second: nun-Sheet_13
+  - first:
+      213: -2873042599376624117
+    second: nun-Sheet_14
+  - first:
+      213: 6616724511022897173
+    second: nun-Sheet_15
+  - first:
+      213: -4702556652376219298
+    second: nun-Sheet_16
+  - first:
+      213: -4190230316034821286
+    second: nun-Sheet_17
+  - first:
+      213: -8354502196166705247
+    second: nun-Sheet_18
+  - first:
+      213: -5546003601169593641
+    second: nun-Sheet_19
+  - first:
+      213: -1655638413048713989
+    second: nun-Sheet_20
+  - first:
+      213: 7309513898027984062
+    second: nun-Sheet_21
+  - first:
+      213: 153937236054508
+    second: nun-Sheet_22
+  - first:
+      213: 2651293806013900737
+    second: nun-Sheet_23
+  - first:
+      213: -6999589616787906162
+    second: nun-Sheet_24
+  - first:
+      213: 4052354671959028893
+    second: nun-Sheet_25
+  - first:
+      213: 147191142829826835
+    second: nun-Sheet_26
+  - first:
+      213: -3803721967937073275
+    second: nun-Sheet_27
+  - first:
+      213: 566735315562297145
+    second: nun-Sheet_28
+  - first:
+      213: 1886401558527520388
+    second: nun-Sheet_29
+  - first:
+      213: 3216648304936714020
+    second: nun-Sheet_30
+  - first:
+      213: -7029963798012672631
+    second: nun-Sheet_31
+  - first:
+      213: -8007611208000701076
+    second: nun-Sheet_32
+  - first:
+      213: 5256016339410492068
+    second: nun-Sheet_33
+  - first:
+      213: -5543765988373097916
+    second: nun-Sheet_34
+  - first:
+      213: 7830473339302735679
+    second: nun-Sheet_35
+  - first:
+      213: 7281650717160694685
+    second: nun-Sheet_36
+  - first:
+      213: 5382443639951362610
+    second: nun-Sheet_37
+  - first:
+      213: 8572340307450359651
+    second: nun-Sheet_38
+  - first:
+      213: 8039526646103415435
+    second: nun-Sheet_39
+  - first:
+      213: 4895223007018778969
+    second: nun-Sheet_40
+  - first:
+      213: -4291142133687470964
+    second: nun-Sheet_41
+  - first:
+      213: -5558747904955914770
+    second: nun-Sheet_42
+  - first:
+      213: 6584386709181617465
+    second: nun-Sheet_43
+  - first:
+      213: 7640736220183967408
+    second: nun-Sheet_44
+  - first:
+      213: -7747897944103690465
+    second: nun-Sheet_45
+  - first:
+      213: -8892684293403338867
+    second: nun-Sheet_46
+  - first:
+      213: -4931200555423505319
+    second: nun-Sheet_47
+  - first:
+      213: 7125624079626308489
+    second: nun-Sheet_48
+  - first:
+      213: -4948305448759678014
+    second: nun-Sheet_49
+  - first:
+      213: -1927587060834733587
+    second: nun-Sheet_50
+  - first:
+      213: 4126010083240989303
+    second: nun-Sheet_51
+  - first:
+      213: 834648382203354749
+    second: nun-Sheet_52
+  - first:
+      213: 8314499417375551163
+    second: nun-Sheet_53
+  - first:
+      213: 6797445915906393639
+    second: nun-Sheet_54
+  - first:
+      213: 4075830733523661359
+    second: nun-Sheet_55
+  - first:
+      213: 6191982943440191257
+    second: nun-Sheet_56
+  - first:
+      213: 3453807146805532197
+    second: nun-Sheet_57
+  - first:
+      213: -3640412736594747957
+    second: nun-Sheet_58
+  - first:
+      213: 7216956127307449718
+    second: nun-Sheet_59
+  - first:
+      213: 418567032128800585
+    second: nun-Sheet_60
+  - first:
+      213: 1480419982766639641
+    second: nun-Sheet_61
+  - first:
+      213: -518638808159222681
+    second: nun-Sheet_62
+  - first:
+      213: -9201047945689923633
+    second: nun-Sheet_63
+  - first:
+      213: -334303752473075927
+    second: nun-Sheet_64
+  - first:
+      213: -563265236808169155
+    second: nun-Sheet_65
+  - first:
+      213: -2437726518061369741
+    second: nun-Sheet_66
+  - first:
+      213: 3654575637628128674
+    second: nun-Sheet_67
+  - first:
+      213: -3716614619814509816
+    second: nun-Sheet_68
+  - first:
+      213: 3966840791678136163
+    second: nun-Sheet_69
+  - first:
+      213: 3578190225268786650
+    second: nun-Sheet_70
+  - first:
+      213: 1028200822428949570
+    second: nun-Sheet_71
+  - first:
+      213: -7767079938354363785
+    second: nun-Sheet_72
+  - first:
+      213: 2484564832237993860
+    second: nun-Sheet_73
+  - first:
+      213: 7502517491553443305
+    second: nun-Sheet_74
+  - first:
+      213: -8462861383573565502
+    second: nun-Sheet_75
+  - first:
+      213: 868858654177157312
+    second: nun-Sheet_76
+  - first:
+      213: -4596742869807245157
+    second: nun-Sheet_77
+  - first:
+      213: -2763346696260818345
+    second: nun-Sheet_78
+  - first:
+      213: 3459974556791071189
+    second: nun-Sheet_79
+  - first:
+      213: -835805343848384570
+    second: nun-Sheet_80
+  - first:
+      213: -2885640942833110200
+    second: nun-Sheet_81
+  - first:
+      213: -2282030920791302265
+    second: nun-Sheet_82
+  - first:
+      213: 2653333465161823424
+    second: nun-Sheet_83
+  - first:
+      213: 5280884729155363841
+    second: nun-Sheet_84
+  - first:
+      213: 3328042344124397192
+    second: nun-Sheet_85
+  - first:
+      213: 7002392967351951511
+    second: nun-Sheet_86
+  - first:
+      213: -962595082132933767
+    second: nun-Sheet_87
+  - first:
+      213: -8288385861202920365
+    second: nun-Sheet_88
+  - first:
+      213: 8453261876357767294
+    second: nun-Sheet_89
+  - first:
+      213: 4781932453482352028
+    second: nun-Sheet_90
+  - first:
+      213: 2545099326252527327
+    second: nun-Sheet_91
+  - first:
+      213: -333085686939024839
+    second: nun-Sheet_92
+  - first:
+      213: -429328944145172611
+    second: nun-Sheet_93
+  - first:
+      213: -8806757039669132477
+    second: nun-Sheet_94
+  - first:
+      213: 3063767262569958296
+    second: nun-Sheet_95
+  - first:
+      213: 8075806942163182522
+    second: nun-Sheet_96
+  - first:
+      213: -5030964757741574393
+    second: nun-Sheet_97
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nun-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 924
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec50512251028f7f0800000000000000
+      internalID: -578677276978903602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 923
+        width: 13
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ecb73a9aca2d1e0800000000000000
+      internalID: -2174485825474277779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 923
+        width: 13
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b210e1d8d1c4790800000000000000
+      internalID: -7544622783821436042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 924
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eca9683c27885b80800000000000000
+      internalID: -8405820080492270363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 924
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f9b80ca2f9271a0800000000000000
+      internalID: -6813208280290320516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 924
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5d067764f9cc700800000000000000
+      internalID: 561999178513831344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 946
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52eaf661a30d7d10800000000000000
+      internalID: 2124858590941078107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 924
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95132a8b144bc5f0800000000000000
+      internalID: -735419229072583268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 924
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bf72668e41c6340800000000000000
+      internalID: 4858281086404787000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 922
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94b35dbd44367f80800000000000000
+      internalID: -8109236570540493670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 812
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cb71e63f81e2430800000000000000
+      internalID: 3759970172704111703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 834
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f17fcec4c906340800000000000000
+      internalID: 4855052252512460554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 812
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c0bf5c05e54ad60800000000000000
+      internalID: 7900543347326651546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 811
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8276b99f32cb9eb0800000000000000
+      internalID: -4711959006695492980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 810
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0667975af6e028d0800000000000000
+      internalID: -2873042599376624117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 838
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518d328c2e353db50800000000000000
+      internalID: 6616724511022897173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 843
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5127fec3a92dbeb0800000000000000
+      internalID: -4702556652376219298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 848
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53fba57abf49d5c0800000000000000
+      internalID: -4190230316034821286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 846
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af33424488de0c80800000000000000
+      internalID: -8354502196166705247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 810
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dacf35db13a803b0800000000000000
+      internalID: -5546003601169593641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 803
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc6db1a2adf509e0800000000000000
+      internalID: -1655638413048713989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 798
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb42dbca92c907560800000000000000
+      internalID: 7309513898027984062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 794
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1d54e410c800000800000000000000
+      internalID: 153937236054508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 797
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7e6ae5ba94bc420800000000000000
+      internalID: 2651293806013900737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 727
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8128d534567cde90800000000000000
+      internalID: -6999589616787906162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 692
+        width: 19
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9433069a1bdc3830800000000000000
+      internalID: 4052354671959028893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 697
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313a476809dea0200800000000000000
+      internalID: 147191142829826835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 701
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fc2cce507763bc0800000000000000
+      internalID: -3803721967937073275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 700
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93772cd44c27dd700800000000000000
+      internalID: 566735315562297145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 699
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ea6cf0938dd2a10800000000000000
+      internalID: 1886401558527520388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 699
+        width: 93
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f7d1f3794d3ac20800000000000000
+      internalID: 3216648304936714020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 699
+        width: 73
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985499b0c2d807e90800000000000000
+      internalID: -7029963798012672631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 699
+        width: 131
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d7eaf48004fd090800000000000000
+      internalID: -8007611208000701076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 688
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa163c530f11f840800000000000000
+      internalID: 5256016339410492068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 587
+        width: 97
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4421129a4369013b0800000000000000
+      internalID: -5543765988373097916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 587
+        width: 94
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f6e44b30e6bac60800000000000000
+      internalID: 7830473339302735679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 587
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93e4d65fbe9d0560800000000000000
+      internalID: 7281650717160694685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 587
+        width: 82
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a8cde19f742ba40800000000000000
+      internalID: 5382443639951362610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 587
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f6757671217f670800000000000000
+      internalID: 8572340307450359651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 588
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a184fa3e2229f60800000000000000
+      internalID: 8039526646103415435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 588
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9518cad83635fe340800000000000000
+      internalID: 4895223007018778969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 588
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84b8d007fcc274c0800000000000000
+      internalID: -4291142133687470964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 588
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5e7216b3c5bd2b0800000000000000
+      internalID: -5558747904955914770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 476
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935d29093d0706b50800000000000000
+      internalID: 6584386709181617465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 476
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6b6822c19590a60800000000000000
+      internalID: 7640736220183967408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 476
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f58b5bedfe97490800000000000000
+      internalID: -7747897944103690465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 475
+        width: 93
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d879ff720c6d69480800000000000000
+      internalID: -8892684293403338867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 475
+        width: 73
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954e5c1b83bd09bb0800000000000000
+      internalID: -4931200555423505319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 475
+        width: 131
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b8815e85d43e260800000000000000
+      internalID: 7125624079626308489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 475
+        width: 97
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbac8e5966145bb0800000000000000
+      internalID: -4948305448759678014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 475
+        width: 94
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de17e4de7c5df35e0800000000000000
+      internalID: -1927587060834733587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 475
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77252476f48824930800000000000000
+      internalID: 4126010083240989303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 363
+        width: 82
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ed59d0844459b00800000000000000
+      internalID: 834648382203354749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 363
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbeacd10b29036370800000000000000
+      internalID: 8314499417375551163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 364
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726c78dcb01655e50800000000000000
+      internalID: 6797445915906393639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 364
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f223c4c1572409830800000000000000
+      internalID: 4075830733523661359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 363
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fb7073ea75ee550800000000000000
+      internalID: 6191982943440191257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 404
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5269c0c0d436eef20800000000000000
+      internalID: 3453807146805532197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 363
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd567f57e7aa7dc0800000000000000
+      internalID: -3640412736594747957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 383
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6754db75c57c72460800000000000000
+      internalID: 7216956127307449718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 364
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9470ab08f7c0fc500800000000000000
+      internalID: 418567032128800585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 364
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a023771228b8410800000000000000
+      internalID: 1480419982766639641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 364
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76400f870cc6dc8f0800000000000000
+      internalID: -518638808159222681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 253
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf70d384af4f4080800000000000000
+      internalID: -9201047945689923633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 253
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f13c222805c5bf0800000000000000
+      internalID: -334303752473075927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 251
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3909bd5041ee28f0800000000000000
+      internalID: -563265236808169155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 271
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376f66fb5a47b2ed0800000000000000
+      internalID: -2437726518061369741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 251
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad0f9dfd29a7b230800000000000000
+      internalID: 3654575637628128674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 271
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803ceead1beeb6cc0800000000000000
+      internalID: -3716614619814509816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 275
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f218cceac0d0730800000000000000
+      internalID: 3966840791678136163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 251
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5cbe34d0948a130800000000000000
+      internalID: 3578190225268786650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 275
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c54aa4337e44e00800000000000000
+      internalID: 1028200822428949570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 252
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7724354a2f9c53490800000000000000
+      internalID: -7767079938354363785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 252
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f39f61d82fa7220800000000000000
+      internalID: 2484564832237993860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 252
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed923598eb4e1860800000000000000
+      internalID: 7502517491553443305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 253
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf0ab8e860ed8a80800000000000000
+      internalID: -8462861383573565502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 185
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0e042b75ece0c00800000000000000
+      internalID: 868858654177157312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 201
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b985459e6b61530c0800000000000000
+      internalID: -4596742869807245157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 209
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75aef1212de96a9d0800000000000000
+      internalID: -2763346696260818345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 193
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1eb65178c440030800000000000000
+      internalID: 3459974556791071189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 142
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c73b82d77f9664f0800000000000000
+      internalID: -835805343848384570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 142
+        width: 21
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843fb1de9d424f7d0800000000000000
+      internalID: -2885640942833110200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 177
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fd6cfd7f89450e0800000000000000
+      internalID: -2282030920791302265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 187
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c470a58ab882d420800000000000000
+      internalID: 2653333465161823424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 184
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104271d8ea8794940800000000000000
+      internalID: 5280884729155363841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 142
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8863ef611e49f2e20800000000000000
+      internalID: 3328042344124397192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 85
+        width: 52
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790e4b4bd4f7d2160800000000000000
+      internalID: 7002392967351951511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 142
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973bde27fdc24a2f0800000000000000
+      internalID: -962595082132933767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 142
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c31a519fcb9fc80800000000000000
+      internalID: -8288385861202920365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 142
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7028a5a3e4005570800000000000000
+      internalID: 8453261876357767294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 142
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d4abd0b36dc5240800000000000000
+      internalID: 4781932453482352028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 142
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde2e5b4a52025320800000000000000
+      internalID: 2545099326252527327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 82
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9328b3e1554a06bf0800000000000000
+      internalID: -333085686939024839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77fe689997ba0af0800000000000000
+      internalID: -429328944145172611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 69
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343c953f12d18c580800000000000000
+      internalID: -8806757039669132477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 30
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b04ffb710b48a20800000000000000
+      internalID: 3063767262569958296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 30
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3254e50a7031070800000000000000
+      internalID: 8075806942163182522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nun-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 30
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707ed41453c6e2ab0800000000000000
+      internalID: -5030964757741574393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

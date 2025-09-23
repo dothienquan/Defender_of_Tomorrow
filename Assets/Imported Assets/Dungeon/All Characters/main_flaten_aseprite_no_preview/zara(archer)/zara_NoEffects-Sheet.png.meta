@@ -1,0 +1,4267 @@
+fileFormatVersion: 2
+guid: f1debc1772df44842b8dec105c1eb307
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5051609853131739260
+    second: zara_NoEffects-Sheet_0
+  - first:
+      213: -6542619229582974573
+    second: zara_NoEffects-Sheet_1
+  - first:
+      213: -4535415582055080037
+    second: zara_NoEffects-Sheet_2
+  - first:
+      213: -4657086732670294110
+    second: zara_NoEffects-Sheet_3
+  - first:
+      213: -6803983065976188164
+    second: zara_NoEffects-Sheet_4
+  - first:
+      213: 1729888780500148764
+    second: zara_NoEffects-Sheet_5
+  - first:
+      213: 2177233392355223106
+    second: zara_NoEffects-Sheet_6
+  - first:
+      213: -766527537729828810
+    second: zara_NoEffects-Sheet_7
+  - first:
+      213: -3386331576321664089
+    second: zara_NoEffects-Sheet_8
+  - first:
+      213: 7322492816149854940
+    second: zara_NoEffects-Sheet_9
+  - first:
+      213: -7426797764889162313
+    second: zara_NoEffects-Sheet_10
+  - first:
+      213: 1597056458846544997
+    second: zara_NoEffects-Sheet_11
+  - first:
+      213: 5649304098941007657
+    second: zara_NoEffects-Sheet_12
+  - first:
+      213: 2902197442251572289
+    second: zara_NoEffects-Sheet_13
+  - first:
+      213: -7611585080915858339
+    second: zara_NoEffects-Sheet_14
+  - first:
+      213: -7539111408469837942
+    second: zara_NoEffects-Sheet_15
+  - first:
+      213: 2525279237561231308
+    second: zara_NoEffects-Sheet_16
+  - first:
+      213: -6200420098825073604
+    second: zara_NoEffects-Sheet_17
+  - first:
+      213: 486511790585273838
+    second: zara_NoEffects-Sheet_18
+  - first:
+      213: -5102012678683654385
+    second: zara_NoEffects-Sheet_19
+  - first:
+      213: 928788758990122452
+    second: zara_NoEffects-Sheet_20
+  - first:
+      213: 8531633772647103020
+    second: zara_NoEffects-Sheet_21
+  - first:
+      213: 7313280415828732086
+    second: zara_NoEffects-Sheet_22
+  - first:
+      213: -5112494785679901691
+    second: zara_NoEffects-Sheet_23
+  - first:
+      213: 1747550494043341702
+    second: zara_NoEffects-Sheet_24
+  - first:
+      213: 5176837230140244854
+    second: zara_NoEffects-Sheet_25
+  - first:
+      213: 4650670832292281694
+    second: zara_NoEffects-Sheet_26
+  - first:
+      213: -3677913121154043968
+    second: zara_NoEffects-Sheet_27
+  - first:
+      213: 7687915903511157455
+    second: zara_NoEffects-Sheet_28
+  - first:
+      213: 7653743939553901172
+    second: zara_NoEffects-Sheet_29
+  - first:
+      213: 465777680299785710
+    second: zara_NoEffects-Sheet_30
+  - first:
+      213: -3735645603663497474
+    second: zara_NoEffects-Sheet_31
+  - first:
+      213: 8370944332379620591
+    second: zara_NoEffects-Sheet_32
+  - first:
+      213: -4159987175250131486
+    second: zara_NoEffects-Sheet_33
+  - first:
+      213: 2283124383658531153
+    second: zara_NoEffects-Sheet_34
+  - first:
+      213: 1862600094768344820
+    second: zara_NoEffects-Sheet_35
+  - first:
+      213: -6940677131051856008
+    second: zara_NoEffects-Sheet_36
+  - first:
+      213: 1314827235612431681
+    second: zara_NoEffects-Sheet_37
+  - first:
+      213: -7555078196229071896
+    second: zara_NoEffects-Sheet_38
+  - first:
+      213: 5713895541608562771
+    second: zara_NoEffects-Sheet_39
+  - first:
+      213: 8777390966847592384
+    second: zara_NoEffects-Sheet_40
+  - first:
+      213: 3424214968523042459
+    second: zara_NoEffects-Sheet_41
+  - first:
+      213: 7569878806462087987
+    second: zara_NoEffects-Sheet_42
+  - first:
+      213: -4415120028014461411
+    second: zara_NoEffects-Sheet_43
+  - first:
+      213: -8013344128309241619
+    second: zara_NoEffects-Sheet_44
+  - first:
+      213: 1390984105130456007
+    second: zara_NoEffects-Sheet_45
+  - first:
+      213: -2278754869512067813
+    second: zara_NoEffects-Sheet_46
+  - first:
+      213: 4187806938887752397
+    second: zara_NoEffects-Sheet_47
+  - first:
+      213: 2858380800762413973
+    second: zara_NoEffects-Sheet_48
+  - first:
+      213: 8532299278567302589
+    second: zara_NoEffects-Sheet_49
+  - first:
+      213: -6089807447359838195
+    second: zara_NoEffects-Sheet_50
+  - first:
+      213: -1384156809617224019
+    second: zara_NoEffects-Sheet_51
+  - first:
+      213: 2627899679391480223
+    second: zara_NoEffects-Sheet_52
+  - first:
+      213: 6310365589749972437
+    second: zara_NoEffects-Sheet_53
+  - first:
+      213: 3519541073592682029
+    second: zara_NoEffects-Sheet_54
+  - first:
+      213: 5727719766785288187
+    second: zara_NoEffects-Sheet_55
+  - first:
+      213: -1263833988086739418
+    second: zara_NoEffects-Sheet_56
+  - first:
+      213: -3563372380479899551
+    second: zara_NoEffects-Sheet_57
+  - first:
+      213: -3119570581809888241
+    second: zara_NoEffects-Sheet_58
+  - first:
+      213: 2432501744204704993
+    second: zara_NoEffects-Sheet_59
+  - first:
+      213: -8604889859165466900
+    second: zara_NoEffects-Sheet_60
+  - first:
+      213: -1074853403885108284
+    second: zara_NoEffects-Sheet_61
+  - first:
+      213: 4195647424291972492
+    second: zara_NoEffects-Sheet_62
+  - first:
+      213: 7584069672767137950
+    second: zara_NoEffects-Sheet_63
+  - first:
+      213: -6827989949450280800
+    second: zara_NoEffects-Sheet_64
+  - first:
+      213: 4761857315588290295
+    second: zara_NoEffects-Sheet_65
+  - first:
+      213: 6719877807926357514
+    second: zara_NoEffects-Sheet_66
+  - first:
+      213: 5854636320303156831
+    second: zara_NoEffects-Sheet_67
+  - first:
+      213: 5414335685401077925
+    second: zara_NoEffects-Sheet_68
+  - first:
+      213: -7720727311132770097
+    second: zara_NoEffects-Sheet_69
+  - first:
+      213: -5515099891069557496
+    second: zara_NoEffects-Sheet_70
+  - first:
+      213: -5424120315988008609
+    second: zara_NoEffects-Sheet_71
+  - first:
+      213: 4647997791556361682
+    second: zara_NoEffects-Sheet_72
+  - first:
+      213: -8153834414425802984
+    second: zara_NoEffects-Sheet_73
+  - first:
+      213: 3237897842944949940
+    second: zara_NoEffects-Sheet_74
+  - first:
+      213: -5427109505543977231
+    second: zara_NoEffects-Sheet_75
+  - first:
+      213: 2057134557482910355
+    second: zara_NoEffects-Sheet_76
+  - first:
+      213: -3999904523720720294
+    second: zara_NoEffects-Sheet_77
+  - first:
+      213: -281233015455380116
+    second: zara_NoEffects-Sheet_78
+  - first:
+      213: -1115085525478340258
+    second: zara_NoEffects-Sheet_79
+  - first:
+      213: 1437538527939458586
+    second: zara_NoEffects-Sheet_80
+  - first:
+      213: -8160813285449975386
+    second: zara_NoEffects-Sheet_81
+  - first:
+      213: -2565183157300540902
+    second: zara_NoEffects-Sheet_82
+  - first:
+      213: 1398950923310194369
+    second: zara_NoEffects-Sheet_83
+  - first:
+      213: 5948905057338517133
+    second: zara_NoEffects-Sheet_84
+  - first:
+      213: -1953577352229719037
+    second: zara_NoEffects-Sheet_85
+  - first:
+      213: 3461377298444803904
+    second: zara_NoEffects-Sheet_86
+  - first:
+      213: -8573818174688746156
+    second: zara_NoEffects-Sheet_87
+  - first:
+      213: 7872953550131470918
+    second: zara_NoEffects-Sheet_88
+  - first:
+      213: 7509609214671070725
+    second: zara_NoEffects-Sheet_89
+  - first:
+      213: -2709536420752827415
+    second: zara_NoEffects-Sheet_90
+  - first:
+      213: 3107957244556106382
+    second: zara_NoEffects-Sheet_91
+  - first:
+      213: 5181382670621928675
+    second: zara_NoEffects-Sheet_92
+  - first:
+      213: -503080046587197892
+    second: zara_NoEffects-Sheet_93
+  - first:
+      213: -824981520316259234
+    second: zara_NoEffects-Sheet_94
+  - first:
+      213: 1803646030171159729
+    second: zara_NoEffects-Sheet_95
+  - first:
+      213: 3199902935294531761
+    second: zara_NoEffects-Sheet_96
+  - first:
+      213: 8236828835530729232
+    second: zara_NoEffects-Sheet_97
+  - first:
+      213: 7368257701387151405
+    second: zara_NoEffects-Sheet_98
+  - first:
+      213: -5378550467310067990
+    second: zara_NoEffects-Sheet_99
+  - first:
+      213: -8295180004758987882
+    second: zara_NoEffects-Sheet_100
+  - first:
+      213: -3137802433804659714
+    second: zara_NoEffects-Sheet_101
+  - first:
+      213: 1022300273997052790
+    second: zara_NoEffects-Sheet_102
+  - first:
+      213: -854862497267357107
+    second: zara_NoEffects-Sheet_103
+  - first:
+      213: 3133882247939585375
+    second: zara_NoEffects-Sheet_104
+  - first:
+      213: -7512755307467657281
+    second: zara_NoEffects-Sheet_105
+  - first:
+      213: -6789566615636719788
+    second: zara_NoEffects-Sheet_106
+  - first:
+      213: -435584798458468988
+    second: zara_NoEffects-Sheet_107
+  - first:
+      213: 1266874192737528229
+    second: zara_NoEffects-Sheet_108
+  - first:
+      213: 1592683825781880274
+    second: zara_NoEffects-Sheet_109
+  - first:
+      213: -1717158598333980675
+    second: zara_NoEffects-Sheet_110
+  - first:
+      213: -1974371077860170815
+    second: zara_NoEffects-Sheet_111
+  - first:
+      213: 2854855434936643045
+    second: zara_NoEffects-Sheet_112
+  - first:
+      213: -4937271209431599607
+    second: zara_NoEffects-Sheet_113
+  - first:
+      213: 7671459710913838219
+    second: zara_NoEffects-Sheet_114
+  - first:
+      213: -8754355359125201059
+    second: zara_NoEffects-Sheet_115
+  - first:
+      213: 5757598109673875703
+    second: zara_NoEffects-Sheet_116
+  - first:
+      213: 9180339425289435208
+    second: zara_NoEffects-Sheet_117
+  - first:
+      213: -7443044874625557460
+    second: zara_NoEffects-Sheet_118
+  - first:
+      213: 8342059492885570320
+    second: zara_NoEffects-Sheet_119
+  - first:
+      213: 7001549994701405304
+    second: zara_NoEffects-Sheet_120
+  - first:
+      213: -3157514812112373867
+    second: zara_NoEffects-Sheet_121
+  - first:
+      213: -1503881431028173108
+    second: zara_NoEffects-Sheet_122
+  - first:
+      213: -1759488030007548283
+    second: zara_NoEffects-Sheet_123
+  - first:
+      213: 8490440119173359320
+    second: zara_NoEffects-Sheet_124
+  - first:
+      213: -797041396687907935
+    second: zara_NoEffects-Sheet_125
+  - first:
+      213: 5653221865140992390
+    second: zara_NoEffects-Sheet_126
+  - first:
+      213: -5185142874607694158
+    second: zara_NoEffects-Sheet_127
+  - first:
+      213: 4737583836800533249
+    second: zara_NoEffects-Sheet_128
+  - first:
+      213: 4657207224755296707
+    second: zara_NoEffects-Sheet_129
+  - first:
+      213: 4571937708472058680
+    second: zara_NoEffects-Sheet_130
+  - first:
+      213: -7033103994040608479
+    second: zara_NoEffects-Sheet_131
+  - first:
+      213: 4935254930150927264
+    second: zara_NoEffects-Sheet_132
+  - first:
+      213: 5487352479808151706
+    second: zara_NoEffects-Sheet_133
+  - first:
+      213: 8060102486884484201
+    second: zara_NoEffects-Sheet_134
+  - first:
+      213: -8245864185481017673
+    second: zara_NoEffects-Sheet_135
+  - first:
+      213: 6618068326484871043
+    second: zara_NoEffects-Sheet_136
+  - first:
+      213: -7683040192980181999
+    second: zara_NoEffects-Sheet_137
+  - first:
+      213: 7717508396280183411
+    second: zara_NoEffects-Sheet_138
+  - first:
+      213: 4423028524911603023
+    second: zara_NoEffects-Sheet_139
+  - first:
+      213: -7153531170476248128
+    second: zara_NoEffects-Sheet_140
+  - first:
+      213: 6792705334681915833
+    second: zara_NoEffects-Sheet_141
+  - first:
+      213: -484086105616562539
+    second: zara_NoEffects-Sheet_142
+  - first:
+      213: 8648872062060815822
+    second: zara_NoEffects-Sheet_143
+  - first:
+      213: 619138449972488160
+    second: zara_NoEffects-Sheet_144
+  - first:
+      213: 7855965220927735626
+    second: zara_NoEffects-Sheet_145
+  - first:
+      213: -162306966559338717
+    second: zara_NoEffects-Sheet_146
+  - first:
+      213: 878610940246732712
+    second: zara_NoEffects-Sheet_147
+  - first:
+      213: 6927538515028820222
+    second: zara_NoEffects-Sheet_148
+  - first:
+      213: -8987747506684384590
+    second: zara_NoEffects-Sheet_149
+  - first:
+      213: -8159334040093339128
+    second: zara_NoEffects-Sheet_150
+  - first:
+      213: -7177535713752112104
+    second: zara_NoEffects-Sheet_151
+  - first:
+      213: -2700680538729522171
+    second: zara_NoEffects-Sheet_152
+  - first:
+      213: 7406837873005214351
+    second: zara_NoEffects-Sheet_153
+  - first:
+      213: 7625543628128746563
+    second: zara_NoEffects-Sheet_154
+  - first:
+      213: 2231121911587155558
+    second: zara_NoEffects-Sheet_155
+  - first:
+      213: -4885781561315142274
+    second: zara_NoEffects-Sheet_156
+  - first:
+      213: 8203725670277812805
+    second: zara_NoEffects-Sheet_157
+  - first:
+      213: 3491937080526348226
+    second: zara_NoEffects-Sheet_158
+  - first:
+      213: -8579668150748102845
+    second: zara_NoEffects-Sheet_159
+  - first:
+      213: -6588710585952395581
+    second: zara_NoEffects-Sheet_160
+  - first:
+      213: 7785062718309980427
+    second: zara_NoEffects-Sheet_161
+  - first:
+      213: -872678763192992582
+    second: zara_NoEffects-Sheet_162
+  - first:
+      213: -219215396881334903
+    second: zara_NoEffects-Sheet_163
+  - first:
+      213: 2580029084598700338
+    second: zara_NoEffects-Sheet_164
+  - first:
+      213: 1597196622869125615
+    second: zara_NoEffects-Sheet_165
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1279
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70d7c7956cea1640800000000000000
+      internalID: 5051609853131739260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1279
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39121189972f335a0800000000000000
+      internalID: -6542619229582974573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1279
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fd5dace87fe01c0800000000000000
+      internalID: -4535415582055080037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1279
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7a00b7a44be5fb0800000000000000
+      internalID: -4657086732670294110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1278
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf257b653756391a0800000000000000
+      internalID: -6803983065976188164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1278
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1225a63eacc10810800000000000000
+      internalID: 1729888780500148764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1279
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246a3702c36173e10800000000000000
+      internalID: 2177233392355223106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1279
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6380f03044fbc55f0800000000000000
+      internalID: -766527537729828810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1279
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab98a57f555101d0800000000000000
+      internalID: -3386331576321664089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1279
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda36f88b68be9560800000000000000
+      internalID: 7322492816149854940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1281
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdcd1d18c6bee890800000000000000
+      internalID: -7426797764889162313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1279
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564aac34362e92610800000000000000
+      internalID: 1597056458846544997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1279
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927798d852c566e40800000000000000
+      internalID: 5649304098941007657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1167
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144c37d723da64820800000000000000
+      internalID: 2902197442251572289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1169
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ce85262b73e5690800000000000000
+      internalID: -7611585080915858339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1167
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a877f003e12bf5790800000000000000
+      internalID: -7539111408469837942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1165
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7a18946189b0320800000000000000
+      internalID: 2525279237561231308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1166
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cc65775cea3f9a0800000000000000
+      internalID: -6200420098825073604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1168
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeddfd855ef60c600800000000000000
+      internalID: 486511790585273838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1166
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07858710820239b0800000000000000
+      internalID: -5102012678683654385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1165
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd6bf29478b3ec00800000000000000
+      internalID: 928788758990122452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1166
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a3b54b6b3766670800000000000000
+      internalID: 8531633772647103020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1168
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8ea407acdfd7560800000000000000
+      internalID: 7313280415828732086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1167
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c338f5415cc09b0800000000000000
+      internalID: -5112494785679901691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1167
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68303885aeb804810800000000000000
+      internalID: 1747550494043341702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1167
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673c6826802d7d740800000000000000
+      internalID: 5176837230140244854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1060
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d3d0e4b708a8040800000000000000
+      internalID: 4650670832292281694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1072
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf6dd2b08d65fcc0800000000000000
+      internalID: -3677913121154043968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1075
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcadbdb28c6f0ba60800000000000000
+      internalID: 7687915903511157455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1076
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ab8eecf8f873a60800000000000000
+      internalID: 7653743939553901172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1068
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedf29a1556c67600800000000000000
+      internalID: 465777680299785710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1060
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef633e2ad12582cc0800000000000000
+      internalID: -3735645603663497474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1070
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe48e06e4819b2470800000000000000
+      internalID: 8370944332379620591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1070
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5090564b1c446c0800000000000000
+      internalID: -4159987175250131486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1067
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159dff9c7894faf10800000000000000
+      internalID: 2283124383658531153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1065
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fea64feae849d910800000000000000
+      internalID: 1862600094768344820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1061
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f0afe2ce2cdaf90800000000000000
+      internalID: -6940677131051856008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1055
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14510bf87643f3210800000000000000
+      internalID: 1314827235612431681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1055
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb9777b868f62790800000000000000
+      internalID: -7555078196229071896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 946
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3504449b8b5db4f40800000000000000
+      internalID: 5713895541608562771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 942
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c75ca9649e8fc970800000000000000
+      internalID: 8777390966847592384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 948
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e24612f51458f20800000000000000
+      internalID: 3424214968523042459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 960
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3334ee3eaac9d0960800000000000000
+      internalID: 7569878806462087987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 963
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e3c711ab75ab2c0800000000000000
+      internalID: -4415120028014461411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 962
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de85a29c8f1eac090800000000000000
+      internalID: -8013344128309241619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 956
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3f3828ca4cd4310800000000000000
+      internalID: 1390984105130456007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 948
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15aa80058c3060e0800000000000000
+      internalID: -2278754869512067813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 943
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca025419341e1a30800000000000000
+      internalID: 4187806938887752397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 942
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5938d36a1320ba720800000000000000
+      internalID: 2858380800762413973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 941
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db56350ecf0d86670800000000000000
+      internalID: 8532299278567302589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 943
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08a69d4468ac7ba0800000000000000
+      internalID: -6089807447359838195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 943
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daec35917bc7acce0800000000000000
+      internalID: -1384156809617224019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 831
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99fd7fc5dc287420800000000000000
+      internalID: 2627899679391480223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 828
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd35e3f11ce29750800000000000000
+      internalID: 6310365589749972437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 828
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2683e785fbe7d030800000000000000
+      internalID: 3519541073592682029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 828
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf76838f7c2fc7f40800000000000000
+      internalID: 5727719766785288187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 828
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e46051fa5f57ee0800000000000000
+      internalID: -1263833988086739418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 828
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168be0313bb5c8ec0800000000000000
+      internalID: -3563372380479899551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 828
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f048673851f05b4d0800000000000000
+      internalID: -3119570581809888241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 828
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ece6dac27bf1c120800000000000000
+      internalID: 2432501744204704993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 828
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceec415834a459880800000000000000
+      internalID: -8604889859165466900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 836
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c30fc3268a5511f0800000000000000
+      internalID: -1074853403885108284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 828
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85a4b75a1fe93a30800000000000000
+      internalID: 4195647424291972492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 836
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98291d6f27004960800000000000000
+      internalID: 7584069672767137950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 828
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a02415315b1e31a0800000000000000
+      internalID: -6827989949450280800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 836
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f63cb6cff3851240800000000000000
+      internalID: 4761857315588290295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 828
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e2b7b434dc14d50800000000000000
+      internalID: 6719877807926357514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 827
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e05c0d6b8df3150800000000000000
+      internalID: 5854636320303156831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 744
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a86d079e95932b40800000000000000
+      internalID: 5414335685401077925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 754
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0464caa677ad490800000000000000
+      internalID: -7720727311132770097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 719
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805e00c8edd6673b0800000000000000
+      internalID: -5515099891069557496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 719
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f512e829f47a9b4b0800000000000000
+      internalID: -5424120315988008609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 719
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd54828d51018040800000000000000
+      internalID: 4647997791556361682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 719
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8177bca0dc2c7de80800000000000000
+      internalID: -8153834414425802984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 719
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bebcbbdee25fec20800000000000000
+      internalID: 3237897842944949940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 719
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6c7e4a8a80fa4b0800000000000000
+      internalID: -5427109505543977231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 719
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39203f91bf86c8c10800000000000000
+      internalID: 2057134557482910355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 719
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a500620370c7d78c0800000000000000
+      internalID: -3999904523720720294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 734
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d8baeff0cd81cf0800000000000000
+      internalID: -281233015455380116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 719
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e590faf5f9b6680f0800000000000000
+      internalID: -1115085525478340258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 719
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16f4ccbca923f310800000000000000
+      internalID: 1437538527939458586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 719
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a937720e87febe80800000000000000
+      internalID: -8160813285449975386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 717
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a49456283a66cd0800000000000000
+      internalID: -2565183157300540902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 717
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cedb1ae3721a6310800000000000000
+      internalID: 1398950923310194369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 605
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86ef2981a1ce8250800000000000000
+      internalID: 5948905057338517133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 605
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3047917afbf73e4e0800000000000000
+      internalID: -1953577352229719037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 602
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f57635058490030800000000000000
+      internalID: 3461377298444803904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 602
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455a3e0dbcda30980800000000000000
+      internalID: -8573818174688746156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 602
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642acb88a89524d60800000000000000
+      internalID: 7872953550131470918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 602
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506287a0bcd773860800000000000000
+      internalID: 7509609214671070725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 605
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb5b072bfac56ad0800000000000000
+      internalID: -2709536420752827415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 605
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a5ed2b5aea12b20800000000000000
+      internalID: 3107957244556106382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 605
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ece8c73618f7e740800000000000000
+      internalID: 5181382670621928675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 605
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c364591fc53b409f0800000000000000
+      internalID: -503080046587197892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 606
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54a94f9da31d84f0800000000000000
+      internalID: -824981520316259234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 612
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc35e02286d70910800000000000000
+      internalID: 1803646030171159729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 624
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8d5fd04c6586c20800000000000000
+      internalID: 3199902935294531761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 597
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017e0817f281f4270800000000000000
+      internalID: 8236828835530729232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 587
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28a7b8375f414660800000000000000
+      internalID: 7368257701387151405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 577
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeed875c8dc8b55b0800000000000000
+      internalID: -5378550467310067990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 512
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bda644cb991ec80800000000000000
+      internalID: -8295180004758987882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 511
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef397bdaf494474d0800000000000000
+      internalID: -3137802433804659714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 507
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bf06dcea0ff2e00800000000000000
+      internalID: 1022300273997052790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 499
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a6396861be224f0800000000000000
+      internalID: -854862497267357107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 494
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55775cec49cd7b20800000000000000
+      internalID: 3133882247939585375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 494
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfa5f52ad45db790800000000000000
+      internalID: -7512755307467657281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 493
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4574f10c22d96c1a0800000000000000
+      internalID: -6789566615636719788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 492
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485a2520fed74f9f0800000000000000
+      internalID: -435584798458468988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 493
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9ea39bd57d49110800000000000000
+      internalID: 1266874192737528229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 499
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d53d3b40895a1610800000000000000
+      internalID: 1592683825781880274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 511
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff9b4b4a5d6b28e0800000000000000
+      internalID: -1717158598333980675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 514
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3e65127ff9994e0800000000000000
+      internalID: -1974371077860170815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 513
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eded7474eb7e9720800000000000000
+      internalID: 2854855434936643045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 499
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906f01a6ef94b7bb0800000000000000
+      internalID: -4937271209431599607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 489
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c7db146ff767a60800000000000000
+      internalID: 7671459710913838219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 479
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f1ec5fe28428680800000000000000
+      internalID: -8754355359125201059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 394
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f86296c9f817ef40800000000000000
+      internalID: 5757598109673875703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 402
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848f3e9511e176f70800000000000000
+      internalID: 9180339425289435208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 387
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cd6a81f1ef4b890800000000000000
+      internalID: -7443044874625557460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 402
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013ae9029e2f4c370800000000000000
+      internalID: 8342059492885570320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 381
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cb057df908a2160800000000000000
+      internalID: 7001549994701405304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 383
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597f103f1014e24d0800000000000000
+      internalID: -3157514812112373867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 383
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6724f6ec3212be0800000000000000
+      internalID: -1503881431028173108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 383
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58629d875fa0597e0800000000000000
+      internalID: -1759488030007548283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 383
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6ad0add4a14d570800000000000000
+      internalID: 8490440119173359320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 383
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3d227921750f4f0800000000000000
+      internalID: -797041396687907935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 380
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68933349557447e40800000000000000
+      internalID: 5653221865140992390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 381
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be4c51170caa08b0800000000000000
+      internalID: -5185142874607694158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 382
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103c02616674fb140800000000000000
+      internalID: 4737583836800533249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 381
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c91ce4cb49b1a040800000000000000
+      internalID: 4657207224755296707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 379
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833c0b86f19c27f30800000000000000
+      internalID: 4571937708472058680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 267
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12914de2e25656e90800000000000000
+      internalID: -7033103994040608479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 267
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab24abf53c8d7440800000000000000
+      internalID: 4935254930150927264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 276
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90e254d10ef62c40800000000000000
+      internalID: 5487352479808151706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 268
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9640effe18c3bdf60800000000000000
+      internalID: 8060102486884484201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 276
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6c946363ec09d80800000000000000
+      internalID: -8245864185481017673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 268
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3870563341a18db50800000000000000
+      internalID: 6618068326484871043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 276
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c1e56a6ab506590800000000000000
+      internalID: -7683040192980181999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 268
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37aff5f4ff81a1b60800000000000000
+      internalID: 7717508396280183411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 268
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4da6ca5201c16d30800000000000000
+      internalID: 4423028524911603023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 272
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3341e2d4d89bc90800000000000000
+      internalID: -7153531170476248128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_141
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 272
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1dd993389844e50800000000000000
+      internalID: 6792705334681915833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_142
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 271
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596c502704e2849f0800000000000000
+      internalID: -484086105616562539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_143
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 271
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec56fe61157f60870800000000000000
+      internalID: 8648872062060815822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_144
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 271
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e76561d32f979800800000000000000
+      internalID: 619138449972488160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_145
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 270
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a478839eebef50d60800000000000000
+      internalID: 7855965220927735626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_146
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 272
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fc8a18cae5fbdf0800000000000000
+      internalID: -162306966559338717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_147
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 160
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afad2dbef3713c00800000000000000
+      internalID: 878610940246732712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_148
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 156
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef04124639f832060800000000000000
+      internalID: 6927538515028820222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_149
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 156
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baac25034b154380800000000000000
+      internalID: -8987747506684384590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_150
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 158
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802db78abe834ce80800000000000000
+      internalID: -8159334040093339128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_151
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 158
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814202beb45446c90800000000000000
+      internalID: -7177535713752112104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_152
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 159
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c573ddb51458ad0800000000000000
+      internalID: -2700680538729522171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_153
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 157
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ab2696dcf5ac660800000000000000
+      internalID: 7406837873005214351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_154
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 159
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c7bd5278f53d960800000000000000
+      internalID: 7625543628128746563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_155
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 159
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e2ebebe8986fe10800000000000000
+      internalID: 2231121911587155558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_156
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 159
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7558a35e87323cb0800000000000000
+      internalID: -4885781561315142274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_157
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 158
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54299ab280d79d170800000000000000
+      internalID: 8203725670277812805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_158
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 156
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf99ce064ad57030800000000000000
+      internalID: 3491937080526348226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_159
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 156
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f3def1645eee880800000000000000
+      internalID: -8579668150748102845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_160
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 44
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce937c61a23094a0800000000000000
+      internalID: -6588710585952395581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_161
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 44
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09d0079b491a0c60800000000000000
+      internalID: 7785062718309980427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_162
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 44
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abcbadcd94f93e3f0800000000000000
+      internalID: -872678763192992582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_163
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 44
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d779b02c035fcf0800000000000000
+      internalID: -219215396881334903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_164
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 44
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2398ea968ca1ec320800000000000000
+      internalID: 2580029084598700338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara_NoEffects-Sheet_165
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 44
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9519ebdd16a2610800000000000000
+      internalID: 1597196622869125615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

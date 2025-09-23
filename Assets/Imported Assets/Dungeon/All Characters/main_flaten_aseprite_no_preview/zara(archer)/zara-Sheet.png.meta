@@ -1,0 +1,5717 @@
+fileFormatVersion: 2
+guid: cf375d55ae4e7c74c88548ff89686b54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6825600462833871074
+    second: zara-Sheet_0
+  - first:
+      213: -9121863619670763064
+    second: zara-Sheet_1
+  - first:
+      213: 1882904323826519828
+    second: zara-Sheet_2
+  - first:
+      213: -8125346384760994600
+    second: zara-Sheet_3
+  - first:
+      213: -3379715087226845487
+    second: zara-Sheet_4
+  - first:
+      213: -7022410859918922962
+    second: zara-Sheet_5
+  - first:
+      213: -4847561863383754012
+    second: zara-Sheet_6
+  - first:
+      213: -4567766012240592691
+    second: zara-Sheet_7
+  - first:
+      213: -1328870322161328624
+    second: zara-Sheet_8
+  - first:
+      213: 2224451448190102879
+    second: zara-Sheet_9
+  - first:
+      213: -4274133520914266839
+    second: zara-Sheet_10
+  - first:
+      213: 6629459682355325303
+    second: zara-Sheet_11
+  - first:
+      213: -2014638840138692512
+    second: zara-Sheet_12
+  - first:
+      213: -1627117154325854795
+    second: zara-Sheet_13
+  - first:
+      213: -146739484697893533
+    second: zara-Sheet_14
+  - first:
+      213: -2290894752368976730
+    second: zara-Sheet_15
+  - first:
+      213: -3307004459444847255
+    second: zara-Sheet_16
+  - first:
+      213: 7031584548649956548
+    second: zara-Sheet_17
+  - first:
+      213: -1811937547891111413
+    second: zara-Sheet_18
+  - first:
+      213: -5811245535626229069
+    second: zara-Sheet_19
+  - first:
+      213: 2254643361557142592
+    second: zara-Sheet_20
+  - first:
+      213: -8771418259991625121
+    second: zara-Sheet_21
+  - first:
+      213: -5728475584848789070
+    second: zara-Sheet_22
+  - first:
+      213: -5001501472304699564
+    second: zara-Sheet_23
+  - first:
+      213: 6819972983128965513
+    second: zara-Sheet_24
+  - first:
+      213: -310826750288170986
+    second: zara-Sheet_25
+  - first:
+      213: -5186570885519879710
+    second: zara-Sheet_26
+  - first:
+      213: 4260081514501994098
+    second: zara-Sheet_27
+  - first:
+      213: -998106990015785578
+    second: zara-Sheet_28
+  - first:
+      213: -5857804804297099820
+    second: zara-Sheet_29
+  - first:
+      213: 2082324019715433271
+    second: zara-Sheet_30
+  - first:
+      213: 907828384523415716
+    second: zara-Sheet_31
+  - first:
+      213: 5798154170452448960
+    second: zara-Sheet_32
+  - first:
+      213: -8820234348159795585
+    second: zara-Sheet_33
+  - first:
+      213: 8555812421895498544
+    second: zara-Sheet_34
+  - first:
+      213: -4721216201391927247
+    second: zara-Sheet_35
+  - first:
+      213: -6481656706427635018
+    second: zara-Sheet_36
+  - first:
+      213: 3885160583047037440
+    second: zara-Sheet_37
+  - first:
+      213: -2254688185856505763
+    second: zara-Sheet_38
+  - first:
+      213: 4052643406249329482
+    second: zara-Sheet_39
+  - first:
+      213: 5869671593708161452
+    second: zara-Sheet_40
+  - first:
+      213: 1846737522527579323
+    second: zara-Sheet_41
+  - first:
+      213: -5287789722857455626
+    second: zara-Sheet_42
+  - first:
+      213: -5954183354222053890
+    second: zara-Sheet_43
+  - first:
+      213: 8565660872028966853
+    second: zara-Sheet_44
+  - first:
+      213: -7415354621899319782
+    second: zara-Sheet_45
+  - first:
+      213: 8232166100633706295
+    second: zara-Sheet_46
+  - first:
+      213: 2512324611021282393
+    second: zara-Sheet_47
+  - first:
+      213: -5121643769386227137
+    second: zara-Sheet_48
+  - first:
+      213: -485138458919723055
+    second: zara-Sheet_49
+  - first:
+      213: 8305624119113607421
+    second: zara-Sheet_50
+  - first:
+      213: -546875157300096013
+    second: zara-Sheet_51
+  - first:
+      213: -8757388435040286653
+    second: zara-Sheet_52
+  - first:
+      213: -7725217102866173886
+    second: zara-Sheet_53
+  - first:
+      213: -6330107703011899850
+    second: zara-Sheet_54
+  - first:
+      213: 2355033770928237664
+    second: zara-Sheet_55
+  - first:
+      213: -2455307056893961441
+    second: zara-Sheet_56
+  - first:
+      213: 2488952801222739373
+    second: zara-Sheet_57
+  - first:
+      213: 3481000250485482342
+    second: zara-Sheet_58
+  - first:
+      213: 8977700569756769670
+    second: zara-Sheet_59
+  - first:
+      213: -7228159628590711409
+    second: zara-Sheet_60
+  - first:
+      213: -4929233530412554888
+    second: zara-Sheet_61
+  - first:
+      213: 5415749509277321767
+    second: zara-Sheet_62
+  - first:
+      213: -3320621072387830380
+    second: zara-Sheet_63
+  - first:
+      213: 5800883020158798893
+    second: zara-Sheet_64
+  - first:
+      213: 4455416492226568481
+    second: zara-Sheet_65
+  - first:
+      213: 1478245343939162799
+    second: zara-Sheet_66
+  - first:
+      213: -8623629665020225628
+    second: zara-Sheet_67
+  - first:
+      213: 6446530389845775263
+    second: zara-Sheet_68
+  - first:
+      213: 3600840019248955165
+    second: zara-Sheet_69
+  - first:
+      213: 2248358737082439459
+    second: zara-Sheet_70
+  - first:
+      213: -4452219958070776914
+    second: zara-Sheet_71
+  - first:
+      213: 8326405512510903769
+    second: zara-Sheet_72
+  - first:
+      213: 8245541880643200335
+    second: zara-Sheet_73
+  - first:
+      213: 4121066811467068759
+    second: zara-Sheet_74
+  - first:
+      213: -2549732385136022733
+    second: zara-Sheet_75
+  - first:
+      213: 8002622556100150429
+    second: zara-Sheet_76
+  - first:
+      213: 7608159597478140139
+    second: zara-Sheet_77
+  - first:
+      213: 6651666720405888850
+    second: zara-Sheet_78
+  - first:
+      213: -3334470678898430263
+    second: zara-Sheet_79
+  - first:
+      213: 210328197787613752
+    second: zara-Sheet_80
+  - first:
+      213: -4926042547151494016
+    second: zara-Sheet_81
+  - first:
+      213: 620884040242448666
+    second: zara-Sheet_82
+  - first:
+      213: -432696320051923682
+    second: zara-Sheet_83
+  - first:
+      213: 4731823654707258590
+    second: zara-Sheet_84
+  - first:
+      213: -2182052515707952246
+    second: zara-Sheet_85
+  - first:
+      213: 4351900261840395046
+    second: zara-Sheet_86
+  - first:
+      213: 1795174362082322714
+    second: zara-Sheet_87
+  - first:
+      213: 4760147893295863892
+    second: zara-Sheet_88
+  - first:
+      213: -5322146053540169193
+    second: zara-Sheet_89
+  - first:
+      213: 2142106490074105929
+    second: zara-Sheet_90
+  - first:
+      213: -6116886608271405037
+    second: zara-Sheet_91
+  - first:
+      213: -2407888590566693948
+    second: zara-Sheet_92
+  - first:
+      213: 4416194697254805639
+    second: zara-Sheet_93
+  - first:
+      213: 4582312514631115119
+    second: zara-Sheet_94
+  - first:
+      213: -7716374581145578450
+    second: zara-Sheet_95
+  - first:
+      213: 7711797106733873278
+    second: zara-Sheet_96
+  - first:
+      213: -1117302446823399098
+    second: zara-Sheet_97
+  - first:
+      213: -633131889767238774
+    second: zara-Sheet_98
+  - first:
+      213: -863644571054721997
+    second: zara-Sheet_99
+  - first:
+      213: -6961907341379303795
+    second: zara-Sheet_100
+  - first:
+      213: -3574845860288861503
+    second: zara-Sheet_101
+  - first:
+      213: -6016527023047751086
+    second: zara-Sheet_102
+  - first:
+      213: -3659875112097718122
+    second: zara-Sheet_103
+  - first:
+      213: -5661099963963030364
+    second: zara-Sheet_104
+  - first:
+      213: -9010032216106393914
+    second: zara-Sheet_105
+  - first:
+      213: 2649244654093743546
+    second: zara-Sheet_106
+  - first:
+      213: -3541286820863342054
+    second: zara-Sheet_107
+  - first:
+      213: -500571248541140904
+    second: zara-Sheet_108
+  - first:
+      213: -6189238017236424641
+    second: zara-Sheet_109
+  - first:
+      213: 5596267109688689840
+    second: zara-Sheet_110
+  - first:
+      213: 4583574813027898925
+    second: zara-Sheet_111
+  - first:
+      213: 8372754164555531153
+    second: zara-Sheet_112
+  - first:
+      213: -5097140742427905289
+    second: zara-Sheet_113
+  - first:
+      213: 5416447251079191398
+    second: zara-Sheet_114
+  - first:
+      213: 5005461889397453718
+    second: zara-Sheet_115
+  - first:
+      213: -5842704951070165634
+    second: zara-Sheet_116
+  - first:
+      213: 623103100816542035
+    second: zara-Sheet_117
+  - first:
+      213: -2941336199177146193
+    second: zara-Sheet_118
+  - first:
+      213: -227164388421556148
+    second: zara-Sheet_119
+  - first:
+      213: 6990690418803359950
+    second: zara-Sheet_120
+  - first:
+      213: -3193902141452724100
+    second: zara-Sheet_121
+  - first:
+      213: -4896856106611858819
+    second: zara-Sheet_122
+  - first:
+      213: 2026467020618494949
+    second: zara-Sheet_123
+  - first:
+      213: 6702062341200740930
+    second: zara-Sheet_124
+  - first:
+      213: -4521674117962758971
+    second: zara-Sheet_125
+  - first:
+      213: 3069066805217937766
+    second: zara-Sheet_126
+  - first:
+      213: 3462859356200954819
+    second: zara-Sheet_127
+  - first:
+      213: -3975119955283264306
+    second: zara-Sheet_128
+  - first:
+      213: -4258799601562942920
+    second: zara-Sheet_129
+  - first:
+      213: 6609188767026951312
+    second: zara-Sheet_130
+  - first:
+      213: -7604029320687269286
+    second: zara-Sheet_131
+  - first:
+      213: -5242353317251578196
+    second: zara-Sheet_132
+  - first:
+      213: 2313315533144673709
+    second: zara-Sheet_133
+  - first:
+      213: -1122325838591213439
+    second: zara-Sheet_134
+  - first:
+      213: -1564888111106431688
+    second: zara-Sheet_135
+  - first:
+      213: -5943068311995394468
+    second: zara-Sheet_136
+  - first:
+      213: 155209304703814929
+    second: zara-Sheet_137
+  - first:
+      213: 4621882725992471115
+    second: zara-Sheet_138
+  - first:
+      213: 7162019202307714108
+    second: zara-Sheet_139
+  - first:
+      213: 8885744085956307327
+    second: zara-Sheet_140
+  - first:
+      213: -3670027855575818277
+    second: zara-Sheet_141
+  - first:
+      213: 766042512137427471
+    second: zara-Sheet_142
+  - first:
+      213: -8067721048277172496
+    second: zara-Sheet_143
+  - first:
+      213: 3540212702223047278
+    second: zara-Sheet_144
+  - first:
+      213: -5980597509140590051
+    second: zara-Sheet_145
+  - first:
+      213: -1017148222404371194
+    second: zara-Sheet_146
+  - first:
+      213: 3174002610985594929
+    second: zara-Sheet_147
+  - first:
+      213: -6491527162466793698
+    second: zara-Sheet_148
+  - first:
+      213: 105484313111572386
+    second: zara-Sheet_149
+  - first:
+      213: 2181862936762619555
+    second: zara-Sheet_150
+  - first:
+      213: 477480227223776965
+    second: zara-Sheet_151
+  - first:
+      213: -3515957854974998132
+    second: zara-Sheet_152
+  - first:
+      213: 2062914373902360153
+    second: zara-Sheet_153
+  - first:
+      213: -5924977729909366775
+    second: zara-Sheet_154
+  - first:
+      213: -8257935272561252433
+    second: zara-Sheet_155
+  - first:
+      213: -5084696639880598471
+    second: zara-Sheet_156
+  - first:
+      213: -3641121321615644080
+    second: zara-Sheet_157
+  - first:
+      213: 4604178206892675958
+    second: zara-Sheet_158
+  - first:
+      213: -707448079828270095
+    second: zara-Sheet_159
+  - first:
+      213: -7435664686901602721
+    second: zara-Sheet_160
+  - first:
+      213: 2935794307482752987
+    second: zara-Sheet_161
+  - first:
+      213: -7783379264546650347
+    second: zara-Sheet_162
+  - first:
+      213: 8703774179973036122
+    second: zara-Sheet_163
+  - first:
+      213: 7610659951966545980
+    second: zara-Sheet_164
+  - first:
+      213: 1695892264459342617
+    second: zara-Sheet_165
+  - first:
+      213: -222396329679700922
+    second: zara-Sheet_166
+  - first:
+      213: -8884209744390334249
+    second: zara-Sheet_167
+  - first:
+      213: 991714127128613569
+    second: zara-Sheet_168
+  - first:
+      213: -2889335738660583462
+    second: zara-Sheet_169
+  - first:
+      213: -4858194020914371709
+    second: zara-Sheet_170
+  - first:
+      213: -5664185352460044180
+    second: zara-Sheet_171
+  - first:
+      213: 7138490737307250509
+    second: zara-Sheet_172
+  - first:
+      213: -1320365609786113144
+    second: zara-Sheet_173
+  - first:
+      213: -1881230263996282402
+    second: zara-Sheet_174
+  - first:
+      213: 6933049766377466979
+    second: zara-Sheet_175
+  - first:
+      213: 1736068424654885393
+    second: zara-Sheet_176
+  - first:
+      213: 2631770334624276391
+    second: zara-Sheet_177
+  - first:
+      213: -7722912953809495184
+    second: zara-Sheet_178
+  - first:
+      213: 1711038738492672717
+    second: zara-Sheet_179
+  - first:
+      213: -549719081805395139
+    second: zara-Sheet_180
+  - first:
+      213: -8892346998931852111
+    second: zara-Sheet_181
+  - first:
+      213: -3778427782770327366
+    second: zara-Sheet_182
+  - first:
+      213: -7062902854366965643
+    second: zara-Sheet_183
+  - first:
+      213: 8751714969705928587
+    second: zara-Sheet_184
+  - first:
+      213: 6733944406851196378
+    second: zara-Sheet_185
+  - first:
+      213: 3772463502343860654
+    second: zara-Sheet_186
+  - first:
+      213: -8468388109334644629
+    second: zara-Sheet_187
+  - first:
+      213: -9028951615122444525
+    second: zara-Sheet_188
+  - first:
+      213: -9060398755341122758
+    second: zara-Sheet_189
+  - first:
+      213: -3209702899895379105
+    second: zara-Sheet_190
+  - first:
+      213: -2751929212760091383
+    second: zara-Sheet_191
+  - first:
+      213: -1235679721669896597
+    second: zara-Sheet_192
+  - first:
+      213: -4466962267061227358
+    second: zara-Sheet_193
+  - first:
+      213: -7182348226164470403
+    second: zara-Sheet_194
+  - first:
+      213: 5823875393029143935
+    second: zara-Sheet_195
+  - first:
+      213: -9221307433312124954
+    second: zara-Sheet_196
+  - first:
+      213: 6158966414817663060
+    second: zara-Sheet_197
+  - first:
+      213: 4358621575905884353
+    second: zara-Sheet_198
+  - first:
+      213: -5677558686482267083
+    second: zara-Sheet_199
+  - first:
+      213: 3802329916092022412
+    second: zara-Sheet_200
+  - first:
+      213: -114810572951479952
+    second: zara-Sheet_201
+  - first:
+      213: 8618513577853022620
+    second: zara-Sheet_202
+  - first:
+      213: -133339973035857194
+    second: zara-Sheet_203
+  - first:
+      213: 818459279489189129
+    second: zara-Sheet_204
+  - first:
+      213: 3718889513454710104
+    second: zara-Sheet_205
+  - first:
+      213: -4635021993387600665
+    second: zara-Sheet_206
+  - first:
+      213: -8631742649494987110
+    second: zara-Sheet_207
+  - first:
+      213: 7090358360278597521
+    second: zara-Sheet_208
+  - first:
+      213: 5541593521349975437
+    second: zara-Sheet_209
+  - first:
+      213: -1720849015011632483
+    second: zara-Sheet_210
+  - first:
+      213: 4116305221123202621
+    second: zara-Sheet_211
+  - first:
+      213: 5712071584182167938
+    second: zara-Sheet_212
+  - first:
+      213: -7572446019909677075
+    second: zara-Sheet_213
+  - first:
+      213: -2415167676590042661
+    second: zara-Sheet_214
+  - first:
+      213: -1017745958674388177
+    second: zara-Sheet_215
+  - first:
+      213: 5612377235513702002
+    second: zara-Sheet_216
+  - first:
+      213: -3822508623967796804
+    second: zara-Sheet_217
+  - first:
+      213: 3439472506563023443
+    second: zara-Sheet_218
+  - first:
+      213: 3204820525179343676
+    second: zara-Sheet_219
+  - first:
+      213: 7518945455583085259
+    second: zara-Sheet_220
+  - first:
+      213: 860752882048429748
+    second: zara-Sheet_221
+  - first:
+      213: -5397783162865026945
+    second: zara-Sheet_222
+  - first:
+      213: 1770118009376621982
+    second: zara-Sheet_223
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zara-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1262
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e179b0aea889641a0800000000000000
+      internalID: -6825600462833871074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1261
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c917fb1e51a86180800000000000000
+      internalID: -9121863619670763064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1261
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f0ab7a18b612a10800000000000000
+      internalID: 1882904323826519828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1262
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d401535388fc3f80800000000000000
+      internalID: -8125346384760994600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1262
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6c0dfd807d811d0800000000000000
+      internalID: -3379715087226845487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1261
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2befab77826b8e90800000000000000
+      internalID: -7022410859918922962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1261
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ead7423b200abcb0800000000000000
+      internalID: -4847561863383754012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1262
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc00c4f43090c90c0800000000000000
+      internalID: -4567766012240592691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1262
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ed30f8b77ee8de0800000000000000
+      internalID: -1328870322161328624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1261
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d69757ec6dede10800000000000000
+      internalID: 2224451448190102879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1281
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925c053453a3fa4c0800000000000000
+      internalID: -4274133520914266839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1261
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779209be472900c50800000000000000
+      internalID: 6629459682355325303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1262
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06804de16a09a04e0800000000000000
+      internalID: -2014638840138692512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1259
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b58678a1915b69e0800000000000000
+      internalID: -1627117154325854795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1149
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365ee04573da6fdf0800000000000000
+      internalID: -146739484697893533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1169
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac9d334c5b1530e0800000000000000
+      internalID: -2290894752368976730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1149
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d382427f82b12d0800000000000000
+      internalID: -3307004459444847255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1150
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4f76e54e4359160800000000000000
+      internalID: 7031584548649956548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1149
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a02c67664bad6e0800000000000000
+      internalID: -1811937547891111413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1168
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba8c6289fe4a5fa0800000000000000
+      internalID: -5811245535626229069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1149
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c5ec4113a1a4f10800000000000000
+      internalID: 2254643361557142592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1150
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5203d4c099a54680800000000000000
+      internalID: -8771418259991625121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1149
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1079c6ecd5080b0800000000000000
+      internalID: -5728475584848789070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1168
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4576fa7f8e8179ab0800000000000000
+      internalID: -5001501472304699564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1149
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981c92d5b4965ae50800000000000000
+      internalID: 6819972983128965513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1150
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610726aa7b8bfabf0800000000000000
+      internalID: -310826750288170986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1149
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1543e52499508b0800000000000000
+      internalID: -5186570885519879710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1147
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276791a0199de1b30800000000000000
+      internalID: 4260081514501994098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1147
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69556441bf20622f0800000000000000
+      internalID: -998106990015785578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1147
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d57b440195e4bea0800000000000000
+      internalID: -5857804804297099820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1060
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733e66ec9a6e5ec10800000000000000
+      internalID: 2082324019715433271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1072
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0f8881b11499c00800000000000000
+      internalID: 907828384523415716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1075
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c694c28f7e277050800000000000000
+      internalID: 5798154170452448960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1076
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e7c3a879b389580800000000000000
+      internalID: -8820234348159795585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1068
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ba4fb211a5cb670800000000000000
+      internalID: 8555812421895498544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1060
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130173001eeda7eb0800000000000000
+      internalID: -4721216201391927247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1070
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba3a5911978c06a0800000000000000
+      internalID: -6481656706427635018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1070
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0024edf37fcdae530800000000000000
+      internalID: 3885160583047037440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1067
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58c0c27a0db5b0e0800000000000000
+      internalID: -2254688185856505763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1065
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4302d6c4b1ed3830800000000000000
+      internalID: 4052643406249329482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1061
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca90d233733457150800000000000000
+      internalID: 5869671593708161452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1031
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc24a70efde0a910800000000000000
+      internalID: 1846737522527579323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1019
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffbe12534ffd96b0800000000000000
+      internalID: -5287789722857455626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1016
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5fc0439cd7e5da0800000000000000
+      internalID: -5954183354222053890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1024
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfcfb72e275fd670800000000000000
+      internalID: 8565660872028966853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1032
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16d326724e571990800000000000000
+      internalID: -7415354621899319782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1037
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fd840e3778e3270800000000000000
+      internalID: 8232166100633706295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1037
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c15604ce19dd220800000000000000
+      internalID: 2512324611021282393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1022
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a24ab90244ce8b0800000000000000
+      internalID: -5121643769386227137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1022
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df953954217449f0800000000000000
+      internalID: -485138458919723055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1025
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8eea99121834370800000000000000
+      internalID: 8305624119113607421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1027
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f354a021fb1968f0800000000000000
+      internalID: -546875157300096013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1031
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3484f41fd91877680800000000000000
+      internalID: -8757388435040286653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1017
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240b3e299f38ac490800000000000000
+      internalID: -7725217102866173886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 946
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636030c1590f628a0800000000000000
+      internalID: -6330107703011899850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 925
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ce936bcb2cea020800000000000000
+      internalID: 2355033770928237664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 948
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b53539d3ffcedd0800000000000000
+      internalID: -2455307056893961441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 960
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5489bb2698a8220800000000000000
+      internalID: 2488952801222739373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 963
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663ab31e84ffe4030800000000000000
+      internalID: 3481000250485482342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 962
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d9c203a13379c70800000000000000
+      internalID: 8977700569756769670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 956
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8df70e3d1b60bb90800000000000000
+      internalID: -7228159628590711409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 948
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875a0d46838d79bb0800000000000000
+      internalID: -4929233530412554888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 925
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a88fc1c7b982b40800000000000000
+      internalID: 5415749509277321767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 925
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d85a26ab8cae1d0800000000000000
+      internalID: -3320621072387830380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 922
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c09285f50e08050800000000000000
+      internalID: 5800883020158798893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 926
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121e491a1b1d4dd30800000000000000
+      internalID: 4455416492226568481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 919
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa27e58ee48c38410800000000000000
+      internalID: 1478245343939162799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 907
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7d2f57286b25880800000000000000
+      internalID: -8623629665020225628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 905
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9394800c3da67950800000000000000
+      internalID: 6446530389845775263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 912
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f38506be0c8f130800000000000000
+      internalID: 3600840019248955165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 920
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327d17beb56c33f10800000000000000
+      internalID: 2248358737082439459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 926
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab694979898632c0800000000000000
+      internalID: -4452219958070776914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 926
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5111dc2b55d8370800000000000000
+      internalID: 8326405512510903769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 904
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45285857ac0e6270800000000000000
+      internalID: 8245541880643200335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 814
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75575214e68f03930800000000000000
+      internalID: 4121066811467068759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 814
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b68af97e78d9cd0800000000000000
+      internalID: -2549732385136022733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 814
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94c0e7a0d60f0f60800000000000000
+      internalID: 8002622556100150429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 811
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8d92a18dc959960800000000000000
+      internalID: 7608159597478140139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 814
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f9412e3a77f4c50800000000000000
+      internalID: 6651666720405888850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 814
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cead46959499b1d0800000000000000
+      internalID: -3334470678898430263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 814
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83af06ba16c3be200800000000000000
+      internalID: 210328197787613752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 814
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0842394176e23abb0800000000000000
+      internalID: -4926042547151494016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 814
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a194c59beb2dd9800800000000000000
+      internalID: 620884040242448666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 814
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15bfab4df0cef9f0800000000000000
+      internalID: -432696320051923682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 836
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4ed9e2b80daa140800000000000000
+      internalID: 4731823654707258590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 812
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83eaf74ccac7b1e0800000000000000
+      internalID: -2182052515707952246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 836
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b1de41b3e056c30800000000000000
+      internalID: 4351900261840395046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 810
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a192ec1329db9e810800000000000000
+      internalID: 1795174362082322714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 814
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4585932e9417f0240800000000000000
+      internalID: 4760147893295863892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 821
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71abdfbbc50f326b0800000000000000
+      internalID: -5322146053540169193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 821
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9480debd08a4abd10800000000000000
+      internalID: 2142106490074105929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 743
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31093a6d9047c1ba0800000000000000
+      internalID: -6116886608271405037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 754
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c36e8c9516759ed0800000000000000
+      internalID: -2407888590566693948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 701
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78026dcdda9794d30800000000000000
+      internalID: 4416194697254805639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 701
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f612a6434f4a79f30800000000000000
+      internalID: 4582312514631115119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 699
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24d6f8933ee9e490800000000000000
+      internalID: -7716374581145578450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 701
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78f1c61c9ec50b60800000000000000
+      internalID: 7711797106733873278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 701
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641aa66285b8e70f0800000000000000
+      internalID: -1117302446823399098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 701
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83b37696e9a637f0800000000000000
+      internalID: -633131889767238774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 701
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334b612a6d7b304f0800000000000000
+      internalID: -863644571054721997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 701
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8607e5a826526f90800000000000000
+      internalID: -6961907341379303795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 693
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cae4b261a8936ec0800000000000000
+      internalID: -3574845860288861503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 699
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a43b9ac80018ca0800000000000000
+      internalID: -6016527023047751086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 697
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6906f15f9f2853dc0800000000000000
+      internalID: -3659875112097718122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 702
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4c10a939bbf61b0800000000000000
+      internalID: -5661099963963030364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 699
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce1728cf6fe5f280800000000000000
+      internalID: -9010032216106393914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 683
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab53c520af104c420800000000000000
+      internalID: 2649244654093743546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 673
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a0ba22662dadec0800000000000000
+      internalID: -3541286820863342054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 590
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8587ee10a1d9d09f0800000000000000
+      internalID: -500571248541140904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 590
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38a748b0d86b1aa0800000000000000
+      internalID: -6189238017236424641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 591
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b44235394fe9ad40800000000000000
+      internalID: 5596267109688689840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 591
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2694f3f1012c9f30800000000000000
+      internalID: 4583574813027898925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 591
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193410a4d8ff13470800000000000000
+      internalID: 8372754164555531153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 591
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2f96520815349b0800000000000000
+      internalID: -5097140742427905289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 590
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b5739c3161b2b40800000000000000
+      internalID: 5416447251079191398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 590
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6937a4e7119f67540800000000000000
+      internalID: 5005461889397453718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 590
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75fb009dca8aeea0800000000000000
+      internalID: -5842704951070165634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 590
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3594d9608f4b5a800800000000000000
+      internalID: 623103100816542035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 586
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa07c0b8f464e27d0800000000000000
+      internalID: -2941336199177146193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 612
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48a38a3133f8dcf0800000000000000
+      internalID: -227164388421556148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 624
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0408bc5ebe30160800000000000000
+      internalID: 6990690418803359950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 587
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78d953aceafca3d0800000000000000
+      internalID: -3193902141452724100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 577
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72a231d05fda0cb0800000000000000
+      internalID: -4896856106611858819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 583
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e37201c4057f1c10800000000000000
+      internalID: 2026467020618494949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 571
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2420bc5b032820d50800000000000000
+      internalID: 6702062341200740930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 512
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c480c8b859cf31c0800000000000000
+      internalID: -4521674117962758971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 511
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66945fcaff3879a20800000000000000
+      internalID: 3069066805217937766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 499
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbee79cc3c8e0030800000000000000
+      internalID: 3462859356200954819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 518
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc36c5367985d8c0800000000000000
+      internalID: -3975119955283264306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 499
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83204439354b5e4c0800000000000000
+      internalID: -4258799601562942920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 465
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094b428aa2e88bb50800000000000000
+      internalID: 6609188767026951312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 474
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ac7c6ee9f097690800000000000000
+      internalID: -7604029320687269286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 499
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca60122ee6b6f37b0800000000000000
+      internalID: -5242353317251578196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 511
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad4b7e883c8a1020800000000000000
+      internalID: 2313315533144673709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 514
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180478c9892bc60f0800000000000000
+      internalID: -1122325838591213439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 513
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835e448dd86684ae0800000000000000
+      internalID: -1564888111106431688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 464
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5652a3abdaf58da0800000000000000
+      internalID: -5943068311995394468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 489
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11dc4b05a0a672200800000000000000
+      internalID: 155209304703814929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 472
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a9b4cf9d9342040800000000000000
+      internalID: 4621882725992471115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 479
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ce31cb48a946360800000000000000
+      internalID: 7162019202307714108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 477
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f792470ea21805b70800000000000000
+      internalID: 8885744085956307327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_141
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 478
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf5d982c11711dc0800000000000000
+      internalID: -3670027855575818277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_142
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 478
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a9cca2b9781aa00800000000000000
+      internalID: 766042512137427471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_143
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 471
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe3f728372b90090800000000000000
+      internalID: -8067721048277172496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_144
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 456
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a945122bc512130800000000000000
+      internalID: 3540212702223047278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_145
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 457
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12d6138046a00da0800000000000000
+      internalID: -5980597509140590051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_146
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 466
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ddaafa41d52e1f0800000000000000
+      internalID: -1017148222404371194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_147
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 459
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13075ffde825c0c20800000000000000
+      internalID: 3174002610985594929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_148
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 456
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e170e57707679e5a0800000000000000
+      internalID: -6491527162466793698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_149
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 457
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af24648c61c67100800000000000000
+      internalID: 105484313111572386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_150
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 394
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6935ee7c8874e10800000000000000
+      internalID: 2181862936762619555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_151
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 402
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce22f2acb950a600800000000000000
+      internalID: 477480227223776965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_152
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 387
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8988f095fec43fc0800000000000000
+      internalID: -3515957854974998132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_153
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 402
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e5f7a71b1f0ac10800000000000000
+      internalID: 2062914373902360153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_154
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 348
+        width: 29
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900e6a2852046cda0800000000000000
+      internalID: -5924977729909366775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_155
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 360
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa761dc3f9be56d80800000000000000
+      internalID: -8257935272561252433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_156
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 359
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c6b4d88578f69b0800000000000000
+      internalID: -5084696639880598471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_157
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 352
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05aaff01373287dc0800000000000000
+      internalID: -3641121321615644080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_158
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 366
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673de686fa355ef30800000000000000
+      internalID: 4604178206892675958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_159
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 366
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3cdc838b3ae26f0800000000000000
+      internalID: -707448079828270095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_160
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 365
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f565054fc563fc890800000000000000
+      internalID: -7435664686901602721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_161
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 361
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd79f1f3e590eb820800000000000000
+      internalID: 2935794307482752987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_162
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 363
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5174e880cc1ebf390800000000000000
+      internalID: -7783379264546650347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_163
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 364
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58728a80840ac870800000000000000
+      internalID: 8703774179973036122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_164
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 352
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38e14f37ee7e9960800000000000000
+      internalID: 7610659951966545980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_165
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 350
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9139e608705098710800000000000000
+      internalID: 1695892264459342617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_166
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 367
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c371a67b3e9ecf0800000000000000
+      internalID: -222396329679700922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_167
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 359
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8dc8bde42f4b480800000000000000
+      internalID: -8884209744390334249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_168
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 359
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2dc3a8eb643cd00800000000000000
+      internalID: 991714127128613569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_169
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 255
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad78b4c347407e7d0800000000000000
+      internalID: -2889335738660583462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_170
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 255
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383e87d174a349cb0800000000000000
+      internalID: -4858194020914371709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_171
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 254
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68f5ac9e65c461b0800000000000000
+      internalID: -5664185352460044180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 276
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f6d951183011360800000000000000
+      internalID: 7138490737307250509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_173
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 252
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8838e07397e1dade0800000000000000
+      internalID: -1320365609786113144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_174
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 276
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed989c5ca0784e5e0800000000000000
+      internalID: -1881230263996282402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_175
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 250
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ca8079704273060800000000000000
+      internalID: 6933049766377466979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_176
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 254
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112935db801c71810800000000000000
+      internalID: 1736068424654885393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_177
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 272
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afd0b5fc2de58420800000000000000
+      internalID: 2631770334624276391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_178
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 272
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b1ce41693b2d490800000000000000
+      internalID: -7722912953809495184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_179
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 255
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcac9cccaa4deb710800000000000000
+      internalID: 1711038738492672717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_180
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 255
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b4cba58610f58f0800000000000000
+      internalID: -549719081805395139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_181
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 254
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4f725a489089480800000000000000
+      internalID: -8892346998931852111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_182
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 254
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0028653f3509bc0800000000000000
+      internalID: -3778427782770327366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_183
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 272
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5705d5a56478bfd90800000000000000
+      internalID: -7062902854366965643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_184
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 261
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b875ac87566547970800000000000000
+      internalID: 8751714969705928587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_185
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 261
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5189392c6c37d50800000000000000
+      internalID: 6733944406851196378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_186
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 252
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1f459619b7a5430800000000000000
+      internalID: 3772463502343860654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_187
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 252
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6877fac1ed3a7a80800000000000000
+      internalID: -8468388109334644629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_188
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 252
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fef6ee758b2b280800000000000000
+      internalID: -9028951615122444525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_189
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 160
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a334088065ff24280800000000000000
+      internalID: -9060398755341122758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_190
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 140
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5bd131e738d473d0800000000000000
+      internalID: -3209702899895379105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_191
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 143
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9051a6a16fe2fc9d0800000000000000
+      internalID: -2751929212760091383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_192
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 143
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6656bd07dbf9dee0800000000000000
+      internalID: -1235679721669896597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_193
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 142
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0fdbe2c792202c0800000000000000
+      internalID: -4466962267061227358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_194
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 142
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d4f4e875c235c90800000000000000
+      internalID: -7182348226164470403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_195
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 142
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7df3a150df82d050800000000000000
+      internalID: 5823875393029143935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_196
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 142
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eff2c8feb5570080800000000000000
+      internalID: -9221307433312124954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_197
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 142
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45894ca925b097550800000000000000
+      internalID: 6158966414817663060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_198
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 142
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c83936fa3fec7c30800000000000000
+      internalID: 4358621575905884353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_199
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 142
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5348ac4a4724531b0800000000000000
+      internalID: -5677558686482267083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_200
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 140
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e718fb9e694c430800000000000000
+      internalID: 3802329916092022412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_201
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 142
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07994c6646c186ef0800000000000000
+      internalID: -114810572951479952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_202
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 142
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c917fcbaf6c1b9770800000000000000
+      internalID: 8618513577853022620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_203
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 30
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da66d04008462ef0800000000000000
+      internalID: -133339973035857194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_204
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 30
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9054319d060cb5b00800000000000000
+      internalID: 818459279489189129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_205
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 28
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85da4681f462c9330800000000000000
+      internalID: 3718889513454710104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_206
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 24
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4520eed081dafb0800000000000000
+      internalID: -4635021993387600665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_207
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 20
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e13401bc3e53880800000000000000
+      internalID: -8631742649494987110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_208
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 57
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f70a2cc53066260800000000000000
+      internalID: 7090358360278597521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_209
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 30
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ddba172f1b7ec40800000000000000
+      internalID: 5541593521349975437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_210
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 64
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a962430f05e18e0800000000000000
+      internalID: -1720849015011632483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_211
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 34
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e522c1acd002930800000000000000
+      internalID: 4116305221123202621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_212
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 30
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289e7ca87da554f40800000000000000
+      internalID: 5712071584182167938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_213
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 32
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def8676277449e690800000000000000
+      internalID: -7572446019909677075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_214
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 54
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd158d35bc99b7ed0800000000000000
+      internalID: -2415167676590042661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_215
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 30
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2baf9d517d30e1f0800000000000000
+      internalID: -1017745958674388177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_216
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 30
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276784c2c5b23ed40800000000000000
+      internalID: 5612377235513702002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_217
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 30
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb14885b8a8b3fac0800000000000000
+      internalID: -3822508623967796804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_218
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 30
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352596885067bbf20800000000000000
+      internalID: 3439472506563023443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_219
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 30
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33123ca94fc97c20800000000000000
+      internalID: 3204820525179343676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_220
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 19
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc241950e09a85860800000000000000
+      internalID: 7518945455583085259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_221
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 14
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bee3ed8f2202fb00800000000000000
+      internalID: 860752882048429748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_222
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 20
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7878d2efc83715b0800000000000000
+      internalID: -5397783162865026945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zara-Sheet_223
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 10
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e954a6773f8b09810800000000000000
+      internalID: 1770118009376621982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

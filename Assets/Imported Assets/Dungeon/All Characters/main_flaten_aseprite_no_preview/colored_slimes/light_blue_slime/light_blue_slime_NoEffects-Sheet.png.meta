@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: 3d2b45c3f78659443b3f915d5aa830a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8662675881777081521
+    second: light_blue_slime_NoEffects-Sheet_0
+  - first:
+      213: 7358065708632827417
+    second: light_blue_slime_NoEffects-Sheet_1
+  - first:
+      213: 111415084510923573
+    second: light_blue_slime_NoEffects-Sheet_2
+  - first:
+      213: 8004255970448701092
+    second: light_blue_slime_NoEffects-Sheet_3
+  - first:
+      213: 9003682678118350091
+    second: light_blue_slime_NoEffects-Sheet_4
+  - first:
+      213: -781358689140734287
+    second: light_blue_slime_NoEffects-Sheet_5
+  - first:
+      213: 3048918640790716824
+    second: light_blue_slime_NoEffects-Sheet_6
+  - first:
+      213: 27986110270812202
+    second: light_blue_slime_NoEffects-Sheet_7
+  - first:
+      213: -1990467237599953720
+    second: light_blue_slime_NoEffects-Sheet_8
+  - first:
+      213: 980052842335115061
+    second: light_blue_slime_NoEffects-Sheet_9
+  - first:
+      213: -928480860249053912
+    second: light_blue_slime_NoEffects-Sheet_10
+  - first:
+      213: 925212628854491904
+    second: light_blue_slime_NoEffects-Sheet_11
+  - first:
+      213: -5600195198081141297
+    second: light_blue_slime_NoEffects-Sheet_12
+  - first:
+      213: -594394294464998726
+    second: light_blue_slime_NoEffects-Sheet_13
+  - first:
+      213: -4795709827239996668
+    second: light_blue_slime_NoEffects-Sheet_14
+  - first:
+      213: -1109112971218483604
+    second: light_blue_slime_NoEffects-Sheet_15
+  - first:
+      213: -5131236517473287743
+    second: light_blue_slime_NoEffects-Sheet_16
+  - first:
+      213: 4202540719910775254
+    second: light_blue_slime_NoEffects-Sheet_17
+  - first:
+      213: -2210327193292565293
+    second: light_blue_slime_NoEffects-Sheet_18
+  - first:
+      213: -6633516904994780279
+    second: light_blue_slime_NoEffects-Sheet_19
+  - first:
+      213: -8551422048516107178
+    second: light_blue_slime_NoEffects-Sheet_20
+  - first:
+      213: 776399816585538853
+    second: light_blue_slime_NoEffects-Sheet_21
+  - first:
+      213: 5434924174769250303
+    second: light_blue_slime_NoEffects-Sheet_22
+  - first:
+      213: -1869322108405756972
+    second: light_blue_slime_NoEffects-Sheet_23
+  - first:
+      213: -836214401224186144
+    second: light_blue_slime_NoEffects-Sheet_24
+  - first:
+      213: 6493767779291727878
+    second: light_blue_slime_NoEffects-Sheet_25
+  - first:
+      213: -4622365174647948674
+    second: light_blue_slime_NoEffects-Sheet_26
+  - first:
+      213: 2202255771819565482
+    second: light_blue_slime_NoEffects-Sheet_27
+  - first:
+      213: -7992027756023043158
+    second: light_blue_slime_NoEffects-Sheet_28
+  - first:
+      213: -8495905959760298530
+    second: light_blue_slime_NoEffects-Sheet_29
+  - first:
+      213: -671697836604736429
+    second: light_blue_slime_NoEffects-Sheet_30
+  - first:
+      213: 1583501938791180247
+    second: light_blue_slime_NoEffects-Sheet_31
+  - first:
+      213: -139270836805503204
+    second: light_blue_slime_NoEffects-Sheet_32
+  - first:
+      213: 8769597477273278032
+    second: light_blue_slime_NoEffects-Sheet_33
+  - first:
+      213: 2679033094204875269
+    second: light_blue_slime_NoEffects-Sheet_34
+  - first:
+      213: -4381084320588863470
+    second: light_blue_slime_NoEffects-Sheet_35
+  - first:
+      213: -7988320803772559722
+    second: light_blue_slime_NoEffects-Sheet_36
+  - first:
+      213: -5200742440623173629
+    second: light_blue_slime_NoEffects-Sheet_37
+  - first:
+      213: 3016616771242016958
+    second: light_blue_slime_NoEffects-Sheet_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 606
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43555eae2ef7c780800000000000000
+      internalID: -8662675881777081521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 606
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916ea0df6c91d1660800000000000000
+      internalID: 7358065708632827417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 606
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bc4e6dd63db8100800000000000000
+      internalID: 111415084510923573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 606
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6f4e19564d41f60800000000000000
+      internalID: 8004255970448701092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 606
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0df49331b183fc70800000000000000
+      internalID: 9003682678118350091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 605
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b60a9b796e0825f0800000000000000
+      internalID: -781358689140734287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 605
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891c565995fef4a20800000000000000
+      internalID: 3048918640790716824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 497
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a203651183d636000800000000000000
+      internalID: 27986110270812202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 499
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc3dc5e7907064e0800000000000000
+      internalID: -1990467237599953720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 503
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5371f781ed8d99d00800000000000000
+      internalID: 980052842335115061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 499
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8252b10b39f5d13f0800000000000000
+      internalID: -928480860249053912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 494
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bc394ebf307dc00800000000000000
+      internalID: 925212628854491904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 493
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc57681732c1842b0800000000000000
+      internalID: -5600195198081141297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 493
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab215e5d98940c7f0800000000000000
+      internalID: -594394294464998726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 382
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40392852257327db0800000000000000
+      internalID: -4795709827239996668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 381
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c668eb601a3ab90f0800000000000000
+      internalID: -1109112971218483604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 381
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c10e75e29f2ac8b0800000000000000
+      internalID: -5131236517473287743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 381
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9656cc48c625a30800000000000000
+      internalID: 4202540719910775254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 381
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d41966e0275351e0800000000000000
+      internalID: -2210327193292565293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 382
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bcc32558301f3a0800000000000000
+      internalID: -6633516904994780279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 382
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65411c944fe335980800000000000000
+      internalID: -8551422048516107178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 382
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d6247058356ca00800000000000000
+      internalID: 776399816585538853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 270
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffdd42ddbabc6b40800000000000000
+      internalID: 5434924174769250303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 270
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbc0bd4275de06e0800000000000000
+      internalID: -1869322108405756972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 270
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e667fabe6b2564f0800000000000000
+      internalID: -836214401224186144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 269
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6088f8ac36f7e1a50800000000000000
+      internalID: 6493767779291727878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 269
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7af8fe2d5f0adfb0800000000000000
+      internalID: -4622365174647948674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 269
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1ebd7d4fbff8e10800000000000000
+      internalID: 2202255771819565482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 269
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab2f27791d961190800000000000000
+      internalID: -7992027756023043158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 158
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddfc57fa8a781a80800000000000000
+      internalID: -8495905959760298530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 160
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cb6cc5066ada6f0800000000000000
+      internalID: -671697836604736429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 158
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d76ac2af9ab9f510800000000000000
+      internalID: 1583501938791180247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 156
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17f2ac69e5311ef0800000000000000
+      internalID: -139270836805503204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 158
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0561908317ed3b970800000000000000
+      internalID: 8769597477273278032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 158
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502e891b766dd2520800000000000000
+      internalID: 2679033094204875269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 157
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218644cb5034333c0800000000000000
+      internalID: -4381084320588863470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 43
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e064b8d88c32190800000000000000
+      internalID: -7988320803772559722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 42
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3009b521e4043d7b0800000000000000
+      internalID: -5200742440623173629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_blue_slime_NoEffects-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 38
+        width: 55
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0cd5188fc2dd920800000000000000
+      internalID: 3016616771242016958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

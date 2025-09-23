@@ -1,0 +1,1342 @@
+fileFormatVersion: 2
+guid: ef97184dc806ce2458c7fe3482283cdb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1224553520376445049
+    second: purple_slime-Sheet_0
+  - first:
+      213: 5977994293965384281
+    second: purple_slime-Sheet_1
+  - first:
+      213: 753354562011785613
+    second: purple_slime-Sheet_2
+  - first:
+      213: 4179138220190475226
+    second: purple_slime-Sheet_3
+  - first:
+      213: -5704280407467409397
+    second: purple_slime-Sheet_4
+  - first:
+      213: -4494190483655396709
+    second: purple_slime-Sheet_5
+  - first:
+      213: 5799398463430710124
+    second: purple_slime-Sheet_6
+  - first:
+      213: 7478427076387163962
+    second: purple_slime-Sheet_7
+  - first:
+      213: 4289525101136120159
+    second: purple_slime-Sheet_8
+  - first:
+      213: 3586917128009442860
+    second: purple_slime-Sheet_9
+  - first:
+      213: -3302143247451085139
+    second: purple_slime-Sheet_10
+  - first:
+      213: 3164140202914600878
+    second: purple_slime-Sheet_11
+  - first:
+      213: 6627093719930972829
+    second: purple_slime-Sheet_12
+  - first:
+      213: 2757288976090076205
+    second: purple_slime-Sheet_13
+  - first:
+      213: 4856012830594394929
+    second: purple_slime-Sheet_14
+  - first:
+      213: -7071249291634299793
+    second: purple_slime-Sheet_15
+  - first:
+      213: 1796579587065131667
+    second: purple_slime-Sheet_16
+  - first:
+      213: -5628285874097226081
+    second: purple_slime-Sheet_17
+  - first:
+      213: -9152043281456348522
+    second: purple_slime-Sheet_18
+  - first:
+      213: 5916079751125716165
+    second: purple_slime-Sheet_19
+  - first:
+      213: 3656435319316341896
+    second: purple_slime-Sheet_20
+  - first:
+      213: 1525784720531356123
+    second: purple_slime-Sheet_21
+  - first:
+      213: 3107301265647944494
+    second: purple_slime-Sheet_22
+  - first:
+      213: -4461470128967982089
+    second: purple_slime-Sheet_23
+  - first:
+      213: 3154040114494291895
+    second: purple_slime-Sheet_24
+  - first:
+      213: -8537977093675072455
+    second: purple_slime-Sheet_25
+  - first:
+      213: -2584948216572386329
+    second: purple_slime-Sheet_26
+  - first:
+      213: -9038087805788013232
+    second: purple_slime-Sheet_27
+  - first:
+      213: 7631813246850118944
+    second: purple_slime-Sheet_28
+  - first:
+      213: -8879213126411549663
+    second: purple_slime-Sheet_29
+  - first:
+      213: -541395075894577419
+    second: purple_slime-Sheet_30
+  - first:
+      213: -8687613430679000717
+    second: purple_slime-Sheet_31
+  - first:
+      213: -971236496318501458
+    second: purple_slime-Sheet_32
+  - first:
+      213: 5664847265863753642
+    second: purple_slime-Sheet_33
+  - first:
+      213: -1441835533816227419
+    second: purple_slime-Sheet_34
+  - first:
+      213: -4406359326874055435
+    second: purple_slime-Sheet_35
+  - first:
+      213: -3422497202443264906
+    second: purple_slime-Sheet_36
+  - first:
+      213: -6019740215436386632
+    second: purple_slime-Sheet_37
+  - first:
+      213: 5124628813824261202
+    second: purple_slime-Sheet_38
+  - first:
+      213: 6493354098017271359
+    second: purple_slime-Sheet_39
+  - first:
+      213: 43100067592885475
+    second: purple_slime-Sheet_40
+  - first:
+      213: 7878333239972326332
+    second: purple_slime-Sheet_41
+  - first:
+      213: 6345450250981586412
+    second: purple_slime-Sheet_42
+  - first:
+      213: 2675576704786365299
+    second: purple_slime-Sheet_43
+  - first:
+      213: -377460004641236129
+    second: purple_slime-Sheet_44
+  - first:
+      213: 2986154725430502730
+    second: purple_slime-Sheet_45
+  - first:
+      213: 3924774795452021263
+    second: purple_slime-Sheet_46
+  - first:
+      213: 5996494994983824202
+    second: purple_slime-Sheet_47
+  - first:
+      213: 5405731987512813640
+    second: purple_slime-Sheet_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: purple_slime-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 590
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7870289af03810fe0800000000000000
+      internalID: -1224553520376445049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 589
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a6e19332a16f250800000000000000
+      internalID: 5977994293965384281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 589
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89e1a29bf3747a00800000000000000
+      internalID: 753354562011785613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 590
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad326b9b1184ff930800000000000000
+      internalID: 4179138220190475226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 591
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b004fa5213356d0b0800000000000000
+      internalID: -5704280407467409397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 596
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9277ccf09d61a1c0800000000000000
+      internalID: -4494190483655396709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 583
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63dbbb0d2a9b7050800000000000000
+      internalID: 5799398463430710124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 497
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f48b6bdc5b8c760800000000000000
+      internalID: 7478427076387163962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 499
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5907544a54778b30800000000000000
+      internalID: 4289525101136120159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 503
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2664c5af1a47c130800000000000000
+      internalID: 3586917128009442860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 499
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da62932463e6c22d0800000000000000
+      internalID: -3302143247451085139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 473
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7d14e00c849eb20800000000000000
+      internalID: 3164140202914600878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 482
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a25bd50aa28fb50800000000000000
+      internalID: 6627093719930972829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 484
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2413fa07bbd34620800000000000000
+      internalID: 2757288976090076205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 467
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b6150f0f5046340800000000000000
+      internalID: 4856012830594394929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 465
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ca7edfb30eddd90800000000000000
+      internalID: -7071249291634299793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 463
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3923cb1ad9bbee810800000000000000
+      internalID: 1796579587065131667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 469
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ef51441df44e1b0800000000000000
+      internalID: -5628285874097226081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 365
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6924bc700296df080800000000000000
+      internalID: -9152043281456348522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 366
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cccabc50332a1250800000000000000
+      internalID: 5916079751125716165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 364
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884ea00ec844eb230800000000000000
+      internalID: 3656435319316341896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 360
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd97dfe8e1dac2510800000000000000
+      internalID: 1525784720531356123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 364
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e234115b90a5f1b20800000000000000
+      internalID: 3107301265647944494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 365
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3e8da3e8ca512c0800000000000000
+      internalID: -4461470128967982089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 366
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfb3c7f5c665cb20800000000000000
+      internalID: 3154040114494291895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 366
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9344317c113038980800000000000000
+      internalID: -8537977093675072455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 251
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e36c6cea4b602cd0800000000000000
+      internalID: -2584948216572386329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 248
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d3737c603429280800000000000000
+      internalID: -9038087805788013232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 241
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0253f9286b5a9e960800000000000000
+      internalID: 7631813246850118944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 237
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1240143a4b2b6c480800000000000000
+      internalID: -8879213126411549663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 237
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f678220c049c78f0800000000000000
+      internalID: -541395075894577419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 241
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379277e1d956f6780800000000000000
+      internalID: -8687613430679000717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 265
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead6a0c6d897582f0800000000000000
+      internalID: -971236496318501458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 248
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafd6ac13949d9e40800000000000000
+      internalID: 5664847265863753642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 265
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9195e98329dfbe0800000000000000
+      internalID: -1441835533816227419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 154
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc41f0c98779d2c0800000000000000
+      internalID: -4406359326874055435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 142
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cd9937de8d080d0800000000000000
+      internalID: -3422497202443264906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 154
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bed7c20b26957ca0800000000000000
+      internalID: -6019740215436386632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 142
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cf9b531c65e1740800000000000000
+      internalID: 5124628813824261202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 160
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e752d16270d1a50800000000000000
+      internalID: 6493354098017271359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 145
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e45baa784f199000800000000000000
+      internalID: 43100067592885475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 149
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbe3be2756755d60800000000000000
+      internalID: 7878333239972326332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 141
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5bba532619f0850800000000000000
+      internalID: 6345450250981586412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 142
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bf91256de812520800000000000000
+      internalID: 2675576704786365299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 137
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b117a202ef2caf0800000000000000
+      internalID: -377460004641236129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 33
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45a3a5c6e3f07920800000000000000
+      internalID: 2986154725430502730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 37
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0af252d1e9977630800000000000000
+      internalID: 3924774795452021263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 39
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b2b695d64d73350800000000000000
+      internalID: 5996494994983824202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_slime-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 38
+        width: 55
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848eaa21a94050b40800000000000000
+      internalID: 5405731987512813640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1942 @@
+fileFormatVersion: 2
+guid: 46355fc5432e62749ab0a693fa311e8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1883794606175567889
+    second: thorkell-Sheet_0
+  - first:
+      213: -3070636290971317761
+    second: thorkell-Sheet_1
+  - first:
+      213: -8826732742815584925
+    second: thorkell-Sheet_2
+  - first:
+      213: 8554415000603641596
+    second: thorkell-Sheet_3
+  - first:
+      213: -4820545586757604781
+    second: thorkell-Sheet_4
+  - first:
+      213: -7051217548147922981
+    second: thorkell-Sheet_5
+  - first:
+      213: -359936890554141105
+    second: thorkell-Sheet_6
+  - first:
+      213: -8730102004559595902
+    second: thorkell-Sheet_7
+  - first:
+      213: -8275889731421566004
+    second: thorkell-Sheet_8
+  - first:
+      213: 8394729371052063593
+    second: thorkell-Sheet_9
+  - first:
+      213: 3383242341071637178
+    second: thorkell-Sheet_10
+  - first:
+      213: 5571279908886583724
+    second: thorkell-Sheet_11
+  - first:
+      213: -7368624940336685961
+    second: thorkell-Sheet_12
+  - first:
+      213: -3102792063879242026
+    second: thorkell-Sheet_13
+  - first:
+      213: -4782171679823954455
+    second: thorkell-Sheet_14
+  - first:
+      213: 1322532524035180641
+    second: thorkell-Sheet_15
+  - first:
+      213: 6602102490452497635
+    second: thorkell-Sheet_16
+  - first:
+      213: 6126952897908654808
+    second: thorkell-Sheet_17
+  - first:
+      213: 1498351748033143402
+    second: thorkell-Sheet_18
+  - first:
+      213: -7382487429312434961
+    second: thorkell-Sheet_19
+  - first:
+      213: 5404751034048380597
+    second: thorkell-Sheet_20
+  - first:
+      213: 5731145629433643963
+    second: thorkell-Sheet_21
+  - first:
+      213: 6918257204390361647
+    second: thorkell-Sheet_22
+  - first:
+      213: 2613412014770531072
+    second: thorkell-Sheet_23
+  - first:
+      213: 6126646246929023541
+    second: thorkell-Sheet_24
+  - first:
+      213: -4028514269936100107
+    second: thorkell-Sheet_25
+  - first:
+      213: -8717671685719006353
+    second: thorkell-Sheet_26
+  - first:
+      213: 3575202061961311554
+    second: thorkell-Sheet_27
+  - first:
+      213: -5408466801221860926
+    second: thorkell-Sheet_28
+  - first:
+      213: -1450469717421471573
+    second: thorkell-Sheet_29
+  - first:
+      213: -3122209179896861439
+    second: thorkell-Sheet_30
+  - first:
+      213: -2150552895745360062
+    second: thorkell-Sheet_31
+  - first:
+      213: 2007209467525905507
+    second: thorkell-Sheet_32
+  - first:
+      213: 5837501504001099716
+    second: thorkell-Sheet_33
+  - first:
+      213: -5519184279944743688
+    second: thorkell-Sheet_34
+  - first:
+      213: 2414704038435716606
+    second: thorkell-Sheet_35
+  - first:
+      213: -1977008941813898007
+    second: thorkell-Sheet_36
+  - first:
+      213: -1479247164928697714
+    second: thorkell-Sheet_37
+  - first:
+      213: 4518573694477506959
+    second: thorkell-Sheet_38
+  - first:
+      213: -7723852186186237224
+    second: thorkell-Sheet_39
+  - first:
+      213: 7209499416298823540
+    second: thorkell-Sheet_40
+  - first:
+      213: -3748763707054028865
+    second: thorkell-Sheet_41
+  - first:
+      213: 2117425271543198616
+    second: thorkell-Sheet_42
+  - first:
+      213: 9201381700974356835
+    second: thorkell-Sheet_43
+  - first:
+      213: -6861511111490817290
+    second: thorkell-Sheet_44
+  - first:
+      213: -5985501716845118027
+    second: thorkell-Sheet_45
+  - first:
+      213: -6280456894682202714
+    second: thorkell-Sheet_46
+  - first:
+      213: 2528847194757589872
+    second: thorkell-Sheet_47
+  - first:
+      213: -4791994784367275148
+    second: thorkell-Sheet_48
+  - first:
+      213: 83537042601159111
+    second: thorkell-Sheet_49
+  - first:
+      213: 795098778371942536
+    second: thorkell-Sheet_50
+  - first:
+      213: 6523623900333637614
+    second: thorkell-Sheet_51
+  - first:
+      213: 5736947139370977542
+    second: thorkell-Sheet_52
+  - first:
+      213: 4506018587706551939
+    second: thorkell-Sheet_53
+  - first:
+      213: 8685042665329665442
+    second: thorkell-Sheet_54
+  - first:
+      213: -4068204515221340896
+    second: thorkell-Sheet_55
+  - first:
+      213: 3632284014690455271
+    second: thorkell-Sheet_56
+  - first:
+      213: 8515787168158873930
+    second: thorkell-Sheet_57
+  - first:
+      213: 8111210795139137567
+    second: thorkell-Sheet_58
+  - first:
+      213: 2209649754166324356
+    second: thorkell-Sheet_59
+  - first:
+      213: 7081971253169497968
+    second: thorkell-Sheet_60
+  - first:
+      213: 109738363229149320
+    second: thorkell-Sheet_61
+  - first:
+      213: 5801601891920225224
+    second: thorkell-Sheet_62
+  - first:
+      213: 522746942822089666
+    second: thorkell-Sheet_63
+  - first:
+      213: -383923648497855429
+    second: thorkell-Sheet_64
+  - first:
+      213: -3141705708478068649
+    second: thorkell-Sheet_65
+  - first:
+      213: -2186791016353112908
+    second: thorkell-Sheet_66
+  - first:
+      213: -3456062123836684670
+    second: thorkell-Sheet_67
+  - first:
+      213: -8420267082660500424
+    second: thorkell-Sheet_68
+  - first:
+      213: 93507958066231121
+    second: thorkell-Sheet_69
+  - first:
+      213: -2607207500858027578
+    second: thorkell-Sheet_70
+  - first:
+      213: -5159312530030254906
+    second: thorkell-Sheet_71
+  - first:
+      213: -6077497938573909783
+    second: thorkell-Sheet_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: thorkell-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 697
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11044eaa635942a10800000000000000
+      internalID: 1883794606175567889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 696
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff94b32ff88e265d0800000000000000
+      internalID: -3070636290971317761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 696
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36dea212655218580800000000000000
+      internalID: -8826732742815584925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 697
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6c04cae1367b670800000000000000
+      internalID: 8554415000603641596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 698
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a6cb5445bf91db0800000000000000
+      internalID: -4820545586757604781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 697
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd764a8bffa052e90800000000000000
+      internalID: -7051217548147922981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 696
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4636f81e4f310bf0800000000000000
+      internalID: -359936890554141105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 694
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286bc4d1b7278d680800000000000000
+      internalID: -8730102004559595902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 586
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb80560322262d80800000000000000
+      internalID: -8275889731421566004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 585
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bb813c2e1108470800000000000000
+      internalID: 8394729371052063593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 584
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abac2a8ebf0b3fe20800000000000000
+      internalID: 3383242341071637178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 582
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca994792f89215d40800000000000000
+      internalID: 5571279908886583724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 585
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cd52c48a26db990800000000000000
+      internalID: -7368624940336685961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 584
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de9394ae0ba0f4d0800000000000000
+      internalID: -3102792063879242026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 609
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edf829b13052adb0800000000000000
+      internalID: -4782171679823954455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 626
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1688403d2549a5210800000000000000
+      internalID: 1322532524035180641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 574
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e494225c316f9b50800000000000000
+      internalID: 6602102490452497635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 564
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2456bd23f470550800000000000000
+      internalID: 6126952897908654808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 514
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62e91ae9f63bc410800000000000000
+      internalID: 1498351748033143402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 506
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecab011cc22c8990800000000000000
+      internalID: -7382487429312434961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 501
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bef0eb0e68810b40800000000000000
+      internalID: 5404751034048380597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 472
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3cc66c59e198f40800000000000000
+      internalID: 5731145629433643963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 473
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a797cd546920060800000000000000
+      internalID: 6918257204390361647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 473
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ba2288164b44420800000000000000
+      internalID: 2613412014770531072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 473
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5324fac1d48360550800000000000000
+      internalID: 6126646246929023541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 473
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcdddf8d97d718c0800000000000000
+      internalID: -4028514269936100107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 456
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63ec304acb940780800000000000000
+      internalID: -8717671685719006353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 462
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245b277455bad9130800000000000000
+      internalID: 3575202061961311554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 465
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c18dad791441f4b0800000000000000
+      internalID: -5408466801221860926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 363
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8c1a71a75eedbe0800000000000000
+      internalID: -1450469717421471573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 363
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10da8c50b4faba4d0800000000000000
+      internalID: -3122209179896861439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 363
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ff8621983b722e0800000000000000
+      internalID: -2150552895745360062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 361
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cbea5406a0bdb10800000000000000
+      internalID: 2007209467525905507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 354
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c74bc180b8f20150800000000000000
+      internalID: 5837501504001099716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 363
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f439f7a32be763b0800000000000000
+      internalID: -5519184279944743688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 363
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd79a08780c28120800000000000000
+      internalID: 2414704038435716606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 363
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4696197d04094e0800000000000000
+      internalID: -1977008941813898007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 250
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8adb677a88a87be0800000000000000
+      internalID: -1479247164928697714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 249
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8991cea5d235be30800000000000000
+      internalID: 4518573694477506959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 249
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dabeb00c5d5fc490800000000000000
+      internalID: -7723852186186237224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 236
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f90e485894d0460800000000000000
+      internalID: 7209499416298823540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 242
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb70b2e2547b9fbc0800000000000000
+      internalID: -3748763707054028865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 250
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89374ccd01b926d10800000000000000
+      internalID: 2117425271543198616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 251
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3692b51f7efd1bf70800000000000000
+      internalID: 9201381700974356835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 251
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2b1397ff307c0a0800000000000000
+      internalID: -6861511111490817290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 137
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdb4fca6e93feca0800000000000000
+      internalID: -5985501716845118027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 137
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad7055cab557d8a0800000000000000
+      internalID: -6280456894682202714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 137
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07be4ce0025481320800000000000000
+      internalID: 2528847194757589872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 137
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4739348f12a6f7db0800000000000000
+      internalID: -4791994784367275148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 138
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c924d56f78c82100800000000000000
+      internalID: 83537042601159111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 151
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888e4365022c80b00800000000000000
+      internalID: 795098778371942536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 140
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef72abaf51988a50800000000000000
+      internalID: 6523623900333637614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 154
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6098661170bbd9f40800000000000000
+      internalID: 5736947139370977542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 143
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e6e871808988e30800000000000000
+      internalID: 4506018587706551939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 156
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5261ee948778870800000000000000
+      internalID: 8685042665329665442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 145
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d77943c85da87c0800000000000000
+      internalID: -4068204515221340896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 154
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee44f21117786230800000000000000
+      internalID: 3632284014690455271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 36
+        width: 65
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4970f49f472e2670800000000000000
+      internalID: 8515787168158873930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 38
+        width: 65
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10059e3e3fc09070800000000000000
+      internalID: 8111210795139137567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 38
+        width: 65
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cec138eb04aae10800000000000000
+      internalID: 2209649754166324356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 38
+        width: 65
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07722b63557384260800000000000000
+      internalID: 7081971253169497968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 38
+        width: 66
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888918eb57ed58100800000000000000
+      internalID: 109738363229149320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 38
+        width: 75
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3a328be2e638050800000000000000
+      internalID: 5801601891920225224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3055a239b214700800000000000000
+      internalID: 522746942822089666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 38
+        width: 65
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34d96ec9770caaf0800000000000000
+      internalID: -383923648497855429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 55
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7580959bd4b6664d0800000000000000
+      internalID: -3141705708478068649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 38
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcd1402825f6a1e0800000000000000
+      internalID: -2186791016353112908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 44
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28648033fc99900d0800000000000000
+      internalID: -3456062123836684670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 44
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c2b1863b3352b80800000000000000
+      internalID: -8420267082660500424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 44
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157b5301ef43c4100800000000000000
+      internalID: 93507958066231121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 44
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c19f9f679651dbd0800000000000000
+      internalID: -2607207500858027578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 44
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c42352d6907668b0800000000000000
+      internalID: -5159312530030254906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 44
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0222823d368aba0800000000000000
+      internalID: -6077497938573909783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

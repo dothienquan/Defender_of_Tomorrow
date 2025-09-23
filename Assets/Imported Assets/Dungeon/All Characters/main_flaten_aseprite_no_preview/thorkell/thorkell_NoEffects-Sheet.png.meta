@@ -1,0 +1,1742 @@
+fileFormatVersion: 2
+guid: 79cefe46a5218ec43b74e1767953b225
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8128204460461315540
+    second: thorkell_NoEffects-Sheet_0
+  - first:
+      213: 1901411469676651197
+    second: thorkell_NoEffects-Sheet_1
+  - first:
+      213: 7497292901512639974
+    second: thorkell_NoEffects-Sheet_2
+  - first:
+      213: -6491071321472260234
+    second: thorkell_NoEffects-Sheet_3
+  - first:
+      213: 3134728652375369801
+    second: thorkell_NoEffects-Sheet_4
+  - first:
+      213: -8336809865192758479
+    second: thorkell_NoEffects-Sheet_5
+  - first:
+      213: 6438880970384988126
+    second: thorkell_NoEffects-Sheet_6
+  - first:
+      213: 6743954865801961832
+    second: thorkell_NoEffects-Sheet_7
+  - first:
+      213: 6836957676247816605
+    second: thorkell_NoEffects-Sheet_8
+  - first:
+      213: -5668565974716030267
+    second: thorkell_NoEffects-Sheet_9
+  - first:
+      213: -7570063671395609720
+    second: thorkell_NoEffects-Sheet_10
+  - first:
+      213: 4768984139774237729
+    second: thorkell_NoEffects-Sheet_11
+  - first:
+      213: -7635341768043780384
+    second: thorkell_NoEffects-Sheet_12
+  - first:
+      213: 5416465774893044137
+    second: thorkell_NoEffects-Sheet_13
+  - first:
+      213: 4947604367284015573
+    second: thorkell_NoEffects-Sheet_14
+  - first:
+      213: -5660498143829985869
+    second: thorkell_NoEffects-Sheet_15
+  - first:
+      213: 168602969087494762
+    second: thorkell_NoEffects-Sheet_16
+  - first:
+      213: -4674349060303726623
+    second: thorkell_NoEffects-Sheet_17
+  - first:
+      213: -668378535838597129
+    second: thorkell_NoEffects-Sheet_18
+  - first:
+      213: -670661967019811641
+    second: thorkell_NoEffects-Sheet_19
+  - first:
+      213: 4194301107279687870
+    second: thorkell_NoEffects-Sheet_20
+  - first:
+      213: -8847910378168922919
+    second: thorkell_NoEffects-Sheet_21
+  - first:
+      213: -4691442336226897576
+    second: thorkell_NoEffects-Sheet_22
+  - first:
+      213: -7193132877173486537
+    second: thorkell_NoEffects-Sheet_23
+  - first:
+      213: -5273737814323316728
+    second: thorkell_NoEffects-Sheet_24
+  - first:
+      213: -1660181828759675644
+    second: thorkell_NoEffects-Sheet_25
+  - first:
+      213: 6171179546653799969
+    second: thorkell_NoEffects-Sheet_26
+  - first:
+      213: -3195812403823398538
+    second: thorkell_NoEffects-Sheet_27
+  - first:
+      213: -5686513813590095916
+    second: thorkell_NoEffects-Sheet_28
+  - first:
+      213: 1105606050139309101
+    second: thorkell_NoEffects-Sheet_29
+  - first:
+      213: 2643759177975526716
+    second: thorkell_NoEffects-Sheet_30
+  - first:
+      213: -3907057485586277463
+    second: thorkell_NoEffects-Sheet_31
+  - first:
+      213: 3113681646329250084
+    second: thorkell_NoEffects-Sheet_32
+  - first:
+      213: -8594053290792266216
+    second: thorkell_NoEffects-Sheet_33
+  - first:
+      213: -1649104135965919884
+    second: thorkell_NoEffects-Sheet_34
+  - first:
+      213: -8465221212292647420
+    second: thorkell_NoEffects-Sheet_35
+  - first:
+      213: 1805301383152850737
+    second: thorkell_NoEffects-Sheet_36
+  - first:
+      213: 2216384334024783408
+    second: thorkell_NoEffects-Sheet_37
+  - first:
+      213: -2874542398464945208
+    second: thorkell_NoEffects-Sheet_38
+  - first:
+      213: -2308813999786653237
+    second: thorkell_NoEffects-Sheet_39
+  - first:
+      213: -4268381995395274412
+    second: thorkell_NoEffects-Sheet_40
+  - first:
+      213: -2920790499070982289
+    second: thorkell_NoEffects-Sheet_41
+  - first:
+      213: -2817966341888362583
+    second: thorkell_NoEffects-Sheet_42
+  - first:
+      213: 3105953012287812391
+    second: thorkell_NoEffects-Sheet_43
+  - first:
+      213: 1042279615359802575
+    second: thorkell_NoEffects-Sheet_44
+  - first:
+      213: 2523624886856421364
+    second: thorkell_NoEffects-Sheet_45
+  - first:
+      213: 2883086904481784978
+    second: thorkell_NoEffects-Sheet_46
+  - first:
+      213: 631739173186525597
+    second: thorkell_NoEffects-Sheet_47
+  - first:
+      213: -3117245925865060318
+    second: thorkell_NoEffects-Sheet_48
+  - first:
+      213: -8200072360485396173
+    second: thorkell_NoEffects-Sheet_49
+  - first:
+      213: 9197515618909954415
+    second: thorkell_NoEffects-Sheet_50
+  - first:
+      213: 600790417178391915
+    second: thorkell_NoEffects-Sheet_51
+  - first:
+      213: 3219661674742906164
+    second: thorkell_NoEffects-Sheet_52
+  - first:
+      213: 1837327298114135929
+    second: thorkell_NoEffects-Sheet_53
+  - first:
+      213: 5696744729566021683
+    second: thorkell_NoEffects-Sheet_54
+  - first:
+      213: -823058910363963263
+    second: thorkell_NoEffects-Sheet_55
+  - first:
+      213: 7742376452634377964
+    second: thorkell_NoEffects-Sheet_56
+  - first:
+      213: 3547632553366643938
+    second: thorkell_NoEffects-Sheet_57
+  - first:
+      213: -1471387598846808693
+    second: thorkell_NoEffects-Sheet_58
+  - first:
+      213: 7442228381874848252
+    second: thorkell_NoEffects-Sheet_59
+  - first:
+      213: 6793179007601181055
+    second: thorkell_NoEffects-Sheet_60
+  - first:
+      213: -3937038809294252601
+    second: thorkell_NoEffects-Sheet_61
+  - first:
+      213: -1686579767749662264
+    second: thorkell_NoEffects-Sheet_62
+  - first:
+      213: -4437702487505337182
+    second: thorkell_NoEffects-Sheet_63
+  - first:
+      213: -6166180632467067159
+    second: thorkell_NoEffects-Sheet_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 714
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5da8744ee2dc070800000000000000
+      internalID: 8128204460461315540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 714
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db22ee558ab236a10800000000000000
+      internalID: 1901411469676651197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 715
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5f7bbeb2cbb0860800000000000000
+      internalID: 7497292901512639974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 715
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677abe736051be5a0800000000000000
+      internalID: -6491071321472260234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 712
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948a210d91bc08b20800000000000000
+      internalID: 3134728652375369801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 714
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133a6311993bd4c80800000000000000
+      internalID: -8336809865192758479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 715
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7d1deb0208b5950800000000000000
+      internalID: 6438880970384988126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 717
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861a46d2837579d50800000000000000
+      internalID: 6743954865801961832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 600
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99912568c0c1ee50800000000000000
+      internalID: 6836957676247816605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 602
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c26f2387453551b0800000000000000
+      internalID: -5668565974716030267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 603
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8831063e23bb1f690800000000000000
+      internalID: -7570063671395609720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 606
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c17b6dec5de2240800000000000000
+      internalID: 4768984139774237729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 601
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e62c01ad11d90690800000000000000
+      internalID: -7635341768043780384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 603
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a19f82bce62b2b40800000000000000
+      internalID: 5416465774893044137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 609
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1922165fb69a440800000000000000
+      internalID: 4947604367284015573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 626
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b57145cdeed171b0800000000000000
+      internalID: -5660498143829985869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 514
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a4980d18ff65200800000000000000
+      internalID: 168602969087494762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 506
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e75a60ab40612fb0800000000000000
+      internalID: -4674349060303726623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 501
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff38db434179b6f0800000000000000
+      internalID: -668378535838597129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 495
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc5b6b8e7451b6f0800000000000000
+      internalID: -670661967019811641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 486
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0fe6c72a6253a30800000000000000
+      internalID: 4194301107279687870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 490
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dccfb8a368e53580800000000000000
+      internalID: -8847910378168922919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 489
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85197f03d06a4eeb0800000000000000
+      internalID: -4691442336226897576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 486
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c04e152cbdc2c90800000000000000
+      internalID: -7193132877173486537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 382
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808b6ba366befc6b0800000000000000
+      internalID: -5273737814323316728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 382
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d983a3c69d5f8e0800000000000000
+      internalID: -1660181828759675644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 382
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126b473f91f64a550800000000000000
+      internalID: 6171179546653799969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 379
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671b1550d8136a3d0800000000000000
+      internalID: -3195812403823398538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 383
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d74c92a0d17511b0800000000000000
+      internalID: -5686513813590095916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 383
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24831848d6e75f00800000000000000
+      internalID: 1105606050139309101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 383
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35f8e217f480b420800000000000000
+      internalID: 2643759177975526716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 383
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab5996dae757c9c0800000000000000
+      internalID: -3907057485586277463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 271
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421cb19d5f4063b20800000000000000
+      internalID: 3113681646329250084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 269
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816dc85b01acbb880800000000000000
+      internalID: -8594053290792266216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 271
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475bf1296843d19e0800000000000000
+      internalID: -1649104135965919884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 271
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406f138782e758a80800000000000000
+      internalID: -8465221212292647420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 271
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137d8570b08bd0910800000000000000
+      internalID: 1805301383152850737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 267
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036b9431fcd22ce10800000000000000
+      internalID: 2216384334024783408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 267
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c392b72be29b18d0800000000000000
+      internalID: -2874542398464945208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 267
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9844a56e175ffd0800000000000000
+      internalID: -2308813999786653237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 153
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459aac6a039a3c4c0800000000000000
+      internalID: -4268381995395274412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 154
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67c98f14844777d0800000000000000
+      internalID: -2920790499070982289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 153
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7bcb2da8294e8d0800000000000000
+      internalID: -2817966341888362583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 154
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72338720fcf8a1b20800000000000000
+      internalID: 3105953012287812391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 155
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccd626b9cbe67e00800000000000000
+      internalID: 1042279615359802575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 158
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff896fb677b50320800000000000000
+      internalID: 2523624886856421364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 154
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294a73ea348c20820800000000000000
+      internalID: 2883086904481784978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 157
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d995b705e6364c800800000000000000
+      internalID: 631739173186525597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 159
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2288747a8515db4d0800000000000000
+      internalID: -3117245925865060318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 154
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331e4cc42ad733e80800000000000000
+      internalID: -8200072360485396173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 156
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f612c3199b324af70800000000000000
+      internalID: 9197515618909954415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 159
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65706883bf665800800000000000000
+      internalID: 600790417178391915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 154
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d7df31c398eac20800000000000000
+      internalID: 3219661674742906164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 44
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977a83c617f7f7910800000000000000
+      internalID: 1837327298114135929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 47
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3388cdd1627ee0f40800000000000000
+      internalID: 5696744729566021683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 42
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18039822848e394f0800000000000000
+      internalID: -823058910363963263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 44
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceefe90ec52727b60800000000000000
+      internalID: 7742376452634377964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 47
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4e709d209bb3130800000000000000
+      internalID: 3547632553366643938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 42
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d22db46c4949be0800000000000000
+      internalID: -1471387598846808693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 44
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf10bfe584b184760800000000000000
+      internalID: 7442228381874848252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 47
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7185bbc058364e50800000000000000
+      internalID: 6793179007601181055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 42
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5d611ff04dc59c0800000000000000
+      internalID: -3937038809294252601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 44
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9abe913a01898e0800000000000000
+      internalID: -1686579767749662264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 47
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4806d791d1a62c0800000000000000
+      internalID: -4437702487505337182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorkell_NoEffects-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 42
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee28e472635d6aa0800000000000000
+      internalID: -6166180632467067159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
