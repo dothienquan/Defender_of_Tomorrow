@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      water_rocks_statues_background_loop_0: 185939347096854946
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

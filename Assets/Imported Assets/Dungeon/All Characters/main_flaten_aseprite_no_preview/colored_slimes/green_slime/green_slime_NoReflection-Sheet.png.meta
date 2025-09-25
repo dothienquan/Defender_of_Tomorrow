@@ -1209,7 +1209,51 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      green_slime_NoReflection-Sheet_0: -6047136130001385598
+      green_slime_NoReflection-Sheet_1: -5843973852294280967
+      green_slime_NoReflection-Sheet_10: 8324854257981531718
+      green_slime_NoReflection-Sheet_11: 6431541631631175475
+      green_slime_NoReflection-Sheet_12: 8403076927156734480
+      green_slime_NoReflection-Sheet_13: 5028222247095014404
+      green_slime_NoReflection-Sheet_14: 6275951223496792696
+      green_slime_NoReflection-Sheet_15: -8660948463395042333
+      green_slime_NoReflection-Sheet_16: -4582137067261215106
+      green_slime_NoReflection-Sheet_17: -298519975266489881
+      green_slime_NoReflection-Sheet_18: 7339701770609317365
+      green_slime_NoReflection-Sheet_19: 2830203847000448392
+      green_slime_NoReflection-Sheet_2: 1091829886790079492
+      green_slime_NoReflection-Sheet_20: 3391631721152706511
+      green_slime_NoReflection-Sheet_21: -8830989058465801037
+      green_slime_NoReflection-Sheet_22: -3152202248414378742
+      green_slime_NoReflection-Sheet_23: 937947469316215606
+      green_slime_NoReflection-Sheet_24: 4313078903650502610
+      green_slime_NoReflection-Sheet_25: 4796277417794262483
+      green_slime_NoReflection-Sheet_26: -7470354245469424869
+      green_slime_NoReflection-Sheet_27: -4851021115416051727
+      green_slime_NoReflection-Sheet_28: -4335778339279756617
+      green_slime_NoReflection-Sheet_29: 6426673924598128083
+      green_slime_NoReflection-Sheet_3: -7733073091482888642
+      green_slime_NoReflection-Sheet_30: -6226082718479656000
+      green_slime_NoReflection-Sheet_31: 1999856083128332051
+      green_slime_NoReflection-Sheet_32: 3161002321129974134
+      green_slime_NoReflection-Sheet_33: -9013228580897348389
+      green_slime_NoReflection-Sheet_34: -2295483505001207955
+      green_slime_NoReflection-Sheet_35: -3454506447837337108
+      green_slime_NoReflection-Sheet_36: -4651703321098876512
+      green_slime_NoReflection-Sheet_37: -4144423995234485244
+      green_slime_NoReflection-Sheet_38: 6654545682179549141
+      green_slime_NoReflection-Sheet_39: 3618867630902712948
+      green_slime_NoReflection-Sheet_4: -1073875367319851364
+      green_slime_NoReflection-Sheet_40: 3326442367008553904
+      green_slime_NoReflection-Sheet_41: -5296256006108184245
+      green_slime_NoReflection-Sheet_42: -1613972073776290003
+      green_slime_NoReflection-Sheet_43: 8428699239071639714
+      green_slime_NoReflection-Sheet_5: -206733344105176933
+      green_slime_NoReflection-Sheet_6: 4647023599547609142
+      green_slime_NoReflection-Sheet_7: -7409407872953690857
+      green_slime_NoReflection-Sheet_8: 3397210869765700271
+      green_slime_NoReflection-Sheet_9: -5782429414718524947
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
