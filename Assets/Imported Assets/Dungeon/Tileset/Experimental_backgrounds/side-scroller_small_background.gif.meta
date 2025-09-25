@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      side-scroller_small_background_0: -2902754925071550110
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
