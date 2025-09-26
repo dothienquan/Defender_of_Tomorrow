@@ -114,6 +114,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -284,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Zombie_Big_Side_First-Death-Sheet7_0: 5093127419786650033
+      Zombie_Big_Side_First-Death-Sheet7_1: -166806177986690787
+      Zombie_Big_Side_First-Death-Sheet7_2: 7270861996023920069
+      Zombie_Big_Side_First-Death-Sheet7_3: -1590386015103027756
+      Zombie_Big_Side_First-Death-Sheet7_4: 6915298883949680780
+      Zombie_Big_Side_First-Death-Sheet7_5: -7263558507667100213
+      Zombie_Big_Side_First-Death-Sheet7_6: 606533467858627090
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

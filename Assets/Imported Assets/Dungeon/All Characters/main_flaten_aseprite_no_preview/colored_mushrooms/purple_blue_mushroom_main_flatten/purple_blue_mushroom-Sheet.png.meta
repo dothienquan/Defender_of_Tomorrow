@@ -297,6 +297,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1809,7 +1822,75 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      purple_blue_mushroom-Sheet_0: -4755940254068785174
+      purple_blue_mushroom-Sheet_1: 997129613456706886
+      purple_blue_mushroom-Sheet_10: -5227108309118680797
+      purple_blue_mushroom-Sheet_11: 5014967235134205638
+      purple_blue_mushroom-Sheet_12: 784534976834944903
+      purple_blue_mushroom-Sheet_13: -8535131734819354296
+      purple_blue_mushroom-Sheet_14: -7055812253343611137
+      purple_blue_mushroom-Sheet_15: 7190414287940822267
+      purple_blue_mushroom-Sheet_16: 325980701212010693
+      purple_blue_mushroom-Sheet_17: 5838341477770303299
+      purple_blue_mushroom-Sheet_18: 7239680846719888977
+      purple_blue_mushroom-Sheet_19: -4578869275750451249
+      purple_blue_mushroom-Sheet_2: 6757193931834698172
+      purple_blue_mushroom-Sheet_20: -888056178836709224
+      purple_blue_mushroom-Sheet_21: 3874725073727328426
+      purple_blue_mushroom-Sheet_22: 6412180360893704056
+      purple_blue_mushroom-Sheet_23: -5817865751293396193
+      purple_blue_mushroom-Sheet_24: -3895350528926445751
+      purple_blue_mushroom-Sheet_25: 8022365139779308024
+      purple_blue_mushroom-Sheet_26: -5959419384797058439
+      purple_blue_mushroom-Sheet_27: -2306080069929711832
+      purple_blue_mushroom-Sheet_28: -4403719588087922236
+      purple_blue_mushroom-Sheet_29: -3954157293820853
+      purple_blue_mushroom-Sheet_3: 5426087238413573817
+      purple_blue_mushroom-Sheet_30: 6489584761647824802
+      purple_blue_mushroom-Sheet_31: 6274844257440190792
+      purple_blue_mushroom-Sheet_32: 1537364244799202113
+      purple_blue_mushroom-Sheet_33: -1235286696810708866
+      purple_blue_mushroom-Sheet_34: 5288325881495544595
+      purple_blue_mushroom-Sheet_35: -2408921912928447291
+      purple_blue_mushroom-Sheet_36: 6906293208616343224
+      purple_blue_mushroom-Sheet_37: 4703371414215315399
+      purple_blue_mushroom-Sheet_38: -774838892099044273
+      purple_blue_mushroom-Sheet_39: 7676966915974042802
+      purple_blue_mushroom-Sheet_4: 6838688164155646807
+      purple_blue_mushroom-Sheet_40: -5138777761807499537
+      purple_blue_mushroom-Sheet_41: -2977517230160544668
+      purple_blue_mushroom-Sheet_42: 4437110125162715373
+      purple_blue_mushroom-Sheet_43: 3179689715426866918
+      purple_blue_mushroom-Sheet_44: -9631227294290171
+      purple_blue_mushroom-Sheet_45: -8978444924709688895
+      purple_blue_mushroom-Sheet_46: -2997043229633156401
+      purple_blue_mushroom-Sheet_47: -8073495117017593505
+      purple_blue_mushroom-Sheet_48: 5604769252172975672
+      purple_blue_mushroom-Sheet_49: 6249787820445789633
+      purple_blue_mushroom-Sheet_5: -3571204720835985649
+      purple_blue_mushroom-Sheet_50: 4057785527920902958
+      purple_blue_mushroom-Sheet_51: 6028482701467847830
+      purple_blue_mushroom-Sheet_52: -9196944681904933516
+      purple_blue_mushroom-Sheet_53: -7525027676611399631
+      purple_blue_mushroom-Sheet_54: -5284806412868624440
+      purple_blue_mushroom-Sheet_55: 8095900017564614225
+      purple_blue_mushroom-Sheet_56: 5784095421540442037
+      purple_blue_mushroom-Sheet_57: -959299898786754704
+      purple_blue_mushroom-Sheet_58: 2476625139440899283
+      purple_blue_mushroom-Sheet_59: 8049516597534200095
+      purple_blue_mushroom-Sheet_6: -4106466104681259752
+      purple_blue_mushroom-Sheet_60: 242186448777831369
+      purple_blue_mushroom-Sheet_61: 1537448742293843569
+      purple_blue_mushroom-Sheet_62: -2224244537125001053
+      purple_blue_mushroom-Sheet_63: 5821078167714219832
+      purple_blue_mushroom-Sheet_64: -1493845800521530628
+      purple_blue_mushroom-Sheet_65: 1794438991350773678
+      purple_blue_mushroom-Sheet_66: -8521096375012211481
+      purple_blue_mushroom-Sheet_67: 6268690905358602795
+      purple_blue_mushroom-Sheet_7: 1111585351895053927
+      purple_blue_mushroom-Sheet_8: 8322976903514059871
+      purple_blue_mushroom-Sheet_9: 6397976113922885752
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

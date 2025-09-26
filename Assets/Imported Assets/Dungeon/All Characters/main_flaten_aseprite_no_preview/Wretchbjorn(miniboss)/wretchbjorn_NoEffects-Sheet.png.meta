@@ -282,6 +282,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1684,7 +1697,70 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      wretchbjorn_NoEffects-Sheet_0: -5118591538475761214
+      wretchbjorn_NoEffects-Sheet_1: 7430141991536166297
+      wretchbjorn_NoEffects-Sheet_10: -6848905174612558229
+      wretchbjorn_NoEffects-Sheet_11: 2304173291246000739
+      wretchbjorn_NoEffects-Sheet_12: 6994213473602515072
+      wretchbjorn_NoEffects-Sheet_13: 4116582025490488009
+      wretchbjorn_NoEffects-Sheet_14: -7816216683919809735
+      wretchbjorn_NoEffects-Sheet_15: -6221703147004581962
+      wretchbjorn_NoEffects-Sheet_16: -5385173722657046740
+      wretchbjorn_NoEffects-Sheet_17: -4997326566083611933
+      wretchbjorn_NoEffects-Sheet_18: 4963928181545186445
+      wretchbjorn_NoEffects-Sheet_19: 3394767781880363119
+      wretchbjorn_NoEffects-Sheet_2: -5311470940153191972
+      wretchbjorn_NoEffects-Sheet_20: -1833034285739638887
+      wretchbjorn_NoEffects-Sheet_21: -8530700793907331552
+      wretchbjorn_NoEffects-Sheet_22: 6010652280222483236
+      wretchbjorn_NoEffects-Sheet_23: 4357301482882071565
+      wretchbjorn_NoEffects-Sheet_24: -1467559670965643107
+      wretchbjorn_NoEffects-Sheet_25: -1698082714817999947
+      wretchbjorn_NoEffects-Sheet_26: -134754922562255665
+      wretchbjorn_NoEffects-Sheet_27: -648303740000466087
+      wretchbjorn_NoEffects-Sheet_28: 6143878536469792553
+      wretchbjorn_NoEffects-Sheet_29: -4657300992216404663
+      wretchbjorn_NoEffects-Sheet_3: 7650023463627667462
+      wretchbjorn_NoEffects-Sheet_30: 6295113359793892732
+      wretchbjorn_NoEffects-Sheet_31: 3934943993173811595
+      wretchbjorn_NoEffects-Sheet_32: -7062099391220198033
+      wretchbjorn_NoEffects-Sheet_33: 5756139550542513007
+      wretchbjorn_NoEffects-Sheet_34: 7378916604638721129
+      wretchbjorn_NoEffects-Sheet_35: -5762789548987811786
+      wretchbjorn_NoEffects-Sheet_36: 4568152435296626750
+      wretchbjorn_NoEffects-Sheet_37: 6973246805793826673
+      wretchbjorn_NoEffects-Sheet_38: -3020088945519545821
+      wretchbjorn_NoEffects-Sheet_39: 6840966274410485952
+      wretchbjorn_NoEffects-Sheet_4: 4517187463140477307
+      wretchbjorn_NoEffects-Sheet_40: 749764263848135448
+      wretchbjorn_NoEffects-Sheet_41: 5460503716088181066
+      wretchbjorn_NoEffects-Sheet_42: -6233038627120037108
+      wretchbjorn_NoEffects-Sheet_43: -8241387430716221301
+      wretchbjorn_NoEffects-Sheet_44: -7535098069452877304
+      wretchbjorn_NoEffects-Sheet_45: 3254396289669601046
+      wretchbjorn_NoEffects-Sheet_46: 9108171183987235676
+      wretchbjorn_NoEffects-Sheet_47: -2234165619603815296
+      wretchbjorn_NoEffects-Sheet_48: -3948021684765517158
+      wretchbjorn_NoEffects-Sheet_49: 5422788203470182486
+      wretchbjorn_NoEffects-Sheet_5: -612711157748174229
+      wretchbjorn_NoEffects-Sheet_50: -4070539530574322203
+      wretchbjorn_NoEffects-Sheet_51: -6365690705945952631
+      wretchbjorn_NoEffects-Sheet_52: 1128132684963840547
+      wretchbjorn_NoEffects-Sheet_53: -6148142555268719980
+      wretchbjorn_NoEffects-Sheet_54: 4550442664458915351
+      wretchbjorn_NoEffects-Sheet_55: 2787389863385031492
+      wretchbjorn_NoEffects-Sheet_56: -3870674313148448732
+      wretchbjorn_NoEffects-Sheet_57: -6132505462508468437
+      wretchbjorn_NoEffects-Sheet_58: 7026570185383683154
+      wretchbjorn_NoEffects-Sheet_59: -6174849718819980153
+      wretchbjorn_NoEffects-Sheet_6: 295238324921782425
+      wretchbjorn_NoEffects-Sheet_60: -8645209583978278676
+      wretchbjorn_NoEffects-Sheet_61: 8939998234975523744
+      wretchbjorn_NoEffects-Sheet_62: 4099137546771367340
+      wretchbjorn_NoEffects-Sheet_7: 4686865132990234054
+      wretchbjorn_NoEffects-Sheet_8: -5674039557946610177
+      wretchbjorn_NoEffects-Sheet_9: -8399836612463153303
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

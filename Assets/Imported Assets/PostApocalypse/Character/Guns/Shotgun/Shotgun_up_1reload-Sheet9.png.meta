@@ -129,6 +129,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -409,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Shotgun_up_1reload-Sheet9_0: 8856402602247645746
+      Shotgun_up_1reload-Sheet9_1: 721467917224883198
+      Shotgun_up_1reload-Sheet9_10: -2575956299908200413
+      Shotgun_up_1reload-Sheet9_11: 3313138908704773972
+      Shotgun_up_1reload-Sheet9_2: -8913214990285199488
+      Shotgun_up_1reload-Sheet9_3: 5741669269183185365
+      Shotgun_up_1reload-Sheet9_4: -4317852521966667733
+      Shotgun_up_1reload-Sheet9_5: 2879581163597781245
+      Shotgun_up_1reload-Sheet9_6: 7973610773713777655
+      Shotgun_up_1reload-Sheet9_7: -2291942775631611592
+      Shotgun_up_1reload-Sheet9_8: 3839653146159421764
+      Shotgun_up_1reload-Sheet9_9: 1726758574557917055
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

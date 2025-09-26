@@ -312,6 +312,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1934,7 +1947,80 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      thorkell-Sheet_0: 1883794606175567889
+      thorkell-Sheet_1: -3070636290971317761
+      thorkell-Sheet_10: 3383242341071637178
+      thorkell-Sheet_11: 5571279908886583724
+      thorkell-Sheet_12: -7368624940336685961
+      thorkell-Sheet_13: -3102792063879242026
+      thorkell-Sheet_14: -4782171679823954455
+      thorkell-Sheet_15: 1322532524035180641
+      thorkell-Sheet_16: 6602102490452497635
+      thorkell-Sheet_17: 6126952897908654808
+      thorkell-Sheet_18: 1498351748033143402
+      thorkell-Sheet_19: -7382487429312434961
+      thorkell-Sheet_2: -8826732742815584925
+      thorkell-Sheet_20: 5404751034048380597
+      thorkell-Sheet_21: 5731145629433643963
+      thorkell-Sheet_22: 6918257204390361647
+      thorkell-Sheet_23: 2613412014770531072
+      thorkell-Sheet_24: 6126646246929023541
+      thorkell-Sheet_25: -4028514269936100107
+      thorkell-Sheet_26: -8717671685719006353
+      thorkell-Sheet_27: 3575202061961311554
+      thorkell-Sheet_28: -5408466801221860926
+      thorkell-Sheet_29: -1450469717421471573
+      thorkell-Sheet_3: 8554415000603641596
+      thorkell-Sheet_30: -3122209179896861439
+      thorkell-Sheet_31: -2150552895745360062
+      thorkell-Sheet_32: 2007209467525905507
+      thorkell-Sheet_33: 5837501504001099716
+      thorkell-Sheet_34: -5519184279944743688
+      thorkell-Sheet_35: 2414704038435716606
+      thorkell-Sheet_36: -1977008941813898007
+      thorkell-Sheet_37: -1479247164928697714
+      thorkell-Sheet_38: 4518573694477506959
+      thorkell-Sheet_39: -7723852186186237224
+      thorkell-Sheet_4: -4820545586757604781
+      thorkell-Sheet_40: 7209499416298823540
+      thorkell-Sheet_41: -3748763707054028865
+      thorkell-Sheet_42: 2117425271543198616
+      thorkell-Sheet_43: 9201381700974356835
+      thorkell-Sheet_44: -6861511111490817290
+      thorkell-Sheet_45: -5985501716845118027
+      thorkell-Sheet_46: -6280456894682202714
+      thorkell-Sheet_47: 2528847194757589872
+      thorkell-Sheet_48: -4791994784367275148
+      thorkell-Sheet_49: 83537042601159111
+      thorkell-Sheet_5: -7051217548147922981
+      thorkell-Sheet_50: 795098778371942536
+      thorkell-Sheet_51: 6523623900333637614
+      thorkell-Sheet_52: 5736947139370977542
+      thorkell-Sheet_53: 4506018587706551939
+      thorkell-Sheet_54: 8685042665329665442
+      thorkell-Sheet_55: -4068204515221340896
+      thorkell-Sheet_56: 3632284014690455271
+      thorkell-Sheet_57: 8515787168158873930
+      thorkell-Sheet_58: 8111210795139137567
+      thorkell-Sheet_59: 2209649754166324356
+      thorkell-Sheet_6: -359936890554141105
+      thorkell-Sheet_60: 7081971253169497968
+      thorkell-Sheet_61: 109738363229149320
+      thorkell-Sheet_62: 5801601891920225224
+      thorkell-Sheet_63: 522746942822089666
+      thorkell-Sheet_64: -383923648497855429
+      thorkell-Sheet_65: -3141705708478068649
+      thorkell-Sheet_66: -2186791016353112908
+      thorkell-Sheet_67: -3456062123836684670
+      thorkell-Sheet_68: -8420267082660500424
+      thorkell-Sheet_69: 93507958066231121
+      thorkell-Sheet_7: -8730102004559595902
+      thorkell-Sheet_70: -2607207500858027578
+      thorkell-Sheet_71: -5159312530030254906
+      thorkell-Sheet_72: -6077497938573909783
+      thorkell-Sheet_8: -8275889731421566004
+      thorkell-Sheet_9: 8394729371052063593
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

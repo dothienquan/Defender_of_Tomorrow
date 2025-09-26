@@ -132,6 +132,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -434,7 +447,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      kast_jump_atack-Sheet_0: -2394766908963135760
+      kast_jump_atack-Sheet_1: 5357605349405743633
+      kast_jump_atack-Sheet_10: 4201468528291152686
+      kast_jump_atack-Sheet_11: -5756396963545981344
+      kast_jump_atack-Sheet_12: 9052960203883451820
+      kast_jump_atack-Sheet_2: 9195277882933024048
+      kast_jump_atack-Sheet_3: -8514389612863095972
+      kast_jump_atack-Sheet_4: 6234254270588433964
+      kast_jump_atack-Sheet_5: -5276292115114909956
+      kast_jump_atack-Sheet_6: -7354236520240602783
+      kast_jump_atack-Sheet_7: -6915728315647284942
+      kast_jump_atack-Sheet_8: 1797204192930941958
+      kast_jump_atack-Sheet_9: 5984857525056794720
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

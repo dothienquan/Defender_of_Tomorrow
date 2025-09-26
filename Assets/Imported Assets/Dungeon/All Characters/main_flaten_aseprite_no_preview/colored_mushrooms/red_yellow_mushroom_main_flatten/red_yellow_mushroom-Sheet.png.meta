@@ -294,6 +294,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1784,7 +1797,74 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      red_yellow_mushroom-Sheet_0: -2787982399541237514
+      red_yellow_mushroom-Sheet_1: -9076384547537853689
+      red_yellow_mushroom-Sheet_10: -1366879607487709053
+      red_yellow_mushroom-Sheet_11: -3760056759558038437
+      red_yellow_mushroom-Sheet_12: 4636476847990875470
+      red_yellow_mushroom-Sheet_13: -520710456970257988
+      red_yellow_mushroom-Sheet_14: 8519822870847328369
+      red_yellow_mushroom-Sheet_15: 330581369774198287
+      red_yellow_mushroom-Sheet_16: -5962467856864328500
+      red_yellow_mushroom-Sheet_17: -259443562921830265
+      red_yellow_mushroom-Sheet_18: -4213907101417917992
+      red_yellow_mushroom-Sheet_19: 4295854863973751003
+      red_yellow_mushroom-Sheet_2: 8347223631787557406
+      red_yellow_mushroom-Sheet_20: 6074753637428886592
+      red_yellow_mushroom-Sheet_21: 2205875706999929652
+      red_yellow_mushroom-Sheet_22: 7083123421328887543
+      red_yellow_mushroom-Sheet_23: 8687697396394993602
+      red_yellow_mushroom-Sheet_24: -5492599742149661584
+      red_yellow_mushroom-Sheet_25: -6467913587812083265
+      red_yellow_mushroom-Sheet_26: 5595130360001424462
+      red_yellow_mushroom-Sheet_27: 6901497098430113952
+      red_yellow_mushroom-Sheet_28: -7361233517253222079
+      red_yellow_mushroom-Sheet_29: 5701454352940890147
+      red_yellow_mushroom-Sheet_3: 6844679765418046626
+      red_yellow_mushroom-Sheet_30: -1789901710225926310
+      red_yellow_mushroom-Sheet_31: -2130418168511660899
+      red_yellow_mushroom-Sheet_32: 2303892730503056862
+      red_yellow_mushroom-Sheet_33: 7554100231306502111
+      red_yellow_mushroom-Sheet_34: 484232061529861191
+      red_yellow_mushroom-Sheet_35: -2644103178152773665
+      red_yellow_mushroom-Sheet_36: 83373788598745175
+      red_yellow_mushroom-Sheet_37: 8125684443249906347
+      red_yellow_mushroom-Sheet_38: -1644639114840548866
+      red_yellow_mushroom-Sheet_39: -8899148640954289895
+      red_yellow_mushroom-Sheet_4: 6645049402444117179
+      red_yellow_mushroom-Sheet_40: 2296114698224814543
+      red_yellow_mushroom-Sheet_41: -4180159620464985552
+      red_yellow_mushroom-Sheet_42: 8700112300182050962
+      red_yellow_mushroom-Sheet_43: -4700335905701136710
+      red_yellow_mushroom-Sheet_44: -2347753795318362337
+      red_yellow_mushroom-Sheet_45: -869878766070944226
+      red_yellow_mushroom-Sheet_46: 6361846542697076940
+      red_yellow_mushroom-Sheet_47: -3716568091594885792
+      red_yellow_mushroom-Sheet_48: -728433782892847412
+      red_yellow_mushroom-Sheet_49: -8455796721551552201
+      red_yellow_mushroom-Sheet_5: -3402333579758870482
+      red_yellow_mushroom-Sheet_50: 4095562947004098849
+      red_yellow_mushroom-Sheet_51: -7523406286972920201
+      red_yellow_mushroom-Sheet_52: -365123307442804038
+      red_yellow_mushroom-Sheet_53: 5790628007034299708
+      red_yellow_mushroom-Sheet_54: 5872409867406167696
+      red_yellow_mushroom-Sheet_55: -1733985799913833949
+      red_yellow_mushroom-Sheet_56: -1226991741328473749
+      red_yellow_mushroom-Sheet_57: -5569704502347137387
+      red_yellow_mushroom-Sheet_58: 1635039670974938462
+      red_yellow_mushroom-Sheet_59: -9167127795163994714
+      red_yellow_mushroom-Sheet_6: -5657166516179777086
+      red_yellow_mushroom-Sheet_60: -2758384410247142534
+      red_yellow_mushroom-Sheet_61: 5269359985770684713
+      red_yellow_mushroom-Sheet_62: 8886412114425519016
+      red_yellow_mushroom-Sheet_63: 4877077470009471053
+      red_yellow_mushroom-Sheet_64: -5318882444842968782
+      red_yellow_mushroom-Sheet_65: -7107915394348194109
+      red_yellow_mushroom-Sheet_66: -4327320096061192555
+      red_yellow_mushroom-Sheet_7: 1252168743544838635
+      red_yellow_mushroom-Sheet_8: 8230093477975597383
+      red_yellow_mushroom-Sheet_9: -6140815776077736308
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

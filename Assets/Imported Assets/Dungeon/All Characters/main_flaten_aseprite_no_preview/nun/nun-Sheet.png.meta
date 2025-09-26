@@ -387,6 +387,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2559,7 +2572,105 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      nun-Sheet_0: -578677276978903602
+      nun-Sheet_1: -2174485825474277779
+      nun-Sheet_10: 3759970172704111703
+      nun-Sheet_11: 4855052252512460554
+      nun-Sheet_12: 7900543347326651546
+      nun-Sheet_13: -4711959006695492980
+      nun-Sheet_14: -2873042599376624117
+      nun-Sheet_15: 6616724511022897173
+      nun-Sheet_16: -4702556652376219298
+      nun-Sheet_17: -4190230316034821286
+      nun-Sheet_18: -8354502196166705247
+      nun-Sheet_19: -5546003601169593641
+      nun-Sheet_2: -7544622783821436042
+      nun-Sheet_20: -1655638413048713989
+      nun-Sheet_21: 7309513898027984062
+      nun-Sheet_22: 153937236054508
+      nun-Sheet_23: 2651293806013900737
+      nun-Sheet_24: -6999589616787906162
+      nun-Sheet_25: 4052354671959028893
+      nun-Sheet_26: 147191142829826835
+      nun-Sheet_27: -3803721967937073275
+      nun-Sheet_28: 566735315562297145
+      nun-Sheet_29: 1886401558527520388
+      nun-Sheet_3: -8405820080492270363
+      nun-Sheet_30: 3216648304936714020
+      nun-Sheet_31: -7029963798012672631
+      nun-Sheet_32: -8007611208000701076
+      nun-Sheet_33: 5256016339410492068
+      nun-Sheet_34: -5543765988373097916
+      nun-Sheet_35: 7830473339302735679
+      nun-Sheet_36: 7281650717160694685
+      nun-Sheet_37: 5382443639951362610
+      nun-Sheet_38: 8572340307450359651
+      nun-Sheet_39: 8039526646103415435
+      nun-Sheet_4: -6813208280290320516
+      nun-Sheet_40: 4895223007018778969
+      nun-Sheet_41: -4291142133687470964
+      nun-Sheet_42: -5558747904955914770
+      nun-Sheet_43: 6584386709181617465
+      nun-Sheet_44: 7640736220183967408
+      nun-Sheet_45: -7747897944103690465
+      nun-Sheet_46: -8892684293403338867
+      nun-Sheet_47: -4931200555423505319
+      nun-Sheet_48: 7125624079626308489
+      nun-Sheet_49: -4948305448759678014
+      nun-Sheet_5: 561999178513831344
+      nun-Sheet_50: -1927587060834733587
+      nun-Sheet_51: 4126010083240989303
+      nun-Sheet_52: 834648382203354749
+      nun-Sheet_53: 8314499417375551163
+      nun-Sheet_54: 6797445915906393639
+      nun-Sheet_55: 4075830733523661359
+      nun-Sheet_56: 6191982943440191257
+      nun-Sheet_57: 3453807146805532197
+      nun-Sheet_58: -3640412736594747957
+      nun-Sheet_59: 7216956127307449718
+      nun-Sheet_6: 2124858590941078107
+      nun-Sheet_60: 418567032128800585
+      nun-Sheet_61: 1480419982766639641
+      nun-Sheet_62: -518638808159222681
+      nun-Sheet_63: -9201047945689923633
+      nun-Sheet_64: -334303752473075927
+      nun-Sheet_65: -563265236808169155
+      nun-Sheet_66: -2437726518061369741
+      nun-Sheet_67: 3654575637628128674
+      nun-Sheet_68: -3716614619814509816
+      nun-Sheet_69: 3966840791678136163
+      nun-Sheet_7: -735419229072583268
+      nun-Sheet_70: 3578190225268786650
+      nun-Sheet_71: 1028200822428949570
+      nun-Sheet_72: -7767079938354363785
+      nun-Sheet_73: 2484564832237993860
+      nun-Sheet_74: 7502517491553443305
+      nun-Sheet_75: -8462861383573565502
+      nun-Sheet_76: 868858654177157312
+      nun-Sheet_77: -4596742869807245157
+      nun-Sheet_78: -2763346696260818345
+      nun-Sheet_79: 3459974556791071189
+      nun-Sheet_8: 4858281086404787000
+      nun-Sheet_80: -835805343848384570
+      nun-Sheet_81: -2885640942833110200
+      nun-Sheet_82: -2282030920791302265
+      nun-Sheet_83: 2653333465161823424
+      nun-Sheet_84: 5280884729155363841
+      nun-Sheet_85: 3328042344124397192
+      nun-Sheet_86: 7002392967351951511
+      nun-Sheet_87: -962595082132933767
+      nun-Sheet_88: -8288385861202920365
+      nun-Sheet_89: 8453261876357767294
+      nun-Sheet_9: -8109236570540493670
+      nun-Sheet_90: 4781932453482352028
+      nun-Sheet_91: 2545099326252527327
+      nun-Sheet_92: -333085686939024839
+      nun-Sheet_93: -429328944145172611
+      nun-Sheet_94: -8806757039669132477
+      nun-Sheet_95: 3063767262569958296
+      nun-Sheet_96: 8075806942163182522
+      nun-Sheet_97: -5030964757741574393
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

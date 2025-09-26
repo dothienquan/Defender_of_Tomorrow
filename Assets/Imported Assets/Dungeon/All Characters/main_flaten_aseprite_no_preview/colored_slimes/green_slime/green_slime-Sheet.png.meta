@@ -240,6 +240,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1334,7 +1347,56 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      green_slime-Sheet_0: -3037039949684514895
+      green_slime-Sheet_1: 133915780343545403
+      green_slime-Sheet_10: 7626814908987229825
+      green_slime-Sheet_11: 8832277931129180320
+      green_slime-Sheet_12: -6478290020325724045
+      green_slime-Sheet_13: -2095853863763605698
+      green_slime-Sheet_14: 9047889018856377910
+      green_slime-Sheet_15: -1814430754889281806
+      green_slime-Sheet_16: 7681727186730453634
+      green_slime-Sheet_17: 8367383335041020944
+      green_slime-Sheet_18: 9128678363050343306
+      green_slime-Sheet_19: 2569828198065445
+      green_slime-Sheet_2: -1496659521623113025
+      green_slime-Sheet_20: -5243426555295901464
+      green_slime-Sheet_21: -3940790764471238169
+      green_slime-Sheet_22: -95929297270491165
+      green_slime-Sheet_23: -3347916658079194752
+      green_slime-Sheet_24: -2505674563545226164
+      green_slime-Sheet_25: -4125763419468726908
+      green_slime-Sheet_26: -6534378377922306639
+      green_slime-Sheet_27: 8641935625838912282
+      green_slime-Sheet_28: -3727750800501393725
+      green_slime-Sheet_29: -6907953924456941244
+      green_slime-Sheet_3: 5191053620676732748
+      green_slime-Sheet_30: -730192353831711372
+      green_slime-Sheet_31: -6416936766294631232
+      green_slime-Sheet_32: -3238489122151171379
+      green_slime-Sheet_33: -7786960663306901111
+      green_slime-Sheet_34: -581289566531746039
+      green_slime-Sheet_35: 8036632049593010523
+      green_slime-Sheet_36: -7751640719571475672
+      green_slime-Sheet_37: 481515120863307479
+      green_slime-Sheet_38: 4172563400239968303
+      green_slime-Sheet_39: -3421821780272044253
+      green_slime-Sheet_4: -5425620717825302439
+      green_slime-Sheet_40: -8374954832367946812
+      green_slime-Sheet_41: 5922619599513709605
+      green_slime-Sheet_42: 8604130982756899382
+      green_slime-Sheet_43: 2477120046273577322
+      green_slime-Sheet_44: 7599563892992858638
+      green_slime-Sheet_45: -8979409027726120106
+      green_slime-Sheet_46: 3437114095862055181
+      green_slime-Sheet_47: 5381662777339209185
+      green_slime-Sheet_48: -1540224016212586262
+      green_slime-Sheet_5: 7574763069660753995
+      green_slime-Sheet_6: -4000440054417941152
+      green_slime-Sheet_7: -557375613668918568
+      green_slime-Sheet_8: -7038439866909973743
+      green_slime-Sheet_9: 6558205783879519905
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

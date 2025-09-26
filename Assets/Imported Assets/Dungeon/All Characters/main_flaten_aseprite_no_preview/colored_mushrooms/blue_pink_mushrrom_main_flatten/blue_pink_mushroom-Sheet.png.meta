@@ -294,6 +294,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1784,7 +1797,74 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      blue_pink_mushroom-Sheet_0: 7000691433679150252
+      blue_pink_mushroom-Sheet_1: -6261741186599379727
+      blue_pink_mushroom-Sheet_10: -6062554039174586377
+      blue_pink_mushroom-Sheet_11: 6181297865069459383
+      blue_pink_mushroom-Sheet_12: 8840651842206365070
+      blue_pink_mushroom-Sheet_13: -1336475575838766155
+      blue_pink_mushroom-Sheet_14: 6761585201938497115
+      blue_pink_mushroom-Sheet_15: 3053867136657941595
+      blue_pink_mushroom-Sheet_16: -8351657444938929724
+      blue_pink_mushroom-Sheet_17: 5399222325041655801
+      blue_pink_mushroom-Sheet_18: -8047927052992763380
+      blue_pink_mushroom-Sheet_19: -162269971114798558
+      blue_pink_mushroom-Sheet_2: -2846816939846162562
+      blue_pink_mushroom-Sheet_20: -5207362672326552553
+      blue_pink_mushroom-Sheet_21: -2032524323517306230
+      blue_pink_mushroom-Sheet_22: 7335268491570604130
+      blue_pink_mushroom-Sheet_23: 3491247815214519924
+      blue_pink_mushroom-Sheet_24: 7233735666750971639
+      blue_pink_mushroom-Sheet_25: 1840327024366867491
+      blue_pink_mushroom-Sheet_26: -2396887743060715756
+      blue_pink_mushroom-Sheet_27: -8600017737808728772
+      blue_pink_mushroom-Sheet_28: -8548233424567305795
+      blue_pink_mushroom-Sheet_29: -6610220233245478424
+      blue_pink_mushroom-Sheet_3: 7900196264629770018
+      blue_pink_mushroom-Sheet_30: -5379274935750818246
+      blue_pink_mushroom-Sheet_31: -2939603700884256022
+      blue_pink_mushroom-Sheet_32: 729651308439799793
+      blue_pink_mushroom-Sheet_33: -7047310443701614449
+      blue_pink_mushroom-Sheet_34: 7066334171496122635
+      blue_pink_mushroom-Sheet_35: 4594913149429875356
+      blue_pink_mushroom-Sheet_36: -6809357364100754868
+      blue_pink_mushroom-Sheet_37: -6499685168322928221
+      blue_pink_mushroom-Sheet_38: 4981051493310849246
+      blue_pink_mushroom-Sheet_39: 7881759839978201386
+      blue_pink_mushroom-Sheet_4: 8987697382597541972
+      blue_pink_mushroom-Sheet_40: 7009977806894120010
+      blue_pink_mushroom-Sheet_41: 3285637717376207686
+      blue_pink_mushroom-Sheet_42: 2098857204486724940
+      blue_pink_mushroom-Sheet_43: -6070740685053862229
+      blue_pink_mushroom-Sheet_44: 7723489189286181491
+      blue_pink_mushroom-Sheet_45: 1741789702063037333
+      blue_pink_mushroom-Sheet_46: -7217289391753064303
+      blue_pink_mushroom-Sheet_47: 4028117176609679419
+      blue_pink_mushroom-Sheet_48: 8245827433282080986
+      blue_pink_mushroom-Sheet_49: -3719662803384673155
+      blue_pink_mushroom-Sheet_5: -4186773909311919045
+      blue_pink_mushroom-Sheet_50: 3148405624947972716
+      blue_pink_mushroom-Sheet_51: -3441756762456923647
+      blue_pink_mushroom-Sheet_52: -1746482556360155855
+      blue_pink_mushroom-Sheet_53: 8323250863754645678
+      blue_pink_mushroom-Sheet_54: -7158616407136021073
+      blue_pink_mushroom-Sheet_55: -3604959414644773594
+      blue_pink_mushroom-Sheet_56: 52947415391439981
+      blue_pink_mushroom-Sheet_57: -498729438951021832
+      blue_pink_mushroom-Sheet_58: -2792754851473155869
+      blue_pink_mushroom-Sheet_59: 1793968202877242319
+      blue_pink_mushroom-Sheet_6: -1499249895461263027
+      blue_pink_mushroom-Sheet_60: 8002876387160606609
+      blue_pink_mushroom-Sheet_61: -5128928119840773760
+      blue_pink_mushroom-Sheet_62: -5937114361735926293
+      blue_pink_mushroom-Sheet_63: -7025893363987090596
+      blue_pink_mushroom-Sheet_64: -8687097696747994878
+      blue_pink_mushroom-Sheet_65: -6831313509062000974
+      blue_pink_mushroom-Sheet_66: -6931132049138033071
+      blue_pink_mushroom-Sheet_7: -213903133628234780
+      blue_pink_mushroom-Sheet_8: 5047039495979879250
+      blue_pink_mushroom-Sheet_9: -6297545485742221532
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

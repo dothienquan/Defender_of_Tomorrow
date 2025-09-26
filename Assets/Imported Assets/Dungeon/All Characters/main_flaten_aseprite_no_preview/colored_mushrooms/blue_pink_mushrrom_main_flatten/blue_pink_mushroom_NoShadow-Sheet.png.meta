@@ -288,6 +288,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1734,7 +1747,72 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      blue_pink_mushroom_NoShadow-Sheet_0: -6055140484606443684
+      blue_pink_mushroom_NoShadow-Sheet_1: 5795194268380392802
+      blue_pink_mushroom_NoShadow-Sheet_10: 4187742699265676394
+      blue_pink_mushroom_NoShadow-Sheet_11: -229999939344428380
+      blue_pink_mushroom_NoShadow-Sheet_12: 6858777377830687841
+      blue_pink_mushroom_NoShadow-Sheet_13: -359093749102185238
+      blue_pink_mushroom_NoShadow-Sheet_14: 6028171468033866327
+      blue_pink_mushroom_NoShadow-Sheet_15: 5628667747885527770
+      blue_pink_mushroom_NoShadow-Sheet_16: -4389474424614233710
+      blue_pink_mushroom_NoShadow-Sheet_17: -8148135508008241381
+      blue_pink_mushroom_NoShadow-Sheet_18: 883716601076065712
+      blue_pink_mushroom_NoShadow-Sheet_19: -1296212039606932219
+      blue_pink_mushroom_NoShadow-Sheet_2: 4812084656459328847
+      blue_pink_mushroom_NoShadow-Sheet_20: -3443546076744770394
+      blue_pink_mushroom_NoShadow-Sheet_21: -6912296037923432667
+      blue_pink_mushroom_NoShadow-Sheet_22: -5457951876148870328
+      blue_pink_mushroom_NoShadow-Sheet_23: -7189037353729990796
+      blue_pink_mushroom_NoShadow-Sheet_24: 8466536138047734881
+      blue_pink_mushroom_NoShadow-Sheet_25: 8862701294821389652
+      blue_pink_mushroom_NoShadow-Sheet_26: -3551907839003116515
+      blue_pink_mushroom_NoShadow-Sheet_27: 1794814425269468368
+      blue_pink_mushroom_NoShadow-Sheet_28: -707996671011351292
+      blue_pink_mushroom_NoShadow-Sheet_29: -2850755879328993831
+      blue_pink_mushroom_NoShadow-Sheet_3: -4463579110388711467
+      blue_pink_mushroom_NoShadow-Sheet_30: 5753649504976232182
+      blue_pink_mushroom_NoShadow-Sheet_31: -5216967627683016210
+      blue_pink_mushroom_NoShadow-Sheet_32: -9023536190367533815
+      blue_pink_mushroom_NoShadow-Sheet_33: -8538283201875324847
+      blue_pink_mushroom_NoShadow-Sheet_34: -5911639092321489152
+      blue_pink_mushroom_NoShadow-Sheet_35: 5609355554499763485
+      blue_pink_mushroom_NoShadow-Sheet_36: 4360719164533612328
+      blue_pink_mushroom_NoShadow-Sheet_37: 2787047670116673815
+      blue_pink_mushroom_NoShadow-Sheet_38: -5743919002149004043
+      blue_pink_mushroom_NoShadow-Sheet_39: 8214465636936931639
+      blue_pink_mushroom_NoShadow-Sheet_4: 5001431941603899843
+      blue_pink_mushroom_NoShadow-Sheet_40: 636158393194656407
+      blue_pink_mushroom_NoShadow-Sheet_41: -8824303186723734819
+      blue_pink_mushroom_NoShadow-Sheet_42: -601134350130794689
+      blue_pink_mushroom_NoShadow-Sheet_43: -2556881580372226310
+      blue_pink_mushroom_NoShadow-Sheet_44: -509119882397158388
+      blue_pink_mushroom_NoShadow-Sheet_45: 1144198964454368773
+      blue_pink_mushroom_NoShadow-Sheet_46: -4451191505995489763
+      blue_pink_mushroom_NoShadow-Sheet_47: -687888007125142314
+      blue_pink_mushroom_NoShadow-Sheet_48: -4926436109965632269
+      blue_pink_mushroom_NoShadow-Sheet_49: -6401949377157841237
+      blue_pink_mushroom_NoShadow-Sheet_5: -6278715338058978312
+      blue_pink_mushroom_NoShadow-Sheet_50: 7431718641719902126
+      blue_pink_mushroom_NoShadow-Sheet_51: -4999517777946434593
+      blue_pink_mushroom_NoShadow-Sheet_52: -8666910702256429133
+      blue_pink_mushroom_NoShadow-Sheet_53: 925486489462521692
+      blue_pink_mushroom_NoShadow-Sheet_54: 8180135743474351879
+      blue_pink_mushroom_NoShadow-Sheet_55: -249423592884191243
+      blue_pink_mushroom_NoShadow-Sheet_56: 8738912610484985012
+      blue_pink_mushroom_NoShadow-Sheet_57: 3489264751438335029
+      blue_pink_mushroom_NoShadow-Sheet_58: 6279590020524434118
+      blue_pink_mushroom_NoShadow-Sheet_59: -9220459130617349909
+      blue_pink_mushroom_NoShadow-Sheet_6: -203799364394806549
+      blue_pink_mushroom_NoShadow-Sheet_60: -5507141538840293861
+      blue_pink_mushroom_NoShadow-Sheet_61: 7579804550852093247
+      blue_pink_mushroom_NoShadow-Sheet_62: 6555325341428752242
+      blue_pink_mushroom_NoShadow-Sheet_63: -8325971957154207335
+      blue_pink_mushroom_NoShadow-Sheet_64: 2486949809895785682
+      blue_pink_mushroom_NoShadow-Sheet_7: 6198827546286576691
+      blue_pink_mushroom_NoShadow-Sheet_8: -4829771679494507963
+      blue_pink_mushroom_NoShadow-Sheet_9: -8992123701448739383
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

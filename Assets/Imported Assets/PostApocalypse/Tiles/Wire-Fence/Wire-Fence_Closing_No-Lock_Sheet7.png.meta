@@ -120,6 +120,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -334,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wire-Fence_Closing_No-Lock_Sheet7_0: 4714256587728274510
+      Wire-Fence_Closing_No-Lock_Sheet7_1: -3064076940927293737
+      Wire-Fence_Closing_No-Lock_Sheet7_2: 8156529518485264490
+      Wire-Fence_Closing_No-Lock_Sheet7_3: -1320369395098958142
+      Wire-Fence_Closing_No-Lock_Sheet7_4: -2486994052654372408
+      Wire-Fence_Closing_No-Lock_Sheet7_5: 2848329040773176633
+      Wire-Fence_Closing_No-Lock_Sheet7_6: -8805635650929938833
+      Wire-Fence_Closing_No-Lock_Sheet7_7: -2381826493030924241
+      Wire-Fence_Closing_No-Lock_Sheet7_8: -3850415346066652498
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

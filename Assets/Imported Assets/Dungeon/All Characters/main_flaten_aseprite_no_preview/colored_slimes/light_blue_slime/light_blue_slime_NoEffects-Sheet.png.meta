@@ -210,6 +210,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1084,7 +1097,46 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      light_blue_slime_NoEffects-Sheet_0: -8662675881777081521
+      light_blue_slime_NoEffects-Sheet_1: 7358065708632827417
+      light_blue_slime_NoEffects-Sheet_10: -928480860249053912
+      light_blue_slime_NoEffects-Sheet_11: 925212628854491904
+      light_blue_slime_NoEffects-Sheet_12: -5600195198081141297
+      light_blue_slime_NoEffects-Sheet_13: -594394294464998726
+      light_blue_slime_NoEffects-Sheet_14: -4795709827239996668
+      light_blue_slime_NoEffects-Sheet_15: -1109112971218483604
+      light_blue_slime_NoEffects-Sheet_16: -5131236517473287743
+      light_blue_slime_NoEffects-Sheet_17: 4202540719910775254
+      light_blue_slime_NoEffects-Sheet_18: -2210327193292565293
+      light_blue_slime_NoEffects-Sheet_19: -6633516904994780279
+      light_blue_slime_NoEffects-Sheet_2: 111415084510923573
+      light_blue_slime_NoEffects-Sheet_20: -8551422048516107178
+      light_blue_slime_NoEffects-Sheet_21: 776399816585538853
+      light_blue_slime_NoEffects-Sheet_22: 5434924174769250303
+      light_blue_slime_NoEffects-Sheet_23: -1869322108405756972
+      light_blue_slime_NoEffects-Sheet_24: -836214401224186144
+      light_blue_slime_NoEffects-Sheet_25: 6493767779291727878
+      light_blue_slime_NoEffects-Sheet_26: -4622365174647948674
+      light_blue_slime_NoEffects-Sheet_27: 2202255771819565482
+      light_blue_slime_NoEffects-Sheet_28: -7992027756023043158
+      light_blue_slime_NoEffects-Sheet_29: -8495905959760298530
+      light_blue_slime_NoEffects-Sheet_3: 8004255970448701092
+      light_blue_slime_NoEffects-Sheet_30: -671697836604736429
+      light_blue_slime_NoEffects-Sheet_31: 1583501938791180247
+      light_blue_slime_NoEffects-Sheet_32: -139270836805503204
+      light_blue_slime_NoEffects-Sheet_33: 8769597477273278032
+      light_blue_slime_NoEffects-Sheet_34: 2679033094204875269
+      light_blue_slime_NoEffects-Sheet_35: -4381084320588863470
+      light_blue_slime_NoEffects-Sheet_36: -7988320803772559722
+      light_blue_slime_NoEffects-Sheet_37: -5200742440623173629
+      light_blue_slime_NoEffects-Sheet_38: 3016616771242016958
+      light_blue_slime_NoEffects-Sheet_4: 9003682678118350091
+      light_blue_slime_NoEffects-Sheet_5: -781358689140734287
+      light_blue_slime_NoEffects-Sheet_6: 3048918640790716824
+      light_blue_slime_NoEffects-Sheet_7: 27986110270812202
+      light_blue_slime_NoEffects-Sheet_8: -1990467237599953720
+      light_blue_slime_NoEffects-Sheet_9: 980052842335115061
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

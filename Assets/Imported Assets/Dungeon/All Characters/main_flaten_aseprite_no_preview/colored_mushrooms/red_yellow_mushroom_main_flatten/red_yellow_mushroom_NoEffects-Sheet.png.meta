@@ -228,6 +228,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1234,7 +1247,52 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      red_yellow_mushroom_NoEffects-Sheet_0: -3132966684626920776
+      red_yellow_mushroom_NoEffects-Sheet_1: 4223505087630061328
+      red_yellow_mushroom_NoEffects-Sheet_10: -2791847034227960900
+      red_yellow_mushroom_NoEffects-Sheet_11: 4331779021892680291
+      red_yellow_mushroom_NoEffects-Sheet_12: -8502927647712390353
+      red_yellow_mushroom_NoEffects-Sheet_13: 7097860558809648974
+      red_yellow_mushroom_NoEffects-Sheet_14: 166157755804829384
+      red_yellow_mushroom_NoEffects-Sheet_15: 2296413038250068355
+      red_yellow_mushroom_NoEffects-Sheet_16: 1858218866704103970
+      red_yellow_mushroom_NoEffects-Sheet_17: -5892149893032630146
+      red_yellow_mushroom_NoEffects-Sheet_18: -7232201554754736852
+      red_yellow_mushroom_NoEffects-Sheet_19: 5368886095145457913
+      red_yellow_mushroom_NoEffects-Sheet_2: 5508553961097869923
+      red_yellow_mushroom_NoEffects-Sheet_20: -6843901450212336246
+      red_yellow_mushroom_NoEffects-Sheet_21: 7469679529403165091
+      red_yellow_mushroom_NoEffects-Sheet_22: -2874552948212074268
+      red_yellow_mushroom_NoEffects-Sheet_23: -4260918646256563871
+      red_yellow_mushroom_NoEffects-Sheet_24: -3282043853912831266
+      red_yellow_mushroom_NoEffects-Sheet_25: 1875391494000577649
+      red_yellow_mushroom_NoEffects-Sheet_26: 4948896969630095436
+      red_yellow_mushroom_NoEffects-Sheet_27: -993331806266332610
+      red_yellow_mushroom_NoEffects-Sheet_28: 7552541012485772942
+      red_yellow_mushroom_NoEffects-Sheet_29: 3744248472214868713
+      red_yellow_mushroom_NoEffects-Sheet_3: 7890982272304046548
+      red_yellow_mushroom_NoEffects-Sheet_30: 8709402266378402919
+      red_yellow_mushroom_NoEffects-Sheet_31: -5580136563766976867
+      red_yellow_mushroom_NoEffects-Sheet_32: -8018147358318360599
+      red_yellow_mushroom_NoEffects-Sheet_33: -4004474281359892535
+      red_yellow_mushroom_NoEffects-Sheet_34: 1163599228391488191
+      red_yellow_mushroom_NoEffects-Sheet_35: 131829039550268495
+      red_yellow_mushroom_NoEffects-Sheet_36: 4658118432497962046
+      red_yellow_mushroom_NoEffects-Sheet_37: -5454755303976685796
+      red_yellow_mushroom_NoEffects-Sheet_38: 8054668310043865166
+      red_yellow_mushroom_NoEffects-Sheet_39: 686941264705906385
+      red_yellow_mushroom_NoEffects-Sheet_4: 5254057906150519621
+      red_yellow_mushroom_NoEffects-Sheet_40: 5847442864076435397
+      red_yellow_mushroom_NoEffects-Sheet_41: 5216836388460826161
+      red_yellow_mushroom_NoEffects-Sheet_42: 1684868121736201709
+      red_yellow_mushroom_NoEffects-Sheet_43: -333095767932750272
+      red_yellow_mushroom_NoEffects-Sheet_44: 4249695791800260170
+      red_yellow_mushroom_NoEffects-Sheet_5: -2739353322361553622
+      red_yellow_mushroom_NoEffects-Sheet_6: 2142943680812683716
+      red_yellow_mushroom_NoEffects-Sheet_7: -6368209560304207758
+      red_yellow_mushroom_NoEffects-Sheet_8: 7061071303797888680
+      red_yellow_mushroom_NoEffects-Sheet_9: 4432536611676392445
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

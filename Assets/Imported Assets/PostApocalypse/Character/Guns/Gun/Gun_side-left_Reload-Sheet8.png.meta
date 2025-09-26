@@ -117,6 +117,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -309,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Gun_side-left_Reload-Sheet8_0: 8428192227876688795
+      Gun_side-left_Reload-Sheet8_1: -806590308548518759
+      Gun_side-left_Reload-Sheet8_2: 485798242939331333
+      Gun_side-left_Reload-Sheet8_3: -1768737259162725135
+      Gun_side-left_Reload-Sheet8_4: 2011794929166105225
+      Gun_side-left_Reload-Sheet8_5: 8271006073301399623
+      Gun_side-left_Reload-Sheet8_6: 8919380543316379554
+      Gun_side-left_Reload-Sheet8_7: -3360618219340821007
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

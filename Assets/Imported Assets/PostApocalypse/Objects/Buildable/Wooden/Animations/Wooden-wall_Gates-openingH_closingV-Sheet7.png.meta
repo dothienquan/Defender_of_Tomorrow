@@ -108,6 +108,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -234,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wooden-wall_Gates-openingH_closingV-Sheet7_0: 5833129322801462295
+      Wooden-wall_Gates-openingH_closingV-Sheet7_1: -2760822660812182581
+      Wooden-wall_Gates-openingH_closingV-Sheet7_2: -2853568070994998507
+      Wooden-wall_Gates-openingH_closingV-Sheet7_3: 8444022425248210939
+      Wooden-wall_Gates-openingH_closingV-Sheet7_4: 4358270827323470029
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -240,6 +240,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1334,7 +1347,56 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      light_blue_slime-Sheet_0: -6991581380090289741
+      light_blue_slime-Sheet_1: 8570570817349821017
+      light_blue_slime-Sheet_10: -4939821909461247724
+      light_blue_slime-Sheet_11: 873948411485244718
+      light_blue_slime-Sheet_12: -1351174371106734850
+      light_blue_slime-Sheet_13: 6381947546159563578
+      light_blue_slime-Sheet_14: -1141787304104471075
+      light_blue_slime-Sheet_15: 4748468879414874735
+      light_blue_slime-Sheet_16: 956751951461178648
+      light_blue_slime-Sheet_17: -862679057570360403
+      light_blue_slime-Sheet_18: 8350914079164409315
+      light_blue_slime-Sheet_19: -549104140369301720
+      light_blue_slime-Sheet_2: 7287170003854107804
+      light_blue_slime-Sheet_20: 8799661910526033702
+      light_blue_slime-Sheet_21: 1272768580207661605
+      light_blue_slime-Sheet_22: -3062247857473123358
+      light_blue_slime-Sheet_23: 6136195495069261035
+      light_blue_slime-Sheet_24: 3913424723637465046
+      light_blue_slime-Sheet_25: -5276659841142537079
+      light_blue_slime-Sheet_26: -6516042197416297027
+      light_blue_slime-Sheet_27: -5039360771888173365
+      light_blue_slime-Sheet_28: 4846153487238412937
+      light_blue_slime-Sheet_29: 2941538804515627634
+      light_blue_slime-Sheet_3: -380993197379285317
+      light_blue_slime-Sheet_30: 352895142284010765
+      light_blue_slime-Sheet_31: -6030825357716361232
+      light_blue_slime-Sheet_32: -5151795692146345956
+      light_blue_slime-Sheet_33: 4614288920563044741
+      light_blue_slime-Sheet_34: 8456773118076166153
+      light_blue_slime-Sheet_35: 804736202688492561
+      light_blue_slime-Sheet_36: 8206373940331054679
+      light_blue_slime-Sheet_37: 8644673665958744626
+      light_blue_slime-Sheet_38: 6861764464204105822
+      light_blue_slime-Sheet_39: -5308208789956465691
+      light_blue_slime-Sheet_4: 1578700179209887960
+      light_blue_slime-Sheet_40: -4478527336719189900
+      light_blue_slime-Sheet_41: -4177749412055079921
+      light_blue_slime-Sheet_42: 392504098681856878
+      light_blue_slime-Sheet_43: -4342987071440561258
+      light_blue_slime-Sheet_44: -4449252928211154841
+      light_blue_slime-Sheet_45: 4629938072735451816
+      light_blue_slime-Sheet_46: -2536805767722229835
+      light_blue_slime-Sheet_47: -7303913466694164636
+      light_blue_slime-Sheet_48: -1488375055891505443
+      light_blue_slime-Sheet_5: -3343479075308013393
+      light_blue_slime-Sheet_6: 2370343566172052720
+      light_blue_slime-Sheet_7: -3418876359976804173
+      light_blue_slime-Sheet_8: -2626586151633450575
+      light_blue_slime-Sheet_9: -1722587587255818461
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -291,6 +291,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1759,7 +1772,73 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      purple_blue_mushroom_NoShadow-Sheet_0: -8428343981613802016
+      purple_blue_mushroom_NoShadow-Sheet_1: 4130649341789359617
+      purple_blue_mushroom_NoShadow-Sheet_10: -7206327771784013834
+      purple_blue_mushroom_NoShadow-Sheet_11: 5764534330858933493
+      purple_blue_mushroom_NoShadow-Sheet_12: 3622299326913604343
+      purple_blue_mushroom_NoShadow-Sheet_13: 1627441953288820196
+      purple_blue_mushroom_NoShadow-Sheet_14: -766991172312653551
+      purple_blue_mushroom_NoShadow-Sheet_15: 4805685872402488727
+      purple_blue_mushroom_NoShadow-Sheet_16: -5702709195368004793
+      purple_blue_mushroom_NoShadow-Sheet_17: 4703316591805628651
+      purple_blue_mushroom_NoShadow-Sheet_18: -8298519790126382774
+      purple_blue_mushroom_NoShadow-Sheet_19: -8423097515010401936
+      purple_blue_mushroom_NoShadow-Sheet_2: -3383452022431648966
+      purple_blue_mushroom_NoShadow-Sheet_20: -5091535187802837863
+      purple_blue_mushroom_NoShadow-Sheet_21: -9096413426356711453
+      purple_blue_mushroom_NoShadow-Sheet_22: -133810633023806981
+      purple_blue_mushroom_NoShadow-Sheet_23: -745600904887205298
+      purple_blue_mushroom_NoShadow-Sheet_24: -6230887837808285502
+      purple_blue_mushroom_NoShadow-Sheet_25: 975581290935297570
+      purple_blue_mushroom_NoShadow-Sheet_26: -7768789171275722665
+      purple_blue_mushroom_NoShadow-Sheet_27: 5971114487117370505
+      purple_blue_mushroom_NoShadow-Sheet_28: -2614096723021298289
+      purple_blue_mushroom_NoShadow-Sheet_29: -1665446927092139975
+      purple_blue_mushroom_NoShadow-Sheet_3: 9185879114717965817
+      purple_blue_mushroom_NoShadow-Sheet_30: 2672985264012284957
+      purple_blue_mushroom_NoShadow-Sheet_31: -2004615912840487011
+      purple_blue_mushroom_NoShadow-Sheet_32: -8124629672164928541
+      purple_blue_mushroom_NoShadow-Sheet_33: -4074080050811381074
+      purple_blue_mushroom_NoShadow-Sheet_34: -917010002092637449
+      purple_blue_mushroom_NoShadow-Sheet_35: -3845779239322632208
+      purple_blue_mushroom_NoShadow-Sheet_36: -4523490063643657647
+      purple_blue_mushroom_NoShadow-Sheet_37: -5934318072758294223
+      purple_blue_mushroom_NoShadow-Sheet_38: 9117522871682865646
+      purple_blue_mushroom_NoShadow-Sheet_39: -4426167936971419931
+      purple_blue_mushroom_NoShadow-Sheet_4: -5945506333372769002
+      purple_blue_mushroom_NoShadow-Sheet_40: 8366446803500076222
+      purple_blue_mushroom_NoShadow-Sheet_41: -8921070678358343776
+      purple_blue_mushroom_NoShadow-Sheet_42: -5920120491807086880
+      purple_blue_mushroom_NoShadow-Sheet_43: 5230311620378932332
+      purple_blue_mushroom_NoShadow-Sheet_44: -5011615544238364252
+      purple_blue_mushroom_NoShadow-Sheet_45: 4045620691244771026
+      purple_blue_mushroom_NoShadow-Sheet_46: 3921355783009961799
+      purple_blue_mushroom_NoShadow-Sheet_47: 2373402306334774766
+      purple_blue_mushroom_NoShadow-Sheet_48: -3223886859148070058
+      purple_blue_mushroom_NoShadow-Sheet_49: 6992661090948850173
+      purple_blue_mushroom_NoShadow-Sheet_5: -2338318705262955148
+      purple_blue_mushroom_NoShadow-Sheet_50: -3976578888486605746
+      purple_blue_mushroom_NoShadow-Sheet_51: -54728535230464783
+      purple_blue_mushroom_NoShadow-Sheet_52: 5932723388146349828
+      purple_blue_mushroom_NoShadow-Sheet_53: -944649884399910988
+      purple_blue_mushroom_NoShadow-Sheet_54: 4986676451243145691
+      purple_blue_mushroom_NoShadow-Sheet_55: 371811269384533337
+      purple_blue_mushroom_NoShadow-Sheet_56: 7751700293020144625
+      purple_blue_mushroom_NoShadow-Sheet_57: 2075949878435122973
+      purple_blue_mushroom_NoShadow-Sheet_58: -4217464591638293037
+      purple_blue_mushroom_NoShadow-Sheet_59: -7907604687836586168
+      purple_blue_mushroom_NoShadow-Sheet_6: -4309508964283389927
+      purple_blue_mushroom_NoShadow-Sheet_60: -1803891299199550991
+      purple_blue_mushroom_NoShadow-Sheet_61: 2272655613112473573
+      purple_blue_mushroom_NoShadow-Sheet_62: 2070096517761496919
+      purple_blue_mushroom_NoShadow-Sheet_63: -5275015443786919918
+      purple_blue_mushroom_NoShadow-Sheet_64: 224792857777875880
+      purple_blue_mushroom_NoShadow-Sheet_65: -5548791128359128965
+      purple_blue_mushroom_NoShadow-Sheet_7: 3602438329623840952
+      purple_blue_mushroom_NoShadow-Sheet_8: -4343302665601724405
+      purple_blue_mushroom_NoShadow-Sheet_9: -8289148881310569839
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

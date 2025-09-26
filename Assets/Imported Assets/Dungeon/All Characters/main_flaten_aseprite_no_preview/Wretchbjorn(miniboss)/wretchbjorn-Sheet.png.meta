@@ -378,6 +378,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2484,7 +2497,102 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      wretchbjorn-Sheet_0: -4001087669408451636
+      wretchbjorn-Sheet_1: -6911216693655610283
+      wretchbjorn-Sheet_10: -2625502362170322959
+      wretchbjorn-Sheet_11: -6464740145036511676
+      wretchbjorn-Sheet_12: 3488685865774233676
+      wretchbjorn-Sheet_13: -619321243124531122
+      wretchbjorn-Sheet_14: -7574252350683861500
+      wretchbjorn-Sheet_15: 6046276365863022909
+      wretchbjorn-Sheet_16: 2304882965407546574
+      wretchbjorn-Sheet_17: 206938522707004656
+      wretchbjorn-Sheet_18: -6230056489166407407
+      wretchbjorn-Sheet_19: 4971903236516915193
+      wretchbjorn-Sheet_2: -8660425334353576779
+      wretchbjorn-Sheet_20: 7883217736389795908
+      wretchbjorn-Sheet_21: -6351252359344496480
+      wretchbjorn-Sheet_22: 3323841803651047817
+      wretchbjorn-Sheet_23: -1035885007637727933
+      wretchbjorn-Sheet_24: -9109769680915672287
+      wretchbjorn-Sheet_25: -6531967064170984067
+      wretchbjorn-Sheet_26: -6008955408777861343
+      wretchbjorn-Sheet_27: -2196532348484373198
+      wretchbjorn-Sheet_28: 5093667668702320063
+      wretchbjorn-Sheet_29: -3939259577930936381
+      wretchbjorn-Sheet_3: -847331216243892269
+      wretchbjorn-Sheet_30: -1855322901462492329
+      wretchbjorn-Sheet_31: -3301634636191440099
+      wretchbjorn-Sheet_32: -7141829865589786824
+      wretchbjorn-Sheet_33: -5491541026205733994
+      wretchbjorn-Sheet_34: 7205461187591695497
+      wretchbjorn-Sheet_35: 4898566871376392469
+      wretchbjorn-Sheet_36: 4871764048665628845
+      wretchbjorn-Sheet_37: -8828321664754708607
+      wretchbjorn-Sheet_38: 3787163265626516643
+      wretchbjorn-Sheet_39: 3655253260122805877
+      wretchbjorn-Sheet_4: 1070522450290421462
+      wretchbjorn-Sheet_40: -4654352946489303304
+      wretchbjorn-Sheet_41: -3420240387805760034
+      wretchbjorn-Sheet_42: -6282488013721854158
+      wretchbjorn-Sheet_43: -3905055567099474602
+      wretchbjorn-Sheet_44: -7661622620024050698
+      wretchbjorn-Sheet_45: -6762172345967868897
+      wretchbjorn-Sheet_46: -7367451209722582753
+      wretchbjorn-Sheet_47: -3909646531856394871
+      wretchbjorn-Sheet_48: -2822364838082130429
+      wretchbjorn-Sheet_49: 7315654191301794242
+      wretchbjorn-Sheet_5: -1237561243607931579
+      wretchbjorn-Sheet_50: 8105275066506521692
+      wretchbjorn-Sheet_51: -8921567115911126632
+      wretchbjorn-Sheet_52: 734911701410339534
+      wretchbjorn-Sheet_53: 5363622172863066979
+      wretchbjorn-Sheet_54: 7285349950902361174
+      wretchbjorn-Sheet_55: -1101864866388811540
+      wretchbjorn-Sheet_56: -82978414025983426
+      wretchbjorn-Sheet_57: 2973525589027827940
+      wretchbjorn-Sheet_58: 2387674555133273997
+      wretchbjorn-Sheet_59: -5605592045353105381
+      wretchbjorn-Sheet_6: -1776474402104664607
+      wretchbjorn-Sheet_60: -7581952612690860461
+      wretchbjorn-Sheet_61: -3979406641150854189
+      wretchbjorn-Sheet_62: -1459988707262618988
+      wretchbjorn-Sheet_63: 4819836224965503646
+      wretchbjorn-Sheet_64: 5076112313915966399
+      wretchbjorn-Sheet_65: 430971316889434076
+      wretchbjorn-Sheet_66: 8586373786809571076
+      wretchbjorn-Sheet_67: -3680107508109651913
+      wretchbjorn-Sheet_68: 5857810848886599569
+      wretchbjorn-Sheet_69: 7686724867986089193
+      wretchbjorn-Sheet_7: -4339077003730257953
+      wretchbjorn-Sheet_70: -1460720771986487095
+      wretchbjorn-Sheet_71: 9057031861339483733
+      wretchbjorn-Sheet_72: -754140313784604635
+      wretchbjorn-Sheet_73: 7067042823670058026
+      wretchbjorn-Sheet_74: 5433623712640094962
+      wretchbjorn-Sheet_75: -7850447170336187621
+      wretchbjorn-Sheet_76: 2038351174290243905
+      wretchbjorn-Sheet_77: -974942723866387232
+      wretchbjorn-Sheet_78: -4776092826361114472
+      wretchbjorn-Sheet_79: -1250804288492503719
+      wretchbjorn-Sheet_8: -4651318856576702585
+      wretchbjorn-Sheet_80: -7772412051393188046
+      wretchbjorn-Sheet_81: 6930334589457644703
+      wretchbjorn-Sheet_82: 8806885267631649484
+      wretchbjorn-Sheet_83: 8006792774317243348
+      wretchbjorn-Sheet_84: 2556335237136853985
+      wretchbjorn-Sheet_85: 657668218983360057
+      wretchbjorn-Sheet_86: -7123770080718328415
+      wretchbjorn-Sheet_87: 3027274775384698057
+      wretchbjorn-Sheet_88: -6226869497497500351
+      wretchbjorn-Sheet_89: -6675322440859314338
+      wretchbjorn-Sheet_9: -5302605132129490475
+      wretchbjorn-Sheet_90: -3092690335703454062
+      wretchbjorn-Sheet_91: -2759679660507016841
+      wretchbjorn-Sheet_92: -7028460403808711789
+      wretchbjorn-Sheet_93: -2506507612878225594
+      wretchbjorn-Sheet_94: -3565271379524916803
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
