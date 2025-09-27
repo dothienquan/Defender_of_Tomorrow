@@ -19,22 +19,22 @@ public class PlayerMovement : MonoBehaviour
     public float groundCheckRadius = 0.15f;
     public LayerMask groundLayers = ~0;
 
-    [Tooltip("Chặn nhảy trong vài ms đầu để tránh bật lên khi Play.")]
+    [Tooltip("Avoid auto-jumping when entering Play.")]
     public float startupGraceTime = 0.15f;
 
-    private Rigidbody2D rb;
-    private Animator animator;
-    private float moveInput;
+    [Header("Visuals")]
+    public bool flipSpriteOnMove = true; // if you use one Run clip + SpriteRenderer flip
 
-    private float lastGroundedTime = -999f;
-    private float lastJumpPressedTime = -999f;
-    private bool isGrounded;
-    private float startTime;
+    Rigidbody2D rb;
+    Animator animator;
 
-    // Tên state trong Animator (đổi nếu bạn dùng tên khác)
-    private const string IdleStateName = "Idle";
+    float moveInput;
+    float lastGroundedTime = -999f;
+    float lastJumpPressedTime = -999f;
+    bool isGrounded;
+    float startTime;
 
-    void Start()
+    void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
@@ -44,23 +44,22 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         // --- Input ---
-        moveInput = Input.GetAxisRaw("Horizontal"); // Old Input System
+        moveInput = Input.GetAxisRaw("Horizontal"); // -1, 0, 1 using Old Input
         if (Input.GetButtonDown("Jump"))
             lastJumpPressedTime = Time.time;
 
         // --- Ground check ---
-        if (groundCheck != null)
+        if (groundCheck)
         {
             isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayers);
             if (isGrounded) lastGroundedTime = Time.time;
         }
         else
         {
-            // Fallback nếu quên gán groundCheck
             isGrounded = Mathf.Abs(rb.linearVelocity.y) < 0.01f;
         }
 
-        // --- Gravity feel / variable jump ---
+        // --- Extra gravity / variable jump feel ---
         if (rb.linearVelocity.y < 0f)
         {
             rb.linearVelocity += Vector2.up * (Physics2D.gravity.y * (fallGravityMultiplier - 1f) * Time.deltaTime);
@@ -70,7 +69,7 @@ public class PlayerMovement : MonoBehaviour
             rb.linearVelocity += Vector2.up * (Physics2D.gravity.y * (1f - lowJumpMultiplier) * Time.deltaTime);
         }
 
-        // --- Try Jump (buffer + coyote) ---
+        // --- Buffered + Coyote Jump ---
         bool canCoyote = (Time.time - lastGroundedTime) <= coyoteTime;
         bool bufferedJump = (Time.time - lastJumpPressedTime) <= jumpBuffer;
         bool passedStartup = (Time.time - startTime) >= startupGraceTime;
@@ -78,13 +77,32 @@ public class PlayerMovement : MonoBehaviour
         if (passedStartup && bufferedJump && (isGrounded || canCoyote))
             DoJump();
 
-        // --- Animator ---
-        UpdateAnimation();
+        // --- Animator parameters for Blend Tree / Air ---
+        // MoveX = -1..1 (sign of intended direction). Keep 0 when no input.
+        float moveXParam = Mathf.Approximately(moveInput, 0f) ? 0f : Mathf.Sign(moveInput);
+
+        // Speed = 0..1 (normalized ground horizontal speed). Keep 0 while airborne so Ground tree sits at Idle.
+        float speed01 = isGrounded
+            ? Mathf.Clamp01(Mathf.Abs(rb.linearVelocity.x) / Mathf.Max(0.001f, moveSpeed))
+            : 0f;
+
+        animator.SetFloat("MoveX", moveXParam);
+        animator.SetFloat("Speed", speed01);
+        animator.SetBool("IsGrounded", isGrounded);
+        animator.SetFloat("VelY", rb.linearVelocity.y);
+
+        // Optional: flip sprite if you only have a right-facing run
+        if (flipSpriteOnMove)
+        {
+            var sr = GetComponentInChildren<SpriteRenderer>();
+            if (sr && !Mathf.Approximately(moveInput, 0f))
+                sr.flipX = moveInput < 0f;
+        }
     }
 
     void FixedUpdate()
     {
-        // Di chuyển ngang
+        // Horizontal move
         rb.linearVelocity = new Vector2(moveInput * moveSpeed, rb.linearVelocity.y);
     }
 
@@ -95,34 +113,9 @@ public class PlayerMovement : MonoBehaviour
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
     }
 
-    void UpdateAnimation()
-    {
-        // 1) Cập nhật grounded
-        animator.SetBool("IsGrounded", isGrounded);
-
-        // 2) Tính cờ chạy theo input (chỉ khi đang đứng đất)
-        bool left = isGrounded && moveInput < -0.01f;
-        bool right = isGrounded && moveInput > 0.01f;
-
-        // 3) Set trực tiếp 2 cờ hướng (không reset rồi set lại)
-        animator.SetBool("IsRunningLeft", left);
-        animator.SetBool("IsRunningRight", right);
-
-        // 4) Nếu đang đứng đất và KHÔNG chạy trái/phải -> ép về Idle
-        if (isGrounded && !left && !right)
-        {
-            const string IdleState = "Idle"; // ĐỔI nếu state Idle của bạn tên khác!
-            var s = animator.GetCurrentAnimatorStateInfo(0);
-            if (!s.IsName(IdleState))
-                animator.CrossFade(IdleState, 0.05f, 0);
-        }
-        // Trên không: chỉ cần IsGrounded=false, Animator tự sang Jump theo transition
-    }
-
-
     void OnDrawGizmosSelected()
     {
-        if (groundCheck == null) return;
+        if (!groundCheck) return;
         Gizmos.color = Color.green;
         Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
     }
