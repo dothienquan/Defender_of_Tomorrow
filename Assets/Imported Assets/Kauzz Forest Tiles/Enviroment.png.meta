@@ -1976,10 +1976,10 @@ TextureImporter:
       name: Enviroment_75
       rect:
         serializedVersion: 2
-        x: 75
-        y: 356
-        width: 26
-        height: 12
+        x: 76
+        y: 346
+        width: 24
+        height: 22
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2025,7 +2025,7 @@ TextureImporter:
         width: 31
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2034,6 +2034,28 @@ TextureImporter:
       bones: []
       spriteID: f5f3879f581c5b145a66aeb679b19f48
       internalID: 438592808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviroment_78
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 328
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17a092d9754dfc43a70de5a27e32662
+      internalID: -1975112549
       vertices: []
       indices: 
       edges: []
@@ -2128,6 +2150,7 @@ TextureImporter:
       Enviroment_75: 1642421172
       Enviroment_76: -36628920
       Enviroment_77: 438592808
+      Enviroment_78: -1975112549
       Enviroment_8: -1346332615997556901
       Enviroment_9: 8677301677178453557
   mipmapLimitGroupName: 
