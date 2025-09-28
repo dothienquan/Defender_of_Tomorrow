@@ -1,10 +1,22 @@
 fileFormatVersion: 2
-guid: c28bc094c91acb94886d721d2c0575f9
+guid: 6dd5a7f688fa83a4092dea3d9d81177a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5391499930902814504
-    second: House1_0
+      213: 4181926328345912380
+    second: GREENSnake_strip7_0
+  - first:
+      213: 6416528531806760812
+    second: GREENSnake_strip7_1
+  - first:
+      213: -4610760083306203463
+    second: GREENSnake_strip7_2
+  - first:
+      213: 7808309235239818086
+    second: GREENSnake_strip7_3
+  - first:
+      213: 3463207853817842668
+    second: GREENSnake_strip7_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +63,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 20
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,13 +125,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: House1_0
+      name: GREENSnake_strip7_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 18
-        width: 114
-        height: 159
+        x: 0
+        y: 0
+        width: 24
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +140,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8d0aef3d06b8d25b0800000000000000
-      internalID: -5391499930902814504
+      spriteID: c3469edb6df290a30800000000000000
+      internalID: 4181926328345912380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREENSnake_strip7_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f208514b61c0950800000000000000
+      internalID: 6416528531806760812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREENSnake_strip7_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6bbf1122a4300c0800000000000000
+      internalID: -4610760083306203463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREENSnake_strip7_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6631fd611efac5c60800000000000000
+      internalID: 7808309235239818086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREENSnake_strip7_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 70
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebc726b139cf0030800000000000000
+      internalID: 3463207853817842668
       vertices: []
       indices: 
       edges: []
@@ -147,8 +247,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      House1_0: -5391499930902814504
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

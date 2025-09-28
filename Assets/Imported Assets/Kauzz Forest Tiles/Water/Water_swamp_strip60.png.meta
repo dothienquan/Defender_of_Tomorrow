@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c28bc094c91acb94886d721d2c0575f9
+guid: 241682ff4be33e74b9dc1b68ea2f7f67
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5391499930902814504
-    second: House1_0
+      213: 5361722722682109358
+    second: Water_swamp_strip60_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 20
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: House1_0
+      name: Water_swamp_strip60_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 18
-        width: 114
-        height: 159
+        x: 0
+        y: 0
+        width: 1800
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8d0aef3d06b8d25b0800000000000000
-      internalID: -5391499930902814504
+      spriteID: ead7b9d986aa86a40800000000000000
+      internalID: 5361722722682109358
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      House1_0: -5391499930902814504
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

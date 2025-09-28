@@ -1,10 +1,25 @@
 fileFormatVersion: 2
-guid: c28bc094c91acb94886d721d2c0575f9
+guid: 1b3fed649258bf54683efdfbab79d995
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5391499930902814504
-    second: House1_0
+      213: -3847482065538290856
+    second: Minibat_strip6_0
+  - first:
+      213: 2247780330230472086
+    second: Minibat_strip6_1
+  - first:
+      213: -3398677982460236394
+    second: Minibat_strip6_2
+  - first:
+      213: 2599712752508682442
+    second: Minibat_strip6_3
+  - first:
+      213: 5086392960138906147
+    second: Minibat_strip6_4
+  - first:
+      213: -2644374980816862618
+    second: Minibat_strip6_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +66,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 20
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,13 +128,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: House1_0
+      name: Minibat_strip6_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 18
-        width: 114
-        height: 159
+        x: 8
+        y: 5
+        width: 17
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +143,118 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8d0aef3d06b8d25b0800000000000000
-      internalID: -5391499930902814504
+      spriteID: 85b67eb327ffa9ac0800000000000000
+      internalID: -3847482065538290856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minibat_strip6_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 4
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d5f741d48b13f10800000000000000
+      internalID: 2247780330230472086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minibat_strip6_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 5
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d2485c16875d0d0800000000000000
+      internalID: -3398677982460236394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minibat_strip6_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 4
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0455b79f8041420800000000000000
+      internalID: 2599712752508682442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minibat_strip6_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 3
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a8029c27f769640800000000000000
+      internalID: 5086392960138906147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minibat_strip6_5
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 6
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6620b7727fa4d4bd0800000000000000
+      internalID: -2644374980816862618
       vertices: []
       indices: 
       edges: []
@@ -147,8 +272,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      House1_0: -5391499930902814504
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

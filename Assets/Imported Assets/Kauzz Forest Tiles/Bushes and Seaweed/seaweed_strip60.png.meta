@@ -1,202 +1,187 @@
 fileFormatVersion: 2
-guid: 425cbada4c730924b8e176084ec53bd9
+guid: 1bed9d5c1ed764a4bbcedad9ed3843b3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4684625920699962428
-    second: Tilemap_color1_0
+      213: -7565031150113889118
+    second: seaweed_strip60_0
   - first:
-      213: -2801873246907429078
-    second: Tilemap_color1_1
+      213: -1642658386453696217
+    second: seaweed_strip60_1
   - first:
-      213: 7801342956118196415
-    second: Tilemap_color1_2
+      213: -1048140570011099097
+    second: seaweed_strip60_2
   - first:
-      213: 2381845703017299674
-    second: Tilemap_color1_3
+      213: -4184366641837042639
+    second: seaweed_strip60_3
   - first:
-      213: 5980407047448068244
-    second: Tilemap_color1_4
+      213: 7190451663071068653
+    second: seaweed_strip60_4
   - first:
-      213: 7614361197189378962
-    second: Tilemap_color1_5
+      213: -546103351870978291
+    second: seaweed_strip60_5
   - first:
-      213: -4455189763106589383
-    second: Tilemap_color1_6
+      213: -5773338299530620431
+    second: seaweed_strip60_6
   - first:
-      213: 2514084195207275289
-    second: Tilemap_color1_7
+      213: 1618075852519373843
+    second: seaweed_strip60_7
   - first:
-      213: 6012010895760242090
-    second: Tilemap_color1_8
+      213: 5578111557292923568
+    second: seaweed_strip60_8
   - first:
-      213: 3062889884838147064
-    second: Tilemap_color1_9
+      213: -7700293133374355964
+    second: seaweed_strip60_9
   - first:
-      213: 1418375321201274708
-    second: Tilemap_color1_10
+      213: 3705511197014841235
+    second: seaweed_strip60_10
   - first:
-      213: -8992189254483969355
-    second: Tilemap_color1_11
+      213: -3327369041586162745
+    second: seaweed_strip60_11
   - first:
-      213: -3293826169491285364
-    second: Tilemap_color1_12
+      213: -5191640000454443366
+    second: seaweed_strip60_12
   - first:
-      213: 2468736761819628169
-    second: Tilemap_color1_13
+      213: 407280550224391745
+    second: seaweed_strip60_13
   - first:
-      213: 249127335269095975
-    second: Tilemap_color1_14
+      213: -8369434127062462621
+    second: seaweed_strip60_14
   - first:
-      213: 120966392478926727
-    second: Tilemap_color1_15
+      213: 8612076474624523977
+    second: seaweed_strip60_15
   - first:
-      213: 1311339825560053648
-    second: Tilemap_color1_16
+      213: -3685847589519536221
+    second: seaweed_strip60_16
   - first:
-      213: 7518868150231657459
-    second: Tilemap_color1_17
+      213: 5558357640898486878
+    second: seaweed_strip60_17
   - first:
-      213: 2944866425670003460
-    second: Tilemap_color1_18
+      213: 3859119399706553484
+    second: seaweed_strip60_18
   - first:
-      213: -2804451518926523279
-    second: Tilemap_color1_19
+      213: -8374192209180724156
+    second: seaweed_strip60_19
   - first:
-      213: -4336045200530116284
-    second: Tilemap_color1_20
+      213: -6187475953622915272
+    second: seaweed_strip60_20
   - first:
-      213: -5663187401509772035
-    second: Tilemap_color1_21
+      213: 7764184186480829034
+    second: seaweed_strip60_21
   - first:
-      213: -7962071013999737797
-    second: Tilemap_color1_22
+      213: 2413346638425904020
+    second: seaweed_strip60_22
   - first:
-      213: 7272332894472844370
-    second: Tilemap_color1_23
+      213: 6279695223936065814
+    second: seaweed_strip60_23
   - first:
-      213: -7473837398066495716
-    second: Tilemap_color1_24
+      213: -4642309584345695197
+    second: seaweed_strip60_24
   - first:
-      213: 2205626041221952261
-    second: Tilemap_color1_25
+      213: 7529137031806469340
+    second: seaweed_strip60_25
   - first:
-      213: 8761957845823429309
-    second: Tilemap_color1_26
+      213: 2143709973785711765
+    second: seaweed_strip60_26
   - first:
-      213: -7602718512742726791
-    second: Tilemap_color1_27
+      213: -7489094946365756127
+    second: seaweed_strip60_27
   - first:
-      213: 4299903223893273855
-    second: Tilemap_color1_28
+      213: 1846829430681880148
+    second: seaweed_strip60_28
   - first:
-      213: -156968979077948116
-    second: Tilemap_color1_29
+      213: -915519183290552636
+    second: seaweed_strip60_29
   - first:
-      213: -6005370149783978446
-    second: Tilemap_color1_30
+      213: -3900059090097785
+    second: seaweed_strip60_30
   - first:
-      213: -3887639646538638151
-    second: Tilemap_color1_31
+      213: -1698731270429099592
+    second: seaweed_strip60_31
   - first:
-      213: -7676271994124391679
-    second: Tilemap_color1_32
+      213: -170215050547263289
+    second: seaweed_strip60_32
   - first:
-      213: -567363726576857262
-    second: Tilemap_color1_33
+      213: 2912697095804204153
+    second: seaweed_strip60_33
   - first:
-      213: -5170102666605548192
-    second: Tilemap_color1_34
+      213: 8210354713834076762
+    second: seaweed_strip60_34
   - first:
-      213: -6914060815751580637
-    second: Tilemap_color1_35
+      213: 6031602226407992976
+    second: seaweed_strip60_35
   - first:
-      213: -2818783850665287378
-    second: Tilemap_color1_36
+      213: -5951952354805309891
+    second: seaweed_strip60_36
   - first:
-      213: 4877094068914342608
-    second: Tilemap_color1_37
+      213: -3188161362966597102
+    second: seaweed_strip60_37
   - first:
-      213: -5460246916487401979
-    second: Tilemap_color1_38
+      213: 7047863061300872921
+    second: seaweed_strip60_38
   - first:
-      213: 8040887467247185324
-    second: Tilemap_color1_39
+      213: 292417789392650917
+    second: seaweed_strip60_39
   - first:
-      213: 6659697122546123297
-    second: Tilemap_color1_40
+      213: -2777099961068956999
+    second: seaweed_strip60_40
   - first:
-      213: -5328810533467712069
-    second: Tilemap_color1_41
+      213: 6806731675863850603
+    second: seaweed_strip60_41
   - first:
-      213: 3858118010278745957
-    second: Tilemap_color1_42
+      213: 4107270644013913225
+    second: seaweed_strip60_42
   - first:
-      213: -3793614902417640485
-    second: Tilemap_color1_43
+      213: 1214197373096133820
+    second: seaweed_strip60_43
   - first:
-      213: -918892767159726313
-    second: Tilemap_color1_44
+      213: -3859935671829298990
+    second: seaweed_strip60_44
   - first:
-      213: 3368758497067531475
-    second: Tilemap_color1_45
+      213: 53887227944760141
+    second: seaweed_strip60_45
   - first:
-      213: 5809642575974107265
-    second: Tilemap_color1_46
+      213: -3638184160490237200
+    second: seaweed_strip60_46
   - first:
-      213: -2717959069546875479
-    second: Tilemap_color1_47
+      213: 4497826706393319307
+    second: seaweed_strip60_47
   - first:
-      213: -2730756614561629265
-    second: Tilemap_color1_48
+      213: -6825307907336507838
+    second: seaweed_strip60_48
   - first:
-      213: -1600266700000864503
-    second: Tilemap_color1_49
+      213: 9193887160446238528
+    second: seaweed_strip60_49
   - first:
-      213: -6162260638384905595
-    second: Tilemap_color1_50
+      213: 237240724915080400
+    second: seaweed_strip60_50
   - first:
-      213: -7989441365163098092
-    second: Tilemap_color1_51
+      213: -4898368929742849808
+    second: seaweed_strip60_51
   - first:
-      213: -4156132361999277927
-    second: Tilemap_color1_52
+      213: -2600635267367293143
+    second: seaweed_strip60_52
   - first:
-      213: 6678773690062355152
-    second: Tilemap_color1_53
+      213: -8262688240571974999
+    second: seaweed_strip60_53
   - first:
-      213: -5833622645773596244
-    second: Tilemap_color1_54
+      213: -7848491236692698984
+    second: seaweed_strip60_54
   - first:
-      213: 46385456578341019
-    second: Tilemap_color1_55
+      213: 2370506733346047698
+    second: seaweed_strip60_55
   - first:
-      213: -5490583000368920266
-    second: Tilemap_color1_56
+      213: -1459199416015609506
+    second: seaweed_strip60_56
   - first:
-      213: 6025417231891396771
-    second: Tilemap_color1_57
+      213: -2766865840974734949
+    second: seaweed_strip60_57
   - first:
-      213: -389833285977466161
-    second: Tilemap_color1_58
+      213: -7884007097746496314
+    second: seaweed_strip60_58
   - first:
-      213: -6876386774670606448
-    second: Tilemap_color1_59
-  - first:
-      213: 2213162740780828126
-    second: Tilemap_color1_60
-  - first:
-      213: -2121317567515395388
-    second: Tilemap_color1_61
-  - first:
-      213: 7278956865320723726
-    second: Tilemap_color1_62
-  - first:
-      213: 2442936209934616833
-    second: Tilemap_color1_63
-  - first:
-      213: 8525603795300512417
-    second: Tilemap_color1_64
+      213: 5880722355503145151
+    second: seaweed_strip60_59
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -243,7 +228,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 45
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -305,13 +290,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Tilemap_color1_0
+      name: seaweed_strip60_0
       rect:
         serializedVersion: 2
-        x: 103
-        y: 465
-        width: 15
-        height: 26
+        x: 0
+        y: 0
+        width: 14
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -320,20 +305,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c3498e46472230140800000000000000
-      internalID: 4684625920699962428
+      spriteID: 2a462be004c930790800000000000000
+      internalID: -7565031150113889118
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_color1_1
+      name: seaweed_strip60_1
       rect:
         serializedVersion: 2
-        x: 117
-        y: 465
-        width: 6
-        height: 26
+        x: 14
+        y: 0
+        width: 14
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -342,20 +327,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a2f896c702fbd19d0800000000000000
-      internalID: -2801873246907429078
+      spriteID: 7217c1496ea1439e0800000000000000
+      internalID: -1642658386453696217
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_color1_2
+      name: seaweed_strip60_2
       rect:
         serializedVersion: 2
-        x: 125
-        y: 465
-        width: 16
-        height: 20
+        x: 28
+        y: 0
+        width: 14
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -364,20 +349,174 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fb0cb66d510f34c60800000000000000
-      internalID: 7801342956118196415
+      spriteID: 72020d174b14471f0800000000000000
+      internalID: -1048140570011099097
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_color1_3
+      name: seaweed_strip60_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 14
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1341f4f75b42ee5c0800000000000000
+      internalID: -4184366641837042639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 14
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1c7ffd0bd99c360800000000000000
+      internalID: 7190451663071068653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 14
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07841515e9db68f0800000000000000
+      internalID: -546103351870978291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 14
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1d150b76bf0efa0800000000000000
+      internalID: -5773338299530620431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 14
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cfd093a6f847610800000000000000
+      internalID: 1618075852519373843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 14
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba12f148ee696d40800000000000000
+      internalID: 5578111557292923568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 14
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40687de6130132590800000000000000
+      internalID: -7700293133374355964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_10
       rect:
         serializedVersion: 2
         x: 140
-        y: 465
-        width: 13
-        height: 26
+        y: 0
+        width: 14
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -386,20 +525,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: adef22e1c040e0120800000000000000
-      internalID: 2381845703017299674
+      spriteID: 3975d411dce9c6330800000000000000
+      internalID: 3705511197014841235
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_color1_4
+      name: seaweed_strip60_11
       rect:
         serializedVersion: 2
-        x: 162
-        y: 465
-        width: 18
-        height: 26
+        x: 154
+        y: 0
+        width: 14
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -408,20 +547,42 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 490826b268caef250800000000000000
-      internalID: 5980407047448068244
+      spriteID: 7c3ff9f5c7fc2d1d0800000000000000
+      internalID: -3327369041586162745
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_color1_5
+      name: seaweed_strip60_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 14
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e34331de693f7b0800000000000000
+      internalID: -5191640000454443366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_13
       rect:
         serializedVersion: 2
         x: 182
-        y: 465
-        width: 30
-        height: 20
+        y: 0
+        width: 14
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -430,20 +591,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 293bdfd8a25aba960800000000000000
-      internalID: 7614361197189378962
+      spriteID: 14eec08a083f6a500800000000000000
+      internalID: 407280550224391745
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_color1_6
+      name: seaweed_strip60_14
       rect:
         serializedVersion: 2
-        x: 213
-        y: 465
-        width: 17
-        height: 20
+        x: 196
+        y: 0
+        width: 14
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -452,20 +613,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 935331bd38cfb22c0800000000000000
-      internalID: -4455189763106589383
+      spriteID: 36f096d210cc9db80800000000000000
+      internalID: -8369434127062462621
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_color1_7
+      name: seaweed_strip60_15
       rect:
         serializedVersion: 2
-        x: 232
-        y: 465
-        width: 17
-        height: 20
+        x: 210
+        y: 0
+        width: 14
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -474,1032 +635,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 913e0ce5142d3e220800000000000000
-      internalID: 2514084195207275289
+      spriteID: 9ce3e78cced348770800000000000000
+      internalID: 8612076474624523977
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_color1_8
-      rect:
-        serializedVersion: 2
-        x: 249
-        y: 465
-        width: 16
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aa531938e04fe6350800000000000000
-      internalID: 6012010895760242090
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_9
-      rect:
-        serializedVersion: 2
-        x: 379
-        y: 466
-        width: 16
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8f33ae35f12918a20800000000000000
-      internalID: 3062889884838147064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_10
-      rect:
-        serializedVersion: 2
-        x: 395
-        y: 466
-        width: 6
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 45fe16af6d41fa310800000000000000
-      internalID: 1418375321201274708
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_11
-      rect:
-        serializedVersion: 2
-        x: 404
-        y: 466
-        width: 15
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5baf5650483553380800000000000000
-      internalID: -8992189254483969355
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_12
-      rect:
-        serializedVersion: 2
-        x: 418
-        y: 466
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c8a169fdc8af942d0800000000000000
-      internalID: -3293826169491285364
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_13
-      rect:
-        serializedVersion: 2
-        x: 435
-        y: 466
-        width: 16
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 98205344107b24220800000000000000
-      internalID: 2468736761819628169
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_14
-      rect:
-        serializedVersion: 2
-        x: 450
-        y: 466
-        width: 17
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 72add82ddf3157300800000000000000
-      internalID: 249127335269095975
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_15
-      rect:
-        serializedVersion: 2
-        x: 461
-        y: 485
-        width: 6
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 78787750b42cda100800000000000000
-      internalID: 120966392478926727
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_16
-      rect:
-        serializedVersion: 2
-        x: 470
-        y: 466
-        width: 16
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0976452af90d23210800000000000000
-      internalID: 1311339825560053648
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_17
-      rect:
-        serializedVersion: 2
-        x: 488
-        y: 466
-        width: 17
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3fb6e87feb2685860800000000000000
-      internalID: 7518868150231657459
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_18
-      rect:
-        serializedVersion: 2
-        x: 516
-        y: 466
-        width: 20
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 40be80d59644ed820800000000000000
-      internalID: 2944866425670003460
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_19
-      rect:
-        serializedVersion: 2
-        x: 537
-        y: 466
-        width: 17
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1747490c3369419d0800000000000000
-      internalID: -2804451518926523279
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_20
-      rect:
-        serializedVersion: 2
-        x: 563
-        y: 466
-        width: 30
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4417d5c0dd543d3c0800000000000000
-      internalID: -4336045200530116284
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_21
-      rect:
-        serializedVersion: 2
-        x: 592
-        y: 466
-        width: 16
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: df4ea8c20115861b0800000000000000
-      internalID: -5663187401509772035
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_22
-      rect:
-        serializedVersion: 2
-        x: 607
-        y: 466
-        width: 13
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b348c1ef89a018190800000000000000
-      internalID: -7962071013999737797
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_23
-      rect:
-        serializedVersion: 2
-        x: 619
-        y: 466
-        width: 15
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 254317fac348ce460800000000000000
-      internalID: 7272332894472844370
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_24
-      rect:
-        serializedVersion: 2
-        x: 635
-        y: 466
-        width: 16
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c1f773b0c78974890800000000000000
-      internalID: -7473837398066495716
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_25
-      rect:
-        serializedVersion: 2
-        x: 702
-        y: 465
-        width: 16
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 503b266d235fb9e10800000000000000
-      internalID: 2205626041221952261
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_26
-      rect:
-        serializedVersion: 2
-        x: 718
-        y: 465
-        width: 6
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dba9049ec3ab89970800000000000000
-      internalID: 8761957845823429309
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_27
-      rect:
-        serializedVersion: 2
-        x: 727
-        y: 465
-        width: 15
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9730fa82bc7bd7690800000000000000
-      internalID: -7602718512742726791
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_28
-      rect:
-        serializedVersion: 2
-        x: 741
-        y: 465
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ffc27b443335cab30800000000000000
-      internalID: 4299903223893273855
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_29
-      rect:
-        serializedVersion: 2
-        x: 758
-        y: 465
-        width: 16
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c2d9d419b8552ddf0800000000000000
-      internalID: -156968979077948116
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_30
-      rect:
-        serializedVersion: 2
-        x: 773
-        y: 465
-        width: 17
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 23e3465aaa3a8aca0800000000000000
-      internalID: -6005370149783978446
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_31
-      rect:
-        serializedVersion: 2
-        x: 784
-        y: 484
-        width: 6
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9bcd65dc6545c0ac0800000000000000
-      internalID: -3887639646538638151
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_32
-      rect:
-        serializedVersion: 2
-        x: 793
-        y: 465
-        width: 16
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 10bafeeba47687590800000000000000
-      internalID: -7676271994124391679
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_33
-      rect:
-        serializedVersion: 2
-        x: 811
-        y: 465
-        width: 17
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 25fc1fa52b15028f0800000000000000
-      internalID: -567363726576857262
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_34
-      rect:
-        serializedVersion: 2
-        x: 839
-        y: 465
-        width: 20
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 06d2da0640b1048b0800000000000000
-      internalID: -5170102666605548192
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_35
-      rect:
-        serializedVersion: 2
-        x: 860
-        y: 465
-        width: 17
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 324fda102525c00a0800000000000000
-      internalID: -6914060815751580637
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_36
-      rect:
-        serializedVersion: 2
-        x: 888
-        y: 465
-        width: 16
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e21ec7ab50ba1e8d0800000000000000
-      internalID: -2818783850665287378
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_37
-      rect:
-        serializedVersion: 2
-        x: 902
-        y: 465
-        width: 16
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0dacdc9373beea340800000000000000
-      internalID: 4877094068914342608
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_38
-      rect:
-        serializedVersion: 2
-        x: 920
-        y: 465
-        width: 17
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 50ea8dceb5e4934b0800000000000000
-      internalID: -5460246916487401979
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_39
-      rect:
-        serializedVersion: 2
-        x: 937
-        y: 465
-        width: 16
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cada82c8c88f69f60800000000000000
-      internalID: 8040887467247185324
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_40
-      rect:
-        serializedVersion: 2
-        x: 63
-        y: 238
-        width: 258
-        height: 211
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1228d059f3ffb6c50800000000000000
-      internalID: 6659697122546123297
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_41
-      rect:
-        serializedVersion: 2
-        x: 383
-        y: 191
-        width: 258
-        height: 258
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bb51c459d034c06b0800000000000000
-      internalID: -5328810533467712069
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_42
-      rect:
-        serializedVersion: 2
-        x: 703
-        y: 196
-        width: 258
-        height: 253
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5679330a3e9ca8530800000000000000
-      internalID: 3858118010278745957
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_43
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 323
-        width: 65
-        height: 126
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bd3b4ce785f5a5bc0800000000000000
-      internalID: -3793614902417640485
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_44
-      rect:
-        serializedVersion: 2
-        x: 1151
-        y: 324
-        width: 65
-        height: 125
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 71fc4c295ef6f33f0800000000000000
-      internalID: -918892767159726313
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_45
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 110
-        width: 193
-        height: 83
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3dcf9cf210c30ce20800000000000000
-      internalID: 3368758497067531475
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_46
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 114
-        width: 65
-        height: 77
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1880cec542fff9050800000000000000
-      internalID: 5809642575974107265
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_47
-      rect:
-        serializedVersion: 2
-        x: 383
-        y: 63
-        width: 258
-        height: 130
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9a57b9960aed74ad0800000000000000
-      internalID: -2717959069546875479
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_48
-      rect:
-        serializedVersion: 2
-        x: 703
-        y: 68
-        width: 258
-        height: 125
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fab7105c3576a1ad0800000000000000
-      internalID: -2730756614561629265
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_49
-      rect:
-        serializedVersion: 2
-        x: 81
-        y: 24
-        width: 20
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 907df883ae5bac9e0800000000000000
-      internalID: -1600266700000864503
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_50
-      rect:
-        serializedVersion: 2
-        x: 101
-        y: 22
-        width: 11
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 58222b339904b7aa0800000000000000
-      internalID: -6162260638384905595
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_51
-      rect:
-        serializedVersion: 2
-        x: 142
-        y: 23
-        width: 20
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 41044a3886dcf1190800000000000000
-      internalID: -7989441365163098092
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_52
-      rect:
-        serializedVersion: 2
-        x: 162
-        y: 21
-        width: 18
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 990278b03a37256c0800000000000000
-      internalID: -4156132361999277927
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_53
-      rect:
-        serializedVersion: 2
-        x: 205
-        y: 22
-        width: 20
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0da34631945cfac50800000000000000
-      internalID: 6678773690062355152
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilemap_color1_54
+      name: seaweed_strip60_16
       rect:
         serializedVersion: 2
         x: 224
-        y: 19
-        width: 18
-        height: 26
+        y: 0
+        width: 14
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1508,20 +657,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ca98dfc8c1fca0fa0800000000000000
-      internalID: -5833622645773596244
+      spriteID: 3af4572552d39dcc0800000000000000
+      internalID: -3685847589519536221
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_color1_55
+      name: seaweed_strip60_17
       rect:
         serializedVersion: 2
-        x: 268
-        y: 24
-        width: 20
-        height: 20
+        x: 238
+        y: 0
+        width: 14
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1530,20 +679,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b98a816b35bc4a000800000000000000
-      internalID: 46385456578341019
+      spriteID: e52255033d0432d40800000000000000
+      internalID: 5558357640898486878
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_color1_56
+      name: seaweed_strip60_18
       rect:
         serializedVersion: 2
-        x: 288
-        y: 22
-        width: 17
-        height: 26
+        x: 252
+        y: 0
+        width: 14
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1552,20 +701,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 639463df9d78dc3b0800000000000000
-      internalID: -5490583000368920266
+      spriteID: c8ce355c5a85e8530800000000000000
+      internalID: 3859119399706553484
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_color1_57
+      name: seaweed_strip60_19
       rect:
         serializedVersion: 2
-        x: 401
-        y: 24
-        width: 20
-        height: 20
+        x: 266
+        y: 0
+        width: 14
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1574,20 +723,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3a877626c059e9350800000000000000
-      internalID: 6025417231891396771
+      spriteID: 44470fadd84e8cb80800000000000000
+      internalID: -8374192209180724156
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_color1_58
+      name: seaweed_strip60_20
       rect:
         serializedVersion: 2
-        x: 421
-        y: 22
-        width: 11
-        height: 26
+        x: 280
+        y: 0
+        width: 14
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1596,20 +745,284 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fca90bb11b8079af0800000000000000
-      internalID: -389833285977466161
+      spriteID: 837e800276ba12aa0800000000000000
+      internalID: -6187475953622915272
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_color1_59
+      name: seaweed_strip60_21
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 14
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6225e5916cefbb60800000000000000
+      internalID: 7764184186480829034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_22
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 14
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493524f2bfded7120800000000000000
+      internalID: 2413346638425904020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_23
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 14
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6112d60f885f52750800000000000000
+      internalID: 6279695223936065814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_24
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 14
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cfeaf6704339fb0800000000000000
+      internalID: -4642309584345695197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_25
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 14
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd440164d3edc7860800000000000000
+      internalID: 7529137031806469340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_26
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 0
+        width: 14
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59495f00ddcffbd10800000000000000
+      internalID: 2143709973785711765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_27
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 14
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d22b043d3611890800000000000000
+      internalID: -7489094946365756127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_28
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 14
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456c780159141a910800000000000000
+      internalID: 1846829430681880148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_29
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 0
+        width: 14
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce29e6472c6b43f0800000000000000
+      internalID: -915519183290552636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_30
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 14
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789e45bbae422fff0800000000000000
+      internalID: -3900059090097785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_31
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 0
+        width: 14
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9b939e8e4ec68e0800000000000000
+      internalID: -1698731270429099592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_32
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 14
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c884b8305643adf0800000000000000
+      internalID: -170215050547263289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_33
       rect:
         serializedVersion: 2
         x: 462
-        y: 23
-        width: 20
-        height: 20
+        y: 0
+        width: 15
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1618,20 +1031,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 09f709d39aa2290a0800000000000000
-      internalID: -6876386774670606448
+      spriteID: 974b8b5939afb6820800000000000000
+      internalID: 2912697095804204153
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_color1_60
+      name: seaweed_strip60_34
       rect:
         serializedVersion: 2
-        x: 482
-        y: 21
-        width: 18
-        height: 26
+        x: 476
+        y: 0
+        width: 15
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1640,20 +1053,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ed50f5279cbb6be10800000000000000
-      internalID: 2213162740780828126
+      spriteID: a5ab806ac1a01f170800000000000000
+      internalID: 8210354713834076762
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_color1_61
+      name: seaweed_strip60_35
       rect:
         serializedVersion: 2
-        x: 525
-        y: 22
-        width: 20
-        height: 20
+        x: 490
+        y: 0
+        width: 15
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1662,20 +1075,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4caf27c59e09f82e0800000000000000
-      internalID: -2121317567515395388
+      spriteID: 09ee083a44e84b350800000000000000
+      internalID: 6031602226407992976
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_color1_62
+      name: seaweed_strip60_36
       rect:
         serializedVersion: 2
-        x: 544
-        y: 19
-        width: 18
-        height: 26
+        x: 504
+        y: 0
+        width: 15
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1684,20 +1097,130 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e0525d414bc040560800000000000000
-      internalID: 7278956865320723726
+      spriteID: d3e97cb3eda666da0800000000000000
+      internalID: -5951952354805309891
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_color1_63
+      name: seaweed_strip60_37
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 0
+        width: 15
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21230c9c12061c3d0800000000000000
+      internalID: -3188161362966597102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_38
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 15
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d68f62fc1a0fc160800000000000000
+      internalID: 7047863061300872921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_39
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 0
+        width: 15
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a201ce1e60ee0400800000000000000
+      internalID: 292417789392650917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_40
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 15
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2dbb29c42c579d0800000000000000
+      internalID: -2777099961068956999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_41
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 0
+        width: 15
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e9345456e567e50800000000000000
+      internalID: 6806731675863850603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_42
       rect:
         serializedVersion: 2
         x: 588
-        y: 24
-        width: 20
-        height: 20
+        y: 0
+        width: 15
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1706,20 +1229,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 109871a2a8d07e120800000000000000
-      internalID: 2442936209934616833
+      spriteID: 984d6d4b3e4fff830800000000000000
+      internalID: 4107270644013913225
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilemap_color1_64
+      name: seaweed_strip60_43
       rect:
         serializedVersion: 2
-        x: 608
-        y: 22
-        width: 17
-        height: 26
+        x: 602
+        y: 0
+        width: 15
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1728,8 +1251,360 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1a2fb923b77015670800000000000000
-      internalID: 8525603795300512417
+      spriteID: cb48b96e312b9d010800000000000000
+      internalID: 1214197373096133820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_44
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 15
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d081c015f0ce6ac0800000000000000
+      internalID: -3859935671829298990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_45
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 15
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43f397f5227fb000800000000000000
+      internalID: 53887227944760141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_46
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 0
+        width: 15
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2d68e28c2928dc0800000000000000
+      internalID: -3638184160490237200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_47
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 0
+        width: 15
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87c6d71f8d7b6e30800000000000000
+      internalID: 4497826706393319307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_48
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 15
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24eea8cce92a741a0800000000000000
+      internalID: -6825307907336507838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_49
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 15
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f3c6f39af379f70800000000000000
+      internalID: 9193887160446238528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_50
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 0
+        width: 16
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcc1deae29da4300800000000000000
+      internalID: 237240724915080400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_51
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 0
+        width: 16
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8fddb396f750cb0800000000000000
+      internalID: -4898368929742849808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_52
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 0
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f283ac000b8ebd0800000000000000
+      internalID: -2600635267367293143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_53
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 0
+        width: 15
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aaf8e2a2d8055d80800000000000000
+      internalID: -8262688240571974999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_54
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 0
+        width: 15
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8985a26adce841390800000000000000
+      internalID: -7848491236692698984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_55
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 0
+        width: 15
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d643c2805bb5e020800000000000000
+      internalID: 2370506733346047698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_56
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 15
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51aeefbcd1efbbe0800000000000000
+      internalID: -1459199416015609506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_57
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 0
+        width: 15
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99d9875d2e1a99d0800000000000000
+      internalID: -2766865840974734949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_58
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 0
+        width: 14
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4692cd051669290800000000000000
+      internalID: -7884007097746496314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seaweed_strip60_59
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 0
+        width: 14
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0a67e23d58c9150800000000000000
+      internalID: 5880722355503145151
       vertices: []
       indices: 
       edges: []
@@ -1747,72 +1622,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Tilemap_color1_0: 4684625920699962428
-      Tilemap_color1_1: -2801873246907429078
-      Tilemap_color1_10: 1418375321201274708
-      Tilemap_color1_11: -8992189254483969355
-      Tilemap_color1_12: -3293826169491285364
-      Tilemap_color1_13: 2468736761819628169
-      Tilemap_color1_14: 249127335269095975
-      Tilemap_color1_15: 120966392478926727
-      Tilemap_color1_16: 1311339825560053648
-      Tilemap_color1_17: 7518868150231657459
-      Tilemap_color1_18: 2944866425670003460
-      Tilemap_color1_19: -2804451518926523279
-      Tilemap_color1_2: 7801342956118196415
-      Tilemap_color1_20: -4336045200530116284
-      Tilemap_color1_21: -5663187401509772035
-      Tilemap_color1_22: -7962071013999737797
-      Tilemap_color1_23: 7272332894472844370
-      Tilemap_color1_24: -7473837398066495716
-      Tilemap_color1_25: 2205626041221952261
-      Tilemap_color1_26: 8761957845823429309
-      Tilemap_color1_27: -7602718512742726791
-      Tilemap_color1_28: 4299903223893273855
-      Tilemap_color1_29: -156968979077948116
-      Tilemap_color1_3: 2381845703017299674
-      Tilemap_color1_30: -6005370149783978446
-      Tilemap_color1_31: -3887639646538638151
-      Tilemap_color1_32: -7676271994124391679
-      Tilemap_color1_33: -567363726576857262
-      Tilemap_color1_34: -5170102666605548192
-      Tilemap_color1_35: -6914060815751580637
-      Tilemap_color1_36: -2818783850665287378
-      Tilemap_color1_37: 4877094068914342608
-      Tilemap_color1_38: -5460246916487401979
-      Tilemap_color1_39: 8040887467247185324
-      Tilemap_color1_4: 5980407047448068244
-      Tilemap_color1_40: 6659697122546123297
-      Tilemap_color1_41: -5328810533467712069
-      Tilemap_color1_42: 3858118010278745957
-      Tilemap_color1_43: -3793614902417640485
-      Tilemap_color1_44: -918892767159726313
-      Tilemap_color1_45: 3368758497067531475
-      Tilemap_color1_46: 5809642575974107265
-      Tilemap_color1_47: -2717959069546875479
-      Tilemap_color1_48: -2730756614561629265
-      Tilemap_color1_49: -1600266700000864503
-      Tilemap_color1_5: 7614361197189378962
-      Tilemap_color1_50: -6162260638384905595
-      Tilemap_color1_51: -7989441365163098092
-      Tilemap_color1_52: -4156132361999277927
-      Tilemap_color1_53: 6678773690062355152
-      Tilemap_color1_54: -5833622645773596244
-      Tilemap_color1_55: 46385456578341019
-      Tilemap_color1_56: -5490583000368920266
-      Tilemap_color1_57: 6025417231891396771
-      Tilemap_color1_58: -389833285977466161
-      Tilemap_color1_59: -6876386774670606448
-      Tilemap_color1_6: -4455189763106589383
-      Tilemap_color1_60: 2213162740780828126
-      Tilemap_color1_61: -2121317567515395388
-      Tilemap_color1_62: 7278956865320723726
-      Tilemap_color1_63: 2442936209934616833
-      Tilemap_color1_64: 8525603795300512417
-      Tilemap_color1_7: 2514084195207275289
-      Tilemap_color1_8: 6012010895760242090
-      Tilemap_color1_9: 3062889884838147064
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
