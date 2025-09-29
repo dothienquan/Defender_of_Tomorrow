@@ -1,121 +1,151 @@
 fileFormatVersion: 2
-guid: 042f874e87ebd27438c9e3159f25803a
+guid: 3fa04a1075737624897333a48081a0f1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4150629342146073619
-    second: TX FX Flame_0
+      213: 6602632900328389079
+    second: CastleDecorSprites_0
   - first:
-      213: 3061538575115942809
-    second: TX FX Flame_1
+      213: -5191482688950134205
+    second: CastleDecorSprites_1
   - first:
-      213: 6991786601246287253
-    second: TX FX Flame_2
+      213: -8937098770745018903
+    second: CastleDecorSprites_2
   - first:
-      213: 2729884103452268921
-    second: TX FX Flame_3
+      213: 8186471570148213435
+    second: CastleDecorSprites_3
   - first:
-      213: -7532166002558038904
-    second: TX FX Flame_4
+      213: -1037003098537498592
+    second: CastleDecorSprites_4
   - first:
-      213: 8430442776825888923
-    second: TX FX Flame_5
+      213: 2509980766433502666
+    second: CastleDecorSprites_5
   - first:
-      213: 4896916045927785572
-    second: TX FX Flame_6
+      213: 9062769188005884817
+    second: CastleDecorSprites_6
   - first:
-      213: -4302152185133247696
-    second: TX FX Flame_7
+      213: 7905287688763153834
+    second: CastleDecorSprites_7
   - first:
-      213: 5124262869731643432
-    second: TX FX Flame_8
+      213: -3861637662101046232
+    second: CastleDecorSprites_8
   - first:
-      213: 7009204203353573991
-    second: TX FX Flame_9
+      213: 8129430162619727177
+    second: CastleDecorSprites_9
   - first:
-      213: 5194957418266224076
-    second: TX FX Flame_10
+      213: 5449896162657685902
+    second: CastleDecorSprites_10
   - first:
-      213: 3530599853730385047
-    second: TX FX Flame_11
+      213: -954783631411815643
+    second: CastleDecorSprites_11
   - first:
-      213: -5626185174765212446
-    second: TX FX Flame_12
+      213: -3935367249111126951
+    second: CastleDecorSprites_12
   - first:
-      213: -5167655775670625404
-    second: TX FX Flame_13
+      213: -651633084016101483
+    second: CastleDecorSprites_13
   - first:
-      213: -7726444377448948798
-    second: TX FX Flame_14
+      213: -4403208183701353580
+    second: CastleDecorSprites_14
   - first:
-      213: 2179881513930936220
-    second: TX FX Flame_15
+      213: -6401015980090950930
+    second: CastleDecorSprites_15
   - first:
-      213: 5587462817063185078
-    second: TX FX Flame_16
+      213: -531607256063378255
+    second: CastleDecorSprites_16
   - first:
-      213: -7286897169560931038
-    second: TX FX Flame_17
+      213: -4685927066812409601
+    second: CastleDecorSprites_17
   - first:
-      213: 5586364858231365687
-    second: TX FX Flame_18
+      213: -6806147179066470200
+    second: CastleDecorSprites_18
   - first:
-      213: -4892690198926229971
-    second: TX FX Flame_19
+      213: 123922934185438311
+    second: CastleDecorSprites_19
   - first:
-      213: 6641875001936849169
-    second: TX FX Flame_20
+      213: 5804574089894383927
+    second: CastleDecorSprites_20
   - first:
-      213: 8674577046865706873
-    second: TX FX Flame_21
+      213: 1908096679541561243
+    second: CastleDecorSprites_21
   - first:
-      213: -588444231122634003
-    second: TX FX Flame_22
+      213: 3616160166125488629
+    second: CastleDecorSprites_22
   - first:
-      213: 4709506536397558345
-    second: TX FX Flame_23
+      213: -2633568071411014227
+    second: CastleDecorSprites_23
   - first:
-      213: 6070479067116861890
-    second: TX FX Flame_24
+      213: -4418123384586801339
+    second: CastleDecorSprites_24
   - first:
-      213: -2638120003084339662
-    second: TX FX Flame_25
+      213: 6187356042512119796
+    second: CastleDecorSprites_25
   - first:
-      213: -1242646638977373707
-    second: TX FX Flame_26
+      213: -2009557854934463128
+    second: CastleDecorSprites_26
   - first:
-      213: -4430468368485444343
-    second: TX FX Flame_27
+      213: -8713110820716101663
+    second: CastleDecorSprites_27
   - first:
-      213: 2092602924442414567
-    second: TX FX Flame_28
+      213: 8462670672270971813
+    second: CastleDecorSprites_28
   - first:
-      213: -7985673414515803140
-    second: TX FX Flame_29
+      213: 4897832396943731827
+    second: CastleDecorSprites_29
   - first:
-      213: -3612908974002637901
-    second: TX FX Flame_30
+      213: -559708811365409724
+    second: CastleDecorSprites_30
   - first:
-      213: 3690561399620108602
-    second: TX FX Flame_31
+      213: -266725290070651000
+    second: CastleDecorSprites_31
   - first:
-      213: 22045995874923676
-    second: TX FX Flame_32
+      213: 3885418951448337755
+    second: CastleDecorSprites_32
   - first:
-      213: 3601690250883451921
-    second: TX FX Flame_33
+      213: 5826244494923317146
+    second: CastleDecorSprites_33
   - first:
-      213: -645790088851638787
-    second: TX FX Flame_34
+      213: 2391093613660927231
+    second: CastleDecorSprites_34
   - first:
-      213: 4151785288699153449
-    second: TX FX Flame_35
+      213: 3890154115135028377
+    second: CastleDecorSprites_35
   - first:
-      213: 10351289875713411
-    second: TX FX Flame_36
+      213: -713715247896724264
+    second: CastleDecorSprites_36
   - first:
-      213: -404960063120509625
-    second: TX FX Flame_37
+      213: 3532782606646889478
+    second: CastleDecorSprites_37
+  - first:
+      213: 1120638999287456663
+    second: CastleDecorSprites_38
+  - first:
+      213: -588657226556176487
+    second: CastleDecorSprites_39
+  - first:
+      213: -9141626666151907605
+    second: CastleDecorSprites_40
+  - first:
+      213: 2947800998448385356
+    second: CastleDecorSprites_41
+  - first:
+      213: 992857868508300823
+    second: CastleDecorSprites_42
+  - first:
+      213: 7933655568770922168
+    second: CastleDecorSprites_43
+  - first:
+      213: 684571512586768847
+    second: CastleDecorSprites_44
+  - first:
+      213: 6648549332679263496
+    second: CastleDecorSprites_45
+  - first:
+      213: -515358707749425233
+    second: CastleDecorSprites_46
+  - first:
+      213: -8469038933665776048
+    second: CastleDecorSprites_47
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -162,7 +192,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 35
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -186,7 +216,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -224,13 +254,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TX FX Flame_0
+      name: CastleDecorSprites_0
       rect:
         serializedVersion: 2
-        x: 12
-        y: 168
-        width: 10
-        height: 8
+        x: 0
+        y: 135
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -239,789 +269,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: debe113ba900666c0800000000000000
-      internalID: -4150629342146073619
+      spriteID: 7d9716ef3a341ab50800000000000000
+      internalID: 6602632900328389079
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX FX Flame_1
-      rect:
-        serializedVersion: 2
-        x: 45
-        y: 168
-        width: 12
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 99bf0f30d15cc7a20800000000000000
-      internalID: 3061538575115942809
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_2
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 168
-        width: 11
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 595ee98aed0d70160800000000000000
-      internalID: 6991786601246287253
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_3
-      rect:
-        serializedVersion: 2
-        x: 113
-        y: 167
-        width: 12
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9791248e02f72e520800000000000000
-      internalID: 2729884103452268921
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_4
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 167
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 88c01448dee587790800000000000000
-      internalID: -7532166002558038904
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_5
-      rect:
-        serializedVersion: 2
-        x: 173
-        y: 167
-        width: 18
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b9007f30a03fef470800000000000000
-      internalID: 8430442776825888923
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_6
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 134
-        width: 17
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 464af64e23755f340800000000000000
-      internalID: 4896916045927785572
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_7
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 133
-        width: 19
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0335673a16fab44c0800000000000000
-      internalID: -4302152185133247696
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_8
-      rect:
-        serializedVersion: 2
-        x: 74
-        y: 133
-        width: 19
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 82014163ee90d1740800000000000000
-      internalID: 5124262869731643432
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_9
-      rect:
-        serializedVersion: 2
-        x: 107
-        y: 133
-        width: 20
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 76a801b2612b54160800000000000000
-      internalID: 7009204203353573991
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_10
-      rect:
-        serializedVersion: 2
-        x: 138
-        y: 133
-        width: 22
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cc5e9037f32381840800000000000000
-      internalID: 5194957418266224076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_11
-      rect:
-        serializedVersion: 2
-        x: 174
-        y: 133
-        width: 20
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 79c45ad6cd53ff030800000000000000
-      internalID: 3530599853730385047
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_12
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 100
-        width: 19
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2ecec817466cbe1b0800000000000000
-      internalID: -5626185174765212446
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_13
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 100
-        width: 20
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 48b18a1937cc848b0800000000000000
-      internalID: -5167655775670625404
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_14
-      rect:
-        serializedVersion: 2
-        x: 74
-        y: 100
-        width: 20
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2cb575176c726c490800000000000000
-      internalID: -7726444377448948798
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_15
-      rect:
-        serializedVersion: 2
-        x: 106
-        y: 100
-        width: 22
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c9f4b4affae704e10800000000000000
-      internalID: 2179881513930936220
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_16
-      rect:
-        serializedVersion: 2
-        x: 137
-        y: 100
-        width: 24
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6ba21c614d7aa8d40800000000000000
-      internalID: 5587462817063185078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_17
-      rect:
-        serializedVersion: 2
-        x: 169
-        y: 100
-        width: 25
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2257585c1adbfda90800000000000000
-      internalID: -7286897169560931038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_18
-      rect:
-        serializedVersion: 2
-        x: 3
-        y: 66
-        width: 25
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7302b90ad31c68d40800000000000000
-      internalID: 5586364858231365687
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_19
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 67
-        width: 26
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d2e77f8cf2ca91cb0800000000000000
-      internalID: -4892690198926229971
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_20
-      rect:
-        serializedVersion: 2
-        x: 69
-        y: 67
-        width: 29
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1192ef4cf1eac2c50800000000000000
-      internalID: 6641875001936849169
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_21
-      rect:
-        serializedVersion: 2
-        x: 100
-        y: 67
-        width: 32
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 97fff2f3dd9426870800000000000000
-      internalID: 8674577046865706873
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_22
-      rect:
-        serializedVersion: 2
-        x: 136
-        y: 67
-        width: 28
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: deabec9e61d65d7f0800000000000000
-      internalID: -588444231122634003
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_23
-      rect:
-        serializedVersion: 2
-        x: 169
-        y: 67
-        width: 28
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9425b592e378b5140800000000000000
-      internalID: 4709506536397558345
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_24
-      rect:
-        serializedVersion: 2
-        x: 3
-        y: 34
-        width: 24
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2c9f1fb7c8cae3450800000000000000
-      internalID: 6070479067116861890
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_25
+      name: CastleDecorSprites_1
       rect:
         serializedVersion: 2
         x: 23
-        y: 51
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2363e45a5d3836bd0800000000000000
-      internalID: -2638120003084339662
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_26
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 34
-        width: 24
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5f9ab66377b31cee0800000000000000
-      internalID: -1242646638977373707
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_27
-      rect:
-        serializedVersion: 2
-        x: 71
-        y: 35
-        width: 19
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 90512d31e70d382c0800000000000000
-      internalID: -4430468368485444343
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_28
-      rect:
-        serializedVersion: 2
-        x: 104
-        y: 35
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7ed655fc54b6a0d10800000000000000
-      internalID: 2092602924442414567
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_29
-      rect:
-        serializedVersion: 2
-        x: 110
-        y: 53
-        width: 11
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cfb3183e6503d2190800000000000000
-      internalID: -7985673414515803140
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_30
-      rect:
-        serializedVersion: 2
-        x: 140
-        y: 35
-        width: 18
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3b370ce1e6e5cddc0800000000000000
-      internalID: -3612908974002637901
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_31
-      rect:
-        serializedVersion: 2
-        x: 173
-        y: 36
-        width: 19
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a31002e1a02873330800000000000000
-      internalID: 3690561399620108602
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_32
-      rect:
-        serializedVersion: 2
-        x: 5
-        y: 3
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c9438d867b25e4000800000000000000
-      internalID: 22045995874923676
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_33
-      rect:
-        serializedVersion: 2
-        x: 45
-        y: 4
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 11c45ea5336cbf130800000000000000
-      internalID: 3601690250883451921
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_34
-      rect:
-        serializedVersion: 2
-        x: 77
-        y: 5
-        width: 16
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: df5b782f551b907f0800000000000000
-      internalID: -645790088851638787
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_35
-      rect:
-        serializedVersion: 2
-        x: 110
-        y: 7
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 92c0b9419ba1e9930800000000000000
-      internalID: 4151785288699153449
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_36
-      rect:
-        serializedVersion: 2
-        x: 119
-        y: 6
-        width: 8
+        y: 135
+        width: 10
         height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1031,20 +291,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 38d420c7176c42000800000000000000
-      internalID: 10351289875713411
+      spriteID: 34a9983000624f7b0800000000000000
+      internalID: -5191482688950134205
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX FX Flame_37
+      name: CastleDecorSprites_2
       rect:
         serializedVersion: 2
-        x: 147
-        y: 9
-        width: 13
-        height: 8
+        x: 39
+        y: 135
+        width: 18
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1053,8 +313,998 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7457b79d7fa416af0800000000000000
-      internalID: -404960063120509625
+      spriteID: 9e5b92fc40c09f380800000000000000
+      internalID: -8937098770745018903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 135
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2c48ee4803c9170800000000000000
+      internalID: 8186471570148213435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 127
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02861b81d23db91f0800000000000000
+      internalID: -1037003098537498592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 127
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5e458653e35d220800000000000000
+      internalID: 2509980766433502666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_6
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 127
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19332745f8c65cd70800000000000000
+      internalID: 9062769188005884817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 127
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad1ff7d44935bd60800000000000000
+      internalID: 7905287688763153834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_8
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 95
+        width: 18
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c72339105b86ac0800000000000000
+      internalID: -3861637662101046232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 140
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d7b4d49a981d070800000000000000
+      internalID: 8129430162619727177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 140
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81d9f56fabe1ab40800000000000000
+      internalID: 5449896162657685902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b575c885defb2f0800000000000000
+      internalID: -954783631411815643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 111
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c66006654c269c0800000000000000
+      internalID: -3935367249111126951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597f35f992fe4f6f0800000000000000
+      internalID: -651633084016101483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_14
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b43627c79a4e2c0800000000000000
+      internalID: -4403208183701353580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 103
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea741151e50b27a0800000000000000
+      internalID: -6401015980090950930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 103
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc7256640a5f98f0800000000000000
+      internalID: -531607256063378255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_17
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 103
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8124be82e38feb0800000000000000
+      internalID: -4685927066812409601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_18
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 103
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c057be7335bb81a0800000000000000
+      internalID: -6806147179066470200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_19
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 120
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ca5a7804348b100800000000000000
+      internalID: 123922934185438311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_20
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 111
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731579c716dfd8050800000000000000
+      internalID: 5804574089894383927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 120
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b975d2d02dbea7a10800000000000000
+      internalID: 1908096679541561243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 111
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9c3d8038e2f2230800000000000000
+      internalID: 3616160166125488629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da56cb3dacfa37bd0800000000000000
+      internalID: -2633568071411014227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 87
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f6bdf903cafa2c0800000000000000
+      internalID: -4418123384586801339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f73dc4e987edd550800000000000000
+      internalID: 6187356042512119796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_26
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 55
+        width: 98
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d090d27cd9c14e0800000000000000
+      internalID: -2009557854934463128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_27
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 95
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efba926fdfc41780800000000000000
+      internalID: -8713110820716101663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_28
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 95
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3d3d7a322717570800000000000000
+      internalID: 8462670672270971813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c2b3d7d9898f340800000000000000
+      internalID: 4897832396943731827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_30
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c98e03dc38b38f0800000000000000
+      internalID: -559708811365409724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 76
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fc9b803c66c4cf0800000000000000
+      internalID: -266725290070651000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_32
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 76
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d16a453f7cbe530800000000000000
+      internalID: 3885418951448337755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 63
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fba76df7afad050800000000000000
+      internalID: 5826244494923317146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_34
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4f6fa19fede2120800000000000000
+      internalID: 2391093613660927231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 56
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99cb52a8e8a9cf530800000000000000
+      internalID: 3890154115135028377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_36
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 56
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcf55273cf5816f0800000000000000
+      internalID: -713715247896724264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 15
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ccdd13017f60130800000000000000
+      internalID: 3532782606646889478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_38
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 15
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7936af18b3f4d8f00800000000000000
+      internalID: 1120638999287456663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_39
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 7
+        width: 98
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99707ac0f5ba4d7f0800000000000000
+      internalID: -588657226556176487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 47
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beee6c64bfa622180800000000000000
+      internalID: -9141626666151907605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_41
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 47
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4dce05d361b8e820800000000000000
+      internalID: 2947800998448385356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_42
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 31
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71683e498f657cd00800000000000000
+      internalID: 992857868508300823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_43
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 31
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6f3ea94b10a1e60800000000000000
+      internalID: 7933655568770922168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_44
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 31
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc11617e926108900800000000000000
+      internalID: 684571512586768847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_45
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 7
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805020e7464644c50800000000000000
+      internalID: 6648549332679263496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_46
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 7
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafe0bc5cf319d8f0800000000000000
+      internalID: -515358707749425233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleDecorSprites_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 7
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ef5e1f5fde77a80800000000000000
+      internalID: -8469038933665776048
       vertices: []
       indices: 
       edges: []
@@ -1072,45 +1322,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      TX FX Flame_0: -4150629342146073619
-      TX FX Flame_1: 3061538575115942809
-      TX FX Flame_10: 5194957418266224076
-      TX FX Flame_11: 3530599853730385047
-      TX FX Flame_12: -5626185174765212446
-      TX FX Flame_13: -5167655775670625404
-      TX FX Flame_14: -7726444377448948798
-      TX FX Flame_15: 2179881513930936220
-      TX FX Flame_16: 5587462817063185078
-      TX FX Flame_17: -7286897169560931038
-      TX FX Flame_18: 5586364858231365687
-      TX FX Flame_19: -4892690198926229971
-      TX FX Flame_2: 6991786601246287253
-      TX FX Flame_20: 6641875001936849169
-      TX FX Flame_21: 8674577046865706873
-      TX FX Flame_22: -588444231122634003
-      TX FX Flame_23: 4709506536397558345
-      TX FX Flame_24: 6070479067116861890
-      TX FX Flame_25: -2638120003084339662
-      TX FX Flame_26: -1242646638977373707
-      TX FX Flame_27: -4430468368485444343
-      TX FX Flame_28: 2092602924442414567
-      TX FX Flame_29: -7985673414515803140
-      TX FX Flame_3: 2729884103452268921
-      TX FX Flame_30: -3612908974002637901
-      TX FX Flame_31: 3690561399620108602
-      TX FX Flame_32: 22045995874923676
-      TX FX Flame_33: 3601690250883451921
-      TX FX Flame_34: -645790088851638787
-      TX FX Flame_35: 4151785288699153449
-      TX FX Flame_36: 10351289875713411
-      TX FX Flame_37: -404960063120509625
-      TX FX Flame_4: -7532166002558038904
-      TX FX Flame_5: 8430442776825888923
-      TX FX Flame_6: 4896916045927785572
-      TX FX Flame_7: -4302152185133247696
-      TX FX Flame_8: 5124262869731643432
-      TX FX Flame_9: 7009204203353573991
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

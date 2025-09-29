@@ -1,121 +1,154 @@
 fileFormatVersion: 2
-guid: 042f874e87ebd27438c9e3159f25803a
+guid: ca67493a27c11974cb13fbdc01c51b38
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4150629342146073619
-    second: TX FX Flame_0
+      213: 7381923174565849741
+    second: foliageSprites_0
   - first:
-      213: 3061538575115942809
-    second: TX FX Flame_1
+      213: 6044759659761838470
+    second: foliageSprites_1
   - first:
-      213: 6991786601246287253
-    second: TX FX Flame_2
+      213: 1123045086175150427
+    second: foliageSprites_2
   - first:
-      213: 2729884103452268921
-    second: TX FX Flame_3
+      213: 5607110529084096620
+    second: foliageSprites_3
   - first:
-      213: -7532166002558038904
-    second: TX FX Flame_4
+      213: -3812941962530629399
+    second: foliageSprites_4
   - first:
-      213: 8430442776825888923
-    second: TX FX Flame_5
+      213: -1740474690843979102
+    second: foliageSprites_5
   - first:
-      213: 4896916045927785572
-    second: TX FX Flame_6
+      213: 5408031021403011129
+    second: foliageSprites_6
   - first:
-      213: -4302152185133247696
-    second: TX FX Flame_7
+      213: -7512953849312531605
+    second: foliageSprites_7
   - first:
-      213: 5124262869731643432
-    second: TX FX Flame_8
+      213: -8929294590593713299
+    second: foliageSprites_8
   - first:
-      213: 7009204203353573991
-    second: TX FX Flame_9
+      213: -2240846553725910232
+    second: foliageSprites_9
   - first:
-      213: 5194957418266224076
-    second: TX FX Flame_10
+      213: -3533995092192802080
+    second: foliageSprites_10
   - first:
-      213: 3530599853730385047
-    second: TX FX Flame_11
+      213: -8225728921123430899
+    second: foliageSprites_11
   - first:
-      213: -5626185174765212446
-    second: TX FX Flame_12
+      213: 4751920928415493890
+    second: foliageSprites_12
   - first:
-      213: -5167655775670625404
-    second: TX FX Flame_13
+      213: -8153516888874525125
+    second: foliageSprites_13
   - first:
-      213: -7726444377448948798
-    second: TX FX Flame_14
+      213: 2592515027156242204
+    second: foliageSprites_14
   - first:
-      213: 2179881513930936220
-    second: TX FX Flame_15
+      213: 2747915111603214985
+    second: foliageSprites_15
   - first:
-      213: 5587462817063185078
-    second: TX FX Flame_16
+      213: -3560340748392042170
+    second: foliageSprites_16
   - first:
-      213: -7286897169560931038
-    second: TX FX Flame_17
+      213: -9063631518329699027
+    second: foliageSprites_17
   - first:
-      213: 5586364858231365687
-    second: TX FX Flame_18
+      213: 5685676297950101015
+    second: foliageSprites_18
   - first:
-      213: -4892690198926229971
-    second: TX FX Flame_19
+      213: -3284628183291702257
+    second: foliageSprites_19
   - first:
-      213: 6641875001936849169
-    second: TX FX Flame_20
+      213: 8199618103552142705
+    second: foliageSprites_20
   - first:
-      213: 8674577046865706873
-    second: TX FX Flame_21
+      213: 128679001863657932
+    second: foliageSprites_21
   - first:
-      213: -588444231122634003
-    second: TX FX Flame_22
+      213: -4248862432555368384
+    second: foliageSprites_22
   - first:
-      213: 4709506536397558345
-    second: TX FX Flame_23
+      213: 494688287640681173
+    second: foliageSprites_23
   - first:
-      213: 6070479067116861890
-    second: TX FX Flame_24
+      213: 2370974467512986637
+    second: foliageSprites_24
   - first:
-      213: -2638120003084339662
-    second: TX FX Flame_25
+      213: 3309894595228856082
+    second: foliageSprites_25
   - first:
-      213: -1242646638977373707
-    second: TX FX Flame_26
+      213: 8167846572504029840
+    second: foliageSprites_26
   - first:
-      213: -4430468368485444343
-    second: TX FX Flame_27
+      213: -7719461556389986047
+    second: foliageSprites_27
   - first:
-      213: 2092602924442414567
-    second: TX FX Flame_28
+      213: 6511773211004715066
+    second: foliageSprites_28
   - first:
-      213: -7985673414515803140
-    second: TX FX Flame_29
+      213: 3577074084947849188
+    second: foliageSprites_29
   - first:
-      213: -3612908974002637901
-    second: TX FX Flame_30
+      213: -1612245495046519537
+    second: foliageSprites_30
   - first:
-      213: 3690561399620108602
-    second: TX FX Flame_31
+      213: -7953353990056701802
+    second: foliageSprites_31
   - first:
-      213: 22045995874923676
-    second: TX FX Flame_32
+      213: 3969411272303817988
+    second: foliageSprites_32
   - first:
-      213: 3601690250883451921
-    second: TX FX Flame_33
+      213: 5712234134455410370
+    second: foliageSprites_33
   - first:
-      213: -645790088851638787
-    second: TX FX Flame_34
+      213: 4727871304401674642
+    second: foliageSprites_34
   - first:
-      213: 4151785288699153449
-    second: TX FX Flame_35
+      213: -6214844270302807583
+    second: foliageSprites_35
   - first:
-      213: 10351289875713411
-    second: TX FX Flame_36
+      213: 6683387939390569311
+    second: foliageSprites_36
   - first:
-      213: -404960063120509625
-    second: TX FX Flame_37
+      213: 4485900519348169954
+    second: foliageSprites_37
+  - first:
+      213: -8199701661544212963
+    second: foliageSprites_38
+  - first:
+      213: -6145690005499234228
+    second: foliageSprites_39
+  - first:
+      213: -5614303828612737101
+    second: foliageSprites_40
+  - first:
+      213: -5008212682408841756
+    second: foliageSprites_41
+  - first:
+      213: -622248008453355314
+    second: foliageSprites_42
+  - first:
+      213: 3526312156422168271
+    second: foliageSprites_43
+  - first:
+      213: -6593945600305036196
+    second: foliageSprites_44
+  - first:
+      213: -7819368937115906459
+    second: foliageSprites_45
+  - first:
+      213: 6307303211130212763
+    second: foliageSprites_46
+  - first:
+      213: 2190064067144891375
+    second: foliageSprites_47
+  - first:
+      213: -4693493935710137816
+    second: foliageSprites_48
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -162,7 +195,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 35
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -186,7 +219,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -224,13 +257,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TX FX Flame_0
+      name: foliageSprites_0
       rect:
         serializedVersion: 2
-        x: 12
-        y: 168
-        width: 10
-        height: 8
+        x: 7
+        y: 359
+        width: 121
+        height: 114
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -239,20 +272,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: debe113ba900666c0800000000000000
-      internalID: -4150629342146073619
+      spriteID: d8aa833240cd17660800000000000000
+      internalID: 7381923174565849741
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX FX Flame_1
+      name: foliageSprites_1
       rect:
         serializedVersion: 2
-        x: 45
-        y: 168
-        width: 12
-        height: 9
+        x: 130
+        y: 359
+        width: 75
+        height: 87
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -261,20 +294,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 99bf0f30d15cc7a20800000000000000
-      internalID: 3061538575115942809
+      spriteID: 68927b052ec43e350800000000000000
+      internalID: 6044759659761838470
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX FX Flame_2
+      name: foliageSprites_2
       rect:
         serializedVersion: 2
-        x: 80
-        y: 168
-        width: 11
-        height: 11
+        x: 211
+        y: 359
+        width: 67
+        height: 74
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -283,305 +316,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 595ee98aed0d70160800000000000000
-      internalID: 6991786601246287253
+      spriteID: b51c7344e8bd59f00800000000000000
+      internalID: 1123045086175150427
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX FX Flame_3
+      name: foliageSprites_3
       rect:
         serializedVersion: 2
-        x: 113
-        y: 167
-        width: 12
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9791248e02f72e520800000000000000
-      internalID: 2729884103452268921
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_4
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 167
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 88c01448dee587790800000000000000
-      internalID: -7532166002558038904
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_5
-      rect:
-        serializedVersion: 2
-        x: 173
-        y: 167
-        width: 18
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b9007f30a03fef470800000000000000
-      internalID: 8430442776825888923
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_6
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 134
-        width: 17
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 464af64e23755f340800000000000000
-      internalID: 4896916045927785572
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_7
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 133
-        width: 19
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0335673a16fab44c0800000000000000
-      internalID: -4302152185133247696
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_8
-      rect:
-        serializedVersion: 2
-        x: 74
-        y: 133
-        width: 19
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 82014163ee90d1740800000000000000
-      internalID: 5124262869731643432
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_9
-      rect:
-        serializedVersion: 2
-        x: 107
-        y: 133
-        width: 20
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 76a801b2612b54160800000000000000
-      internalID: 7009204203353573991
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_10
-      rect:
-        serializedVersion: 2
-        x: 138
-        y: 133
-        width: 22
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cc5e9037f32381840800000000000000
-      internalID: 5194957418266224076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_11
-      rect:
-        serializedVersion: 2
-        x: 174
-        y: 133
-        width: 20
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 79c45ad6cd53ff030800000000000000
-      internalID: 3530599853730385047
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_12
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 100
-        width: 19
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2ecec817466cbe1b0800000000000000
-      internalID: -5626185174765212446
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_13
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 100
-        width: 20
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 48b18a1937cc848b0800000000000000
-      internalID: -5167655775670625404
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_14
-      rect:
-        serializedVersion: 2
-        x: 74
-        y: 100
-        width: 20
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2cb575176c726c490800000000000000
-      internalID: -7726444377448948798
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_15
-      rect:
-        serializedVersion: 2
-        x: 106
-        y: 100
-        width: 22
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c9f4b4affae704e10800000000000000
-      internalID: 2179881513930936220
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_16
-      rect:
-        serializedVersion: 2
-        x: 137
-        y: 100
-        width: 24
+        x: 319
+        y: 431
+        width: 26
         height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -591,63 +338,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6ba21c614d7aa8d40800000000000000
-      internalID: 5587462817063185078
+      spriteID: c600966815570dd40800000000000000
+      internalID: 5607110529084096620
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX FX Flame_17
+      name: foliageSprites_4
       rect:
         serializedVersion: 2
-        x: 169
-        y: 100
-        width: 25
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2257585c1adbfda90800000000000000
-      internalID: -7286897169560931038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_18
-      rect:
-        serializedVersion: 2
-        x: 3
-        y: 66
-        width: 25
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7302b90ad31c68d40800000000000000
-      internalID: 5586364858231365687
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_19
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 67
-        width: 26
+        x: 351
+        y: 431
+        width: 33
         height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -657,371 +360,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d2e77f8cf2ca91cb0800000000000000
-      internalID: -4892690198926229971
+      spriteID: 9e85e26ac75b51bc0800000000000000
+      internalID: -3812941962530629399
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX FX Flame_20
+      name: foliageSprites_5
       rect:
         serializedVersion: 2
-        x: 69
-        y: 67
-        width: 29
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1192ef4cf1eac2c50800000000000000
-      internalID: 6641875001936849169
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_21
-      rect:
-        serializedVersion: 2
-        x: 100
-        y: 67
-        width: 32
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 97fff2f3dd9426870800000000000000
-      internalID: 8674577046865706873
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_22
-      rect:
-        serializedVersion: 2
-        x: 136
-        y: 67
-        width: 28
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: deabec9e61d65d7f0800000000000000
-      internalID: -588444231122634003
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_23
-      rect:
-        serializedVersion: 2
-        x: 169
-        y: 67
-        width: 28
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9425b592e378b5140800000000000000
-      internalID: 4709506536397558345
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_24
-      rect:
-        serializedVersion: 2
-        x: 3
-        y: 34
-        width: 24
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2c9f1fb7c8cae3450800000000000000
-      internalID: 6070479067116861890
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_25
-      rect:
-        serializedVersion: 2
-        x: 23
-        y: 51
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2363e45a5d3836bd0800000000000000
-      internalID: -2638120003084339662
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_26
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 34
-        width: 24
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5f9ab66377b31cee0800000000000000
-      internalID: -1242646638977373707
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_27
-      rect:
-        serializedVersion: 2
-        x: 71
-        y: 35
-        width: 19
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 90512d31e70d382c0800000000000000
-      internalID: -4430468368485444343
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_28
-      rect:
-        serializedVersion: 2
-        x: 104
-        y: 35
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7ed655fc54b6a0d10800000000000000
-      internalID: 2092602924442414567
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_29
-      rect:
-        serializedVersion: 2
-        x: 110
-        y: 53
-        width: 11
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cfb3183e6503d2190800000000000000
-      internalID: -7985673414515803140
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_30
-      rect:
-        serializedVersion: 2
-        x: 140
-        y: 35
-        width: 18
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3b370ce1e6e5cddc0800000000000000
-      internalID: -3612908974002637901
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_31
-      rect:
-        serializedVersion: 2
-        x: 173
-        y: 36
-        width: 19
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a31002e1a02873330800000000000000
-      internalID: 3690561399620108602
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_32
-      rect:
-        serializedVersion: 2
-        x: 5
-        y: 3
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c9438d867b25e4000800000000000000
-      internalID: 22045995874923676
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_33
-      rect:
-        serializedVersion: 2
-        x: 45
-        y: 4
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 11c45ea5336cbf130800000000000000
-      internalID: 3601690250883451921
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_34
-      rect:
-        serializedVersion: 2
-        x: 77
-        y: 5
-        width: 16
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: df5b782f551b907f0800000000000000
-      internalID: -645790088851638787
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_35
-      rect:
-        serializedVersion: 2
-        x: 110
-        y: 7
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 92c0b9419ba1e9930800000000000000
-      internalID: 4151785288699153449
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX FX Flame_36
-      rect:
-        serializedVersion: 2
-        x: 119
-        y: 6
-        width: 8
+        x: 319
+        y: 415
+        width: 10
         height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1031,20 +382,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 38d420c7176c42000800000000000000
-      internalID: 10351289875713411
+      spriteID: 2a2dfa77d7798d7e0800000000000000
+      internalID: -1740474690843979102
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX FX Flame_37
+      name: foliageSprites_6
       rect:
         serializedVersion: 2
-        x: 147
-        y: 9
-        width: 13
-        height: 8
+        x: 335
+        y: 407
+        width: 18
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1053,8 +404,932 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7457b79d7fa416af0800000000000000
-      internalID: -404960063120509625
+      spriteID: 938f40d9f8f2d0b40800000000000000
+      internalID: 5408031021403011129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_7
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 407
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ba2d58740acb790800000000000000
+      internalID: -7512953849312531605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_8
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 359
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b38d811e5c41480800000000000000
+      internalID: -8929294590593713299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_9
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 359
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82342019ee9e6e0e0800000000000000
+      internalID: -2240846553725910232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 359
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eacfd3003ab4fec0800000000000000
+      internalID: -3533995092192802080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 239
+        width: 121
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ed7c5c02758dd80800000000000000
+      internalID: -8225728921123430899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 239
+        width: 75
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f23fa58e632f140800000000000000
+      internalID: 4751920928415493890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 239
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e5c78b693e8de80800000000000000
+      internalID: -8153516888874525125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_14
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 311
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f82847ea67af320800000000000000
+      internalID: 2592515027156242204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_15
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 311
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a99042c3e822620800000000000000
+      internalID: 2747915111603214985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_16
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 295
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6417ebce3f0279ec0800000000000000
+      internalID: -3560340748392042170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_17
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 287
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d258ceeb723873280800000000000000
+      internalID: -9063631518329699027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_18
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 287
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e7c2f087497ee40800000000000000
+      internalID: 5685676297950101015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_19
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 239
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0459abe118aa62d0800000000000000
+      internalID: -3284628183291702257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_20
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 239
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d6614c835eac170800000000000000
+      internalID: 8199618103552142705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_21
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 239
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc99224ded829c100800000000000000
+      internalID: 128679001863657932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 119
+        width: 121
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040090801220905c0800000000000000
+      internalID: -4248862432555368384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_23
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 119
+        width: 75
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da7e5b606c7dd600800000000000000
+      internalID: 494688287640681173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_24
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 119
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ce1ab57b467e020800000000000000
+      internalID: 2370974467512986637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_25
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 191
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fe998099b1fed20800000000000000
+      internalID: 3309894595228856082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_26
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 191
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a9efdbe250a5170800000000000000
+      internalID: 8167846572504029840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_27
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 175
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101471a2d96fed490800000000000000
+      internalID: -7719461556389986047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_28
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 167
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3047db0c377e5a50800000000000000
+      internalID: 6511773211004715066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_29
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 167
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef62989de154a130800000000000000
+      internalID: 3577074084947849188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_30
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 119
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f054709a34720a9e0800000000000000
+      internalID: -1612245495046519537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_31
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 119
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6901cb94fa200a190800000000000000
+      internalID: -7953353990056701802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_32
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 119
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405b915758e261730800000000000000
+      internalID: 3969411272303817988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_33
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 121
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce531a3eaee54f40800000000000000
+      internalID: 5712234134455410370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_34
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 103
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291ef9ae6e5cc9140800000000000000
+      internalID: 4727871304401674642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_35
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9ba36501070c9a0800000000000000
+      internalID: -6214844270302807583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_36
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 95
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b3187bbe920cc50800000000000000
+      internalID: 6683387939390569311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_37
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 87
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecec7941ce114e30800000000000000
+      internalID: 4485900519348169954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_38
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 87
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d161a7f58cec43e80800000000000000
+      internalID: -8199701661544212963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_39
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 87
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48bc82508f16baa0800000000000000
+      internalID: -6145690005499234228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_40
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 87
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b71c6ae96cf512b0800000000000000
+      internalID: -5614303828612737101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_41
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed2a6999114f7ab0800000000000000
+      internalID: -5008212682408841756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_42
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec881fdabb45d57f0800000000000000
+      internalID: -622248008453355314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_43
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 71
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce5faa193affe030800000000000000
+      internalID: 3526312156422168271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_44
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c548199a9699d74a0800000000000000
+      internalID: -6593945600305036196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_45
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 63
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e8b7761650c7390800000000000000
+      internalID: -7819368937115906459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_46
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 0
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91d81e5ada088750800000000000000
+      internalID: 6307303211130212763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_47
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febb4856aaba46e10800000000000000
+      internalID: 2190064067144891375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foliageSprites_48
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8221c86f12c5ddeb0800000000000000
+      internalID: -4693493935710137816
       vertices: []
       indices: 
       edges: []
@@ -1072,45 +1347,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      TX FX Flame_0: -4150629342146073619
-      TX FX Flame_1: 3061538575115942809
-      TX FX Flame_10: 5194957418266224076
-      TX FX Flame_11: 3530599853730385047
-      TX FX Flame_12: -5626185174765212446
-      TX FX Flame_13: -5167655775670625404
-      TX FX Flame_14: -7726444377448948798
-      TX FX Flame_15: 2179881513930936220
-      TX FX Flame_16: 5587462817063185078
-      TX FX Flame_17: -7286897169560931038
-      TX FX Flame_18: 5586364858231365687
-      TX FX Flame_19: -4892690198926229971
-      TX FX Flame_2: 6991786601246287253
-      TX FX Flame_20: 6641875001936849169
-      TX FX Flame_21: 8674577046865706873
-      TX FX Flame_22: -588444231122634003
-      TX FX Flame_23: 4709506536397558345
-      TX FX Flame_24: 6070479067116861890
-      TX FX Flame_25: -2638120003084339662
-      TX FX Flame_26: -1242646638977373707
-      TX FX Flame_27: -4430468368485444343
-      TX FX Flame_28: 2092602924442414567
-      TX FX Flame_29: -7985673414515803140
-      TX FX Flame_3: 2729884103452268921
-      TX FX Flame_30: -3612908974002637901
-      TX FX Flame_31: 3690561399620108602
-      TX FX Flame_32: 22045995874923676
-      TX FX Flame_33: 3601690250883451921
-      TX FX Flame_34: -645790088851638787
-      TX FX Flame_35: 4151785288699153449
-      TX FX Flame_36: 10351289875713411
-      TX FX Flame_37: -404960063120509625
-      TX FX Flame_4: -7532166002558038904
-      TX FX Flame_5: 8430442776825888923
-      TX FX Flame_6: 4896916045927785572
-      TX FX Flame_7: -4302152185133247696
-      TX FX Flame_8: 5124262869731643432
-      TX FX Flame_9: 7009204203353573991
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
