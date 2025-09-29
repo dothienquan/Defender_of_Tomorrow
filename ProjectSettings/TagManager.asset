@@ -45,5 +45,8 @@ TagManager:
   - name: Enemy
     uniqueID: 2645385993
     locked: 0
+  - name: UpperGround
+    uniqueID: 467892115
+    locked: 0
   m_RenderingLayers:
   - Default
