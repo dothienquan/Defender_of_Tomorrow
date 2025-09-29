@@ -178,7 +178,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -216,7 +216,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1322,7 +1322,55 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CastleDecorSprites_0: 6602632900328389079
+      CastleDecorSprites_1: -5191482688950134205
+      CastleDecorSprites_10: 5449896162657685902
+      CastleDecorSprites_11: -954783631411815643
+      CastleDecorSprites_12: -3935367249111126951
+      CastleDecorSprites_13: -651633084016101483
+      CastleDecorSprites_14: -4403208183701353580
+      CastleDecorSprites_15: -6401015980090950930
+      CastleDecorSprites_16: -531607256063378255
+      CastleDecorSprites_17: -4685927066812409601
+      CastleDecorSprites_18: -6806147179066470200
+      CastleDecorSprites_19: 123922934185438311
+      CastleDecorSprites_2: -8937098770745018903
+      CastleDecorSprites_20: 5804574089894383927
+      CastleDecorSprites_21: 1908096679541561243
+      CastleDecorSprites_22: 3616160166125488629
+      CastleDecorSprites_23: -2633568071411014227
+      CastleDecorSprites_24: -4418123384586801339
+      CastleDecorSprites_25: 6187356042512119796
+      CastleDecorSprites_26: -2009557854934463128
+      CastleDecorSprites_27: -8713110820716101663
+      CastleDecorSprites_28: 8462670672270971813
+      CastleDecorSprites_29: 4897832396943731827
+      CastleDecorSprites_3: 8186471570148213435
+      CastleDecorSprites_30: -559708811365409724
+      CastleDecorSprites_31: -266725290070651000
+      CastleDecorSprites_32: 3885418951448337755
+      CastleDecorSprites_33: 5826244494923317146
+      CastleDecorSprites_34: 2391093613660927231
+      CastleDecorSprites_35: 3890154115135028377
+      CastleDecorSprites_36: -713715247896724264
+      CastleDecorSprites_37: 3532782606646889478
+      CastleDecorSprites_38: 1120638999287456663
+      CastleDecorSprites_39: -588657226556176487
+      CastleDecorSprites_4: -1037003098537498592
+      CastleDecorSprites_40: -9141626666151907605
+      CastleDecorSprites_41: 2947800998448385356
+      CastleDecorSprites_42: 992857868508300823
+      CastleDecorSprites_43: 7933655568770922168
+      CastleDecorSprites_44: 684571512586768847
+      CastleDecorSprites_45: 6648549332679263496
+      CastleDecorSprites_46: -515358707749425233
+      CastleDecorSprites_47: -8469038933665776048
+      CastleDecorSprites_5: 2509980766433502666
+      CastleDecorSprites_6: 9062769188005884817
+      CastleDecorSprites_7: 7905287688763153834
+      CastleDecorSprites_8: -3861637662101046232
+      CastleDecorSprites_9: 8129430162619727177
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
