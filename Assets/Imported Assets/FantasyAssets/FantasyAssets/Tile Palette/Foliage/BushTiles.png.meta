@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BushTiles_0: 2968411672799702876
+      BushTiles_1: -4896214289306406290
+      BushTiles_2: -245915567455910350
+      BushTiles_3: -4025836639428212924
+      BushTiles_4: 5082765900715248475
+      BushTiles_5: 5936905982011582649
+      BushTiles_6: -4063261629645199742
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

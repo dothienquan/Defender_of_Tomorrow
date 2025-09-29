@@ -597,7 +597,26 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SkeletonHelmetSpritesheet_0: -5864857765303228168
+      SkeletonHelmetSpritesheet_1: 7728846281852391418
+      SkeletonHelmetSpritesheet_10: 3328531008015348137
+      SkeletonHelmetSpritesheet_11: -7287424190359265728
+      SkeletonHelmetSpritesheet_12: 2675253036442782403
+      SkeletonHelmetSpritesheet_13: 4473022967232061434
+      SkeletonHelmetSpritesheet_14: -8166304370071720247
+      SkeletonHelmetSpritesheet_15: 3889043360782701061
+      SkeletonHelmetSpritesheet_16: -5231395940280314675
+      SkeletonHelmetSpritesheet_17: 6975938864462975022
+      SkeletonHelmetSpritesheet_18: 107274556924450953
+      SkeletonHelmetSpritesheet_2: 8801754512839731348
+      SkeletonHelmetSpritesheet_3: -600207659355232449
+      SkeletonHelmetSpritesheet_4: -3742254561232494097
+      SkeletonHelmetSpritesheet_5: -9026854754382903345
+      SkeletonHelmetSpritesheet_6: 2776661793232050264
+      SkeletonHelmetSpritesheet_7: -7129927163531180633
+      SkeletonHelmetSpritesheet_8: -3529855587866862688
+      SkeletonHelmetSpritesheet_9: -616604628942047111
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1547,7 +1547,64 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ChestSpritesheet_0: -3134850187233102340
+      ChestSpritesheet_1: 3319761891858499474
+      ChestSpritesheet_10: 7605743701291770704
+      ChestSpritesheet_11: -7079390391979537931
+      ChestSpritesheet_12: -5560713514959720091
+      ChestSpritesheet_13: -2783577842019444064
+      ChestSpritesheet_14: -7452658921809374173
+      ChestSpritesheet_15: 6048486026047779667
+      ChestSpritesheet_16: -8091293599133339561
+      ChestSpritesheet_17: 5075773887447858648
+      ChestSpritesheet_18: 5355317075321881714
+      ChestSpritesheet_19: 8097208613510185823
+      ChestSpritesheet_2: 1795687604827811496
+      ChestSpritesheet_20: -1289848602171018106
+      ChestSpritesheet_21: -2532523883516006870
+      ChestSpritesheet_22: -7471507816502968620
+      ChestSpritesheet_23: 8334885132471638419
+      ChestSpritesheet_24: 7255305935418612168
+      ChestSpritesheet_25: -2861385154422098300
+      ChestSpritesheet_26: 2054773702128449474
+      ChestSpritesheet_27: -3967956528317444722
+      ChestSpritesheet_28: -2145106434740298179
+      ChestSpritesheet_29: -7137221189550494952
+      ChestSpritesheet_3: -186155999138320930
+      ChestSpritesheet_30: -1692061130628995871
+      ChestSpritesheet_31: 2043173236227751087
+      ChestSpritesheet_32: -3770107421832850274
+      ChestSpritesheet_33: -1110231312330645823
+      ChestSpritesheet_34: -3253689331306890887
+      ChestSpritesheet_35: -6648558547161957671
+      ChestSpritesheet_36: 2778247843886545232
+      ChestSpritesheet_37: -4323545934787092651
+      ChestSpritesheet_38: -5666932538053748514
+      ChestSpritesheet_39: -1515807710015205436
+      ChestSpritesheet_4: 7287168002384896501
+      ChestSpritesheet_40: 1109254161633515468
+      ChestSpritesheet_41: -6375444886300330526
+      ChestSpritesheet_42: 4984231513496762379
+      ChestSpritesheet_43: -5773068052619955417
+      ChestSpritesheet_44: -4915736860417551950
+      ChestSpritesheet_45: 7309543909291822971
+      ChestSpritesheet_46: -3294049913849237141
+      ChestSpritesheet_47: -2233131569020889803
+      ChestSpritesheet_48: -7954269708792988905
+      ChestSpritesheet_49: 398189461733339464
+      ChestSpritesheet_5: -8093461041253098320
+      ChestSpritesheet_50: -4326239393198778473
+      ChestSpritesheet_51: 5351444295488495067
+      ChestSpritesheet_52: -9089772930252472440
+      ChestSpritesheet_53: 5792502115620956608
+      ChestSpritesheet_54: 5197698867937812324
+      ChestSpritesheet_55: 4997816187937771078
+      ChestSpritesheet_56: -6983484803661839226
+      ChestSpritesheet_6: -1789072965541523436
+      ChestSpritesheet_7: -2229920135033492183
+      ChestSpritesheet_8: -6833818750630666965
+      ChestSpritesheet_9: -3220768909456089655
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
