@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TerrainBGTiles_0: 9039144977090591966
+      TerrainBGTiles_1: 4679012970694946761
+      TerrainBGTiles_2: -6065272691751288224
+      TerrainBGTiles_3: 4932107904448788736
+      TerrainBGTiles_4: 4051665399279594447
+      TerrainBGTiles_5: 4017100859858884858
+      TerrainBGTiles_6: 7986209535498334446
+      TerrainBGTiles_7: -7630633706567437659
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

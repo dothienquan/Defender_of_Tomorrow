@@ -1272,7 +1272,53 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FoliageTiles_0: -1734034651507187948
+      FoliageTiles_1: -6316405516299463265
+      FoliageTiles_10: -7404766086461380598
+      FoliageTiles_11: -4670551984189183552
+      FoliageTiles_12: -5773312301844323355
+      FoliageTiles_13: -5424846064647822127
+      FoliageTiles_14: 3396941124983940574
+      FoliageTiles_15: 7894152761198032664
+      FoliageTiles_16: -5552163247750057991
+      FoliageTiles_17: -6562941476748684579
+      FoliageTiles_18: -7856957550187379469
+      FoliageTiles_19: -2262415265933746798
+      FoliageTiles_2: -4339381857404166543
+      FoliageTiles_20: 6511015583581929979
+      FoliageTiles_21: -6072606285804833263
+      FoliageTiles_22: 7125964907442114144
+      FoliageTiles_23: 8788322019881121239
+      FoliageTiles_24: 985158957367468398
+      FoliageTiles_25: 4120737347240223589
+      FoliageTiles_26: 9152748451449108019
+      FoliageTiles_27: 4633595011749728872
+      FoliageTiles_28: -5875914588446686659
+      FoliageTiles_29: 8785093962393332327
+      FoliageTiles_3: -3908565826462360765
+      FoliageTiles_30: 2400114411373599800
+      FoliageTiles_31: -7165683187679077404
+      FoliageTiles_32: -7051163102933196870
+      FoliageTiles_33: -5533075681822624673
+      FoliageTiles_34: 8928094120819935185
+      FoliageTiles_35: -1539458217876560077
+      FoliageTiles_36: -8458314576423881797
+      FoliageTiles_37: 1274788797753911605
+      FoliageTiles_38: 5547167053163324168
+      FoliageTiles_39: 885965499864878506
+      FoliageTiles_4: 5608429937118872303
+      FoliageTiles_40: -1498744252137114322
+      FoliageTiles_41: 5120093935547958027
+      FoliageTiles_42: -3849882815342896916
+      FoliageTiles_43: 5622214021862246186
+      FoliageTiles_44: 8620462036689031813
+      FoliageTiles_45: 9022464243425672278
+      FoliageTiles_5: 8575958305873396208
+      FoliageTiles_6: -5345164563731943548
+      FoliageTiles_7: -1556987523377696040
+      FoliageTiles_8: 9113082676833238551
+      FoliageTiles_9: 8281658053087676076
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Midleground Extended Green_0: 9010044299715704286
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
