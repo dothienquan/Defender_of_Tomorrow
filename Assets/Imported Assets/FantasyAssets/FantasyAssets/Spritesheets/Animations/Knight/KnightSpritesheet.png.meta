@@ -1072,7 +1072,45 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      KnightSpritesheet_0: 8882033923131248368
+      KnightSpritesheet_1: -1696438309538867734
+      KnightSpritesheet_10: -8805975177319229991
+      KnightSpritesheet_11: 6979951508780819558
+      KnightSpritesheet_12: 5214677911833461551
+      KnightSpritesheet_13: 676165009374633182
+      KnightSpritesheet_14: -1930205172790016360
+      KnightSpritesheet_15: -4369194717631536902
+      KnightSpritesheet_16: -5294125171561637379
+      KnightSpritesheet_17: -9184291014666498053
+      KnightSpritesheet_18: -8979570270185927469
+      KnightSpritesheet_19: -993069614483611817
+      KnightSpritesheet_2: 8683866137532267462
+      KnightSpritesheet_20: -3857024340591077196
+      KnightSpritesheet_21: 9008191252214672431
+      KnightSpritesheet_22: 4913623887070477457
+      KnightSpritesheet_23: -1205407978148302714
+      KnightSpritesheet_24: -3766092900003755556
+      KnightSpritesheet_25: 4500208374100359914
+      KnightSpritesheet_26: -7988598353060902680
+      KnightSpritesheet_27: 5049643869929053499
+      KnightSpritesheet_28: -7138827832022956935
+      KnightSpritesheet_29: 4962699540392123042
+      KnightSpritesheet_3: -703063654085373244
+      KnightSpritesheet_30: 1575460108349533902
+      KnightSpritesheet_31: 1255365809965613548
+      KnightSpritesheet_32: 5250316050122052230
+      KnightSpritesheet_33: 3354892047340453898
+      KnightSpritesheet_34: 6217899699905610120
+      KnightSpritesheet_35: -637825542001371107
+      KnightSpritesheet_36: -5291997640840490548
+      KnightSpritesheet_37: -5298155236979477429
+      KnightSpritesheet_4: 5256222867866116714
+      KnightSpritesheet_5: 1498610822327075449
+      KnightSpritesheet_6: 6991960390111258514
+      KnightSpritesheet_7: -5901301882680638465
+      KnightSpritesheet_8: -2418301574105099046
+      KnightSpritesheet_9: 8151113406954403400
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

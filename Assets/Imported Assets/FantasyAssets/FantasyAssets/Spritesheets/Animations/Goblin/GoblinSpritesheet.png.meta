@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GoblinSpritesheet_0: 6969712463713535108
+      GoblinSpritesheet_1: 2282238008876481614
+      GoblinSpritesheet_10: 4441906929257631947
+      GoblinSpritesheet_11: -3056398229687972487
+      GoblinSpritesheet_2: 3729317638850194058
+      GoblinSpritesheet_3: 7153585262796379824
+      GoblinSpritesheet_4: -3414478887649648165
+      GoblinSpritesheet_5: -8444065003118761806
+      GoblinSpritesheet_6: -1427616734366481196
+      GoblinSpritesheet_7: 5449746727583906462
+      GoblinSpritesheet_8: 3028481144133766738
+      GoblinSpritesheet_9: -5099088957379857564
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1347,7 +1347,56 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      foliageSprites_0: 7381923174565849741
+      foliageSprites_1: 6044759659761838470
+      foliageSprites_10: -3533995092192802080
+      foliageSprites_11: -8225728921123430899
+      foliageSprites_12: 4751920928415493890
+      foliageSprites_13: -8153516888874525125
+      foliageSprites_14: 2592515027156242204
+      foliageSprites_15: 2747915111603214985
+      foliageSprites_16: -3560340748392042170
+      foliageSprites_17: -9063631518329699027
+      foliageSprites_18: 5685676297950101015
+      foliageSprites_19: -3284628183291702257
+      foliageSprites_2: 1123045086175150427
+      foliageSprites_20: 8199618103552142705
+      foliageSprites_21: 128679001863657932
+      foliageSprites_22: -4248862432555368384
+      foliageSprites_23: 494688287640681173
+      foliageSprites_24: 2370974467512986637
+      foliageSprites_25: 3309894595228856082
+      foliageSprites_26: 8167846572504029840
+      foliageSprites_27: -7719461556389986047
+      foliageSprites_28: 6511773211004715066
+      foliageSprites_29: 3577074084947849188
+      foliageSprites_3: 5607110529084096620
+      foliageSprites_30: -1612245495046519537
+      foliageSprites_31: -7953353990056701802
+      foliageSprites_32: 3969411272303817988
+      foliageSprites_33: 5712234134455410370
+      foliageSprites_34: 4727871304401674642
+      foliageSprites_35: -6214844270302807583
+      foliageSprites_36: 6683387939390569311
+      foliageSprites_37: 4485900519348169954
+      foliageSprites_38: -8199701661544212963
+      foliageSprites_39: -6145690005499234228
+      foliageSprites_4: -3812941962530629399
+      foliageSprites_40: -5614303828612737101
+      foliageSprites_41: -5008212682408841756
+      foliageSprites_42: -622248008453355314
+      foliageSprites_43: 3526312156422168271
+      foliageSprites_44: -6593945600305036196
+      foliageSprites_45: -7819368937115906459
+      foliageSprites_46: 6307303211130212763
+      foliageSprites_47: 2190064067144891375
+      foliageSprites_48: -4693493935710137816
+      foliageSprites_5: -1740474690843979102
+      foliageSprites_6: 5408031021403011129
+      foliageSprites_7: -7512953849312531605
+      foliageSprites_8: -8929294590593713299
+      foliageSprites_9: -2240846553725910232
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SkeletonSwordSpritesheet_0: -7256860951457591321
+      SkeletonSwordSpritesheet_1: 4641199920970989992
+      SkeletonSwordSpritesheet_10: -4078121713909848039
+      SkeletonSwordSpritesheet_11: -8785048535289227520
+      SkeletonSwordSpritesheet_12: -8719651702971049724
+      SkeletonSwordSpritesheet_13: 6054818656279553944
+      SkeletonSwordSpritesheet_14: -6929970239024721739
+      SkeletonSwordSpritesheet_15: -6389159734933106040
+      SkeletonSwordSpritesheet_16: -6453438051033369683
+      SkeletonSwordSpritesheet_17: -7394427107921161121
+      SkeletonSwordSpritesheet_18: 8594411604331709733
+      SkeletonSwordSpritesheet_19: 3056255608242650884
+      SkeletonSwordSpritesheet_2: 5532819273600520535
+      SkeletonSwordSpritesheet_3: 5054330636815503593
+      SkeletonSwordSpritesheet_4: -2524402400379783774
+      SkeletonSwordSpritesheet_5: 5646101130370594311
+      SkeletonSwordSpritesheet_6: 2969949489687233997
+      SkeletonSwordSpritesheet_7: -7255087213016629457
+      SkeletonSwordSpritesheet_8: 6717974970922942432
+      SkeletonSwordSpritesheet_9: -6764073976874709187
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
