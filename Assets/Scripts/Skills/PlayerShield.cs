@@ -47,6 +47,7 @@ public class PlayerShield : MonoBehaviour
     {
         if (!isActive && !onCooldown && Input.GetKeyDown(shieldKey))
         {
+            Debug.Log("Shield Activated");
             StartCoroutine(ShieldRoutine());
         }
     }
