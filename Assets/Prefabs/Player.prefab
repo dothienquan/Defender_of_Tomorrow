@@ -187,7 +187,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!111 &4732259371726011675
 Animation:
   m_ObjectHideFlags: 0
@@ -218,17 +218,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 5
   jumpForce: 12
-  coyoteTime: 0.1
-  jumpBuffer: 0.1
-  fallGravityMultiplier: 2
-  lowJumpMultiplier: 0.5
   groundCheck: {fileID: 7601730637716679404}
   groundCheckRadius: 0.2
-  groundLayers:
+  groundLayer:
     serializedVersion: 2
-    m_Bits: 64
-  startupGraceTime: 0.15
-  flipSpriteOnMove: 0
+    m_Bits: 0
+  speedDampTime: 0.08
 --- !u!1 &5477855000862389150
 GameObject:
   m_ObjectHideFlags: 0
