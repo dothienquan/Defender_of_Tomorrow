@@ -19,7 +19,7 @@ public class EnemyController : MonoBehaviour
     public LayerMask playerLayer;
 
     [Header("Misc")]
-    public bool spriteFacingRight = true; // gốc sprite nhìn phải? (nếu gốc nhìn trái thì untick)
+    public bool spriteFacingRight = true;
 
     Animator anim;
     Rigidbody2D rb;
@@ -30,6 +30,8 @@ public class EnemyController : MonoBehaviour
     bool facingRight = true;
     float waitTimer = 0f;
     float attackTimer = 0f;
+
+    bool isTouchingPlayer = false; // 👉 cờ check khi va chạm Player
 
     void Awake()
     {
@@ -45,7 +47,6 @@ public class EnemyController : MonoBehaviour
         }
         targetPos = pointB ? pointB.position : transform.position;
 
-        // Gán hướng mặc định theo sprite gốc
         facingRight = spriteFacingRight;
         ApplyFacing();
     }
@@ -56,44 +57,59 @@ public class EnemyController : MonoBehaviour
 
         attackTimer -= Time.deltaTime;
 
-        // Look for player (aggro)
-        Collider2D found = Physics2D.OverlapCircle(transform.position, aggroRange, playerLayer);
-        if (found)
+        if (isTouchingPlayer)
         {
-            player = found.transform;
+            rb.linearVelocity = Vector2.zero;
+            anim.SetFloat("Speed", 0f);
+
+            if (attackTimer <= 0f)
+            {
+                anim.SetTrigger("Attack");
+                attackTimer = attackCooldown;
+            }
         }
         else
         {
-            player = null;
-        }
+            // Nếu không chạm Player thì vẫn dùng logic phát hiện
+            Collider2D found = Physics2D.OverlapCircle(transform.position, aggroRange, playerLayer);
+            player = found ? found.transform : null;
 
-        if (player != null)
-        {
-            float dist = Vector2.Distance(transform.position, player.position);
-            if (dist <= attackRange)
+            if (player != null)
             {
-                rb.linearVelocity = Vector2.zero;
-                anim.SetFloat("Speed", 0f);
-
-                if (attackTimer <= 0f)
+                float dist = Vector2.Distance(transform.position, player.position);
+                if (dist <= attackRange)
                 {
-                    anim.SetTrigger("Attack");
-                    attackTimer = attackCooldown;
+                    rb.linearVelocity = Vector2.zero;
+                    anim.SetFloat("Speed", 0f);
+
+                    if (attackTimer <= 0f)
+                    {
+                        anim.SetTrigger("Attack");
+                        attackTimer = attackCooldown;
+                    }
+                }
+                else
+                {
+                    MoveTowards(player.position);
                 }
             }
             else
             {
-                MoveTowards(player.position);
+                Patrol();
             }
+        }
+
+        // 👉 Flip theo hướng Player nếu có, ngược lại flip theo velocity
+        if (player != null)
+        {
+            if (player.position.x > transform.position.x && !facingRight) Flip();
+            if (player.position.x < transform.position.x && facingRight) Flip();
         }
         else
         {
-            Patrol();
+            if (rb.linearVelocity.x > 0.05f && !facingRight) Flip();
+            if (rb.linearVelocity.x < -0.05f && facingRight) Flip();
         }
-
-        // 👉 luôn xoay mặt theo hướng di chuyển
-        if (rb.linearVelocity.x > 0.05f && !facingRight) Flip();
-        if (rb.linearVelocity.x < -0.05f && facingRight) Flip();
     }
 
     void MoveTowards(Vector3 pos)
@@ -131,15 +147,9 @@ public class EnemyController : MonoBehaviour
 
     void ApplyFacing()
     {
-        // Nếu sprite gốc quay phải thì facingRight=true = Y=0
-        // Nếu sprite gốc quay trái thì facingRight=true = Y=180
-        float yRotation;
-        if (spriteFacingRight)
-            yRotation = facingRight ? 0f : 180f;
-        else
-            yRotation = facingRight ? 180f : 0f;
-
-        transform.rotation = Quaternion.Euler(0f, yRotation, 0f);
+        Vector3 scale = transform.localScale;
+        scale.x = (spriteFacingRight ? 1 : -1) * (facingRight ? 1 : -1) * Mathf.Abs(scale.x);
+        transform.localScale = scale;
     }
 
     public void PerformAttack()
@@ -147,13 +157,11 @@ public class EnemyController : MonoBehaviour
         Collider2D[] hits = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, playerLayer);
         foreach (var hit in hits)
         {
-            IDamageable dam = hit.GetComponent<IDamageable>();
-            if (dam != null)
+            if (hit.CompareTag("Player"))
             {
-                dam.TakeDamage(attackDamage, transform.position);
-            }
-            else
-            {
+                IDamageable dam = hit.GetComponent<IDamageable>();
+                if (dam != null) dam.TakeDamage(attackDamage, transform.position);
+
                 var ph = hit.GetComponent<PlayerHealth>();
                 if (ph != null) ph.TakeDamage(attackDamage);
             }
@@ -171,6 +179,23 @@ public class EnemyController : MonoBehaviour
         rb.linearVelocity = Vector2.zero;
         anim.SetBool("IsDead", true);
         foreach (var col in GetComponents<Collider2D>()) col.enabled = false;
+    }
+
+    // 👉 Va chạm với Player
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            isTouchingPlayer = true;
+        }
+    }
+
+    void OnTriggerExit2D(Collider2D other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            isTouchingPlayer = false;
+        }
     }
 
     void OnDrawGizmosSelected()
