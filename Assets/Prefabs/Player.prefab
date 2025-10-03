@@ -15,6 +15,8 @@ GameObject:
   - component: {fileID: 4102317140144079873}
   - component: {fileID: 4732259371726011675}
   - component: {fileID: 4486776840934688966}
+  - component: {fileID: 6807803962567380591}
+  - component: {fileID: 8149908709114295601}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -173,7 +175,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 5
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_GravityScale: 2
@@ -187,7 +189,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!111 &4732259371726011675
 Animation:
   m_ObjectHideFlags: 0
@@ -218,17 +220,59 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 5
   jumpForce: 12
-  coyoteTime: 0.1
-  jumpBuffer: 0.1
-  fallGravityMultiplier: 2
-  lowJumpMultiplier: 0.5
   groundCheck: {fileID: 7601730637716679404}
   groundCheckRadius: 0.2
-  groundLayers:
+  groundLayer:
     serializedVersion: 2
     m_Bits: 64
-  startupGraceTime: 0.15
-  flipSpriteOnMove: 0
+  speedDampTime: 0.08
+--- !u!114 &6807803962567380591
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5276995599669284400}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1008d9af3d5148419e14677fa2f72ed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dashSpeed: 18
+  dashDistance: 4
+  dashCooldown: 0.35
+  dashKey: 122
+  obstacleMask:
+    serializedVersion: 2
+    m_Bits: 64
+  skin: 0.05
+  movementToDisable: {fileID: 4486776840934688966}
+  animatorDashTrigger: Dash
+--- !u!114 &8149908709114295601
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5276995599669284400}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23eccf3e97ce08449b6d56c1c3935c61, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 25
+  attackSpeed: 1
+  baseAttackDuration: 0.4
+  hitTimeNormalized: 0.35
+  attackPoint: {fileID: 0}
+  attackRange: 0.6
+  enemyMask:
+    serializedVersion: 2
+    m_Bits: 0
+  facingParam: Facing
+  actionParam: Action
+  attackSpeedParam: AttackSpeed
+  extraRecovery: 0
 --- !u!1 &5477855000862389150
 GameObject:
   m_ObjectHideFlags: 0
@@ -240,7 +284,7 @@ GameObject:
   - component: {fileID: 3828718675932233696}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
