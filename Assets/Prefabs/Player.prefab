@@ -10,11 +10,13 @@ GameObject:
   m_Component:
   - component: {fileID: 2353492565277296078}
   - component: {fileID: 6517742682488540895}
-  - component: {fileID: 372139978767523848}
+  - component: {fileID: 4049031017942714971}
   - component: {fileID: 1080650154027720160}
   - component: {fileID: 4102317140144079873}
   - component: {fileID: 4732259371726011675}
   - component: {fileID: 4486776840934688966}
+  - component: {fileID: 2003782000453019384}
+  - component: {fileID: 6027368765312603724}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -31,7 +33,7 @@ Transform:
   m_GameObject: {fileID: 5276995599669284400}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.7194651, y: -0.81, z: -0.07522928}
+  m_LocalPosition: {x: 3.74, y: -2.756, z: -0.07522928}
   m_LocalScale: {x: 3.2807, y: 2.7796, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -93,8 +95,8 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!61 &372139978767523848
-BoxCollider2D:
+--- !u!70 &4049031017942714971
+CapsuleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -127,18 +129,9 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.65625, y: 1.125}
-    newSize: {x: 0.65625, y: 1.125}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Size: {x: 0.65625, y: 1.125}
-  m_EdgeRadius: 0
+  m_Offset: {x: 0, y: 0.013463068}
+  m_Size: {x: 0.65625, y: 1.0980732}
+  m_Direction: 0
 --- !u!95 &1080650154027720160
 Animator:
   serializedVersion: 7
@@ -173,10 +166,10 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 10
   m_LinearDamping: 0
   m_AngularDamping: 0.05
-  m_GravityScale: 2
+  m_GravityScale: 5
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -187,7 +180,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!111 &4732259371726011675
 Animation:
   m_ObjectHideFlags: 0
@@ -216,19 +209,61 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 952ac13a0cd644640bec582e61239329, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 5
-  jumpForce: 12
-  coyoteTime: 0.1
-  jumpBuffer: 0.1
-  fallGravityMultiplier: 2
-  lowJumpMultiplier: 0.5
+  moveSpeed: 10
+  jumpForce: 20
   groundCheck: {fileID: 7601730637716679404}
   groundCheckRadius: 0.2
-  groundLayers:
+  groundLayer:
     serializedVersion: 2
     m_Bits: 64
-  startupGraceTime: 0.15
-  flipSpriteOnMove: 0
+  speedDampTime: 0.08
+--- !u!114 &2003782000453019384
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5276995599669284400}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1008d9af3d5148419e14677fa2f72ed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dashSpeed: 18
+  dashDistance: 4
+  dashCooldown: 0.35
+  dashKey: 122
+  obstacleMask:
+    serializedVersion: 2
+    m_Bits: 64
+  skin: 0.05
+  movementToDisable: {fileID: 4486776840934688966}
+  animatorDashTrigger: Dash
+--- !u!114 &6027368765312603724
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5276995599669284400}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23eccf3e97ce08449b6d56c1c3935c61, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 25
+  attackSpeed: 1
+  baseAttackDuration: 0.4
+  hitTimeNormalized: 0.35
+  attackPoint: {fileID: 0}
+  attackRange: 0.6
+  enemyMask:
+    serializedVersion: 2
+    m_Bits: 0
+  facingParam: Facing
+  actionParam: Action
+  attackSpeedParam: AttackSpeed
+  extraRecovery: 0
 --- !u!1 &5477855000862389150
 GameObject:
   m_ObjectHideFlags: 0
