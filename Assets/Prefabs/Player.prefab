@@ -14,13 +14,14 @@ GameObject:
   - component: {fileID: 1080650154027720160}
   - component: {fileID: 4102317140144079873}
   - component: {fileID: 4732259371726011675}
+  - component: {fileID: 5410816131319229635}
+  - component: {fileID: 414084706712268198}
+  - component: {fileID: 1086309302943845464}
   - component: {fileID: 4486776840934688966}
   - component: {fileID: 6807803962567380591}
   - component: {fileID: 8149908709114295601}
-  - component: {fileID: 414084706712268198}
-  - component: {fileID: 1086309302943845464}
-  - component: {fileID: 5410816131319229635}
-  m_Layer: 0
+  - component: {fileID: 5088931284346379001}
+  m_Layer: 7
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -200,6 +201,55 @@ Animation:
   m_AnimatePhysics: 0
   m_UpdateMode: 0
   m_CullingType: 0
+--- !u!114 &5410816131319229635
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5276995599669284400}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c71da8b561853d478e76d09cccf1203, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHP: 30
+  maxMana: 10
+  currentHP: 30
+  currentMana: 10
+  hpSlider: {fileID: 0}
+  manaSlider: {fileID: 0}
+  hpText: {fileID: 0}
+  manaText: {fileID: 0}
+  uiControlsStats: 1
+--- !u!114 &414084706712268198
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5276995599669284400}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5779290f920f63f4b92439a1b89deb7f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  confiner: {fileID: 0}
+  vcam: {fileID: 0}
+--- !u!114 &1086309302943845464
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5276995599669284400}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c442af7d51b522c4b858342cbc9427e7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactAction: {fileID: 1781555164194001046, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  promptUI: {fileID: 0}
 --- !u!114 &4486776840934688966
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -266,7 +316,7 @@ MonoBehaviour:
   actionParam: Action
   attackSpeedParam: AttackSpeed
   extraRecovery: 0
---- !u!114 &414084706712268198
+--- !u!114 &5088931284346379001
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -275,41 +325,19 @@ MonoBehaviour:
   m_GameObject: {fileID: 5276995599669284400}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5779290f920f63f4b92439a1b89deb7f, type: 3}
+  m_Script: {fileID: 11500000, guid: b7cc7f4f36ce0d84d93b5f326cd25de0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  confiner: {fileID: 0}
-  vcam: {fileID: 0}
---- !u!114 &1086309302943845464
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5276995599669284400}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c442af7d51b522c4b858342cbc9427e7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  interactAction: {fileID: 1781555164194001046, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
-  promptUI: {fileID: 0}
---- !u!114 &5410816131319229635
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5276995599669284400}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7c71da8b561853d478e76d09cccf1203, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  maxHP: 100
-  maxMana: 50
-  hpSlider: {fileID: 0}
-  manaSlider: {fileID: 0}
+  fireballDamage: 30
+  fireballSpeed: 14
+  baseCastDuration: 0.45
+  spawnTimeNormalized: 0.35
+  castCooldown: 0.2
+  firePoint: {fileID: 0}
+  fireballPrefab: {fileID: 0}
+  facingParam: Facing
+  actionParam: Action
+  castKey: 324
 --- !u!1 &5477855000862389150
 GameObject:
   m_ObjectHideFlags: 0
@@ -319,7 +347,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3828718675932233696}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -351,7 +379,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7601730637716679404}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: groundCheck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
