@@ -27,11 +27,34 @@ public class PlayerFireball : MonoBehaviour
     [SerializeField] private string actionParam = "Action";           // 0 move, 1 melee, 2 cast
     [SerializeField] private KeyCode castKey = KeyCode.Mouse1;        // Chuột phải
 
+    // --- Runtime ---
     private Animator anim;
     private bool isCasting;
     private bool onCooldown;
-
     private int hashFacing, hashAction;
+
+    // --- Cooldown state for UI ---
+    [SerializeField, Tooltip("Thời gian hồi còn lại (chỉ để xem trong Inspector).")]
+    private float cooldownRemaining = 0f;
+
+    /// <summary>Đang trong thời gian hồi chiêu?</summary>
+    public bool OnCooldown => onCooldown;
+
+    /// <summary>0..1, 1 = SẴN SÀNG, 0 = vừa bắt đầu hồi chiêu.</summary>
+    public float CooldownNormalized
+    {
+        get
+        {
+            if (!onCooldown || castCooldown <= 0f) return 1f;
+            return 1f - Mathf.Clamp01(cooldownRemaining / castCooldown);
+        }
+    }
+
+    /// <summary>Giây còn lại trước khi bắn lại được.</summary>
+    public float CooldownRemaining => Mathf.Max(0f, cooldownRemaining);
+
+    /// <summary>Thời gian hồi chiêu cấu hình (giây).</summary>
+    public float CastCooldown => castCooldown;
 
     void Awake()
     {
@@ -72,8 +95,14 @@ public class PlayerFireball : MonoBehaviour
         // Trả về locomotion
         anim.SetFloat(hashAction, 0f);
 
-        // Hồi chiêu
-        yield return new WaitForSeconds(castCooldown);
+        // --- HỒI CHIÊU có tiến trình để UI đọc ---
+        cooldownRemaining = castCooldown;
+        while (cooldownRemaining > 0f)
+        {
+            cooldownRemaining -= Time.deltaTime;
+            yield return null;
+        }
+        cooldownRemaining = 0f;
         onCooldown = false;
         isCasting = false;
     }
@@ -100,6 +129,7 @@ public class PlayerFireball : MonoBehaviour
     // Expose cho chỉnh runtime
     public void SetFireballDamage(int dmg) => fireballDamage = Mathf.Max(0, dmg);
     public void SetFireballSpeed(float spd) => fireballSpeed = Mathf.Max(0.01f, spd);
+    public void SetCastCooldown(float seconds) => castCooldown = Mathf.Max(0f, seconds);
 
     public int FireballDamage => fireballDamage;
     public float FireballSpeed => fireballSpeed;
