@@ -8,7 +8,6 @@ TagManager:
   - Mirror
   - Goal
   - RoomBounds
-  - Ground
   layers:
   - Default
   - TransparentFX
