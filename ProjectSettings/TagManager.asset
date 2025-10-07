@@ -51,5 +51,8 @@ TagManager:
   - name: UpperGround
     uniqueID: 467892115
     locked: 0
+  - name: New Layer 3
+    uniqueID: 2752341425
+    locked: 0
   m_RenderingLayers:
   - Default
