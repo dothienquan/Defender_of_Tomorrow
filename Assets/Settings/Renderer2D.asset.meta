@@ -6,3 +6,10 @@ NativeFormatImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255717
+  packageName: 2D Platformer Dark Forest
+  packageVersion: 1.0
+  assetPath: Assets/Settings/Renderer2D.asset
+  uploadId: 596322

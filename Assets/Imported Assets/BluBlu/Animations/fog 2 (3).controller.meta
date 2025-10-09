@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e7e027cbd0163924b98d8f510d7b03aa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255717
+  packageName: 2D Platformer Dark Forest
+  packageVersion: 1.0
+  assetPath: Assets/BluBlu/Animations/fog 2 (3).controller
+  uploadId: 596322

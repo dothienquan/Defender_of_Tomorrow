@@ -5,3 +5,10 @@ DefaultImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255717
+  packageName: 2D Platformer Dark Forest
+  packageVersion: 1.0
+  assetPath: Assets/Settings/Scenes/URP2DSceneTemplate.unity
+  uploadId: 596322
