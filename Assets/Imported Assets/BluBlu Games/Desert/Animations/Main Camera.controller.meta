@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c5dc5e11a7a14334399e85d923b73dcd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300404
+  packageName: 2D Plaformer Desert
+  packageVersion: 1.0
+  assetPath: Assets/BluBlu Games/Animations/Main Camera.controller
+  uploadId: 727741
