@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: af721fa4c54bd094fbe529d700324499
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300879
+  packageName: 'Fantasy Monsters Animated [Bosses]'
+  packageVersion: 1.2
+  assetPath: Assets/FantasyMonsters/Common/Animations/ChestBox/Controller.controller
+  uploadId: 723058

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cf7e50585fb8d1145826034f13a7da4b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300879
+  packageName: 'Fantasy Monsters Animated [Bosses]'
+  packageVersion: 1.2
+  assetPath: Assets/FantasyMonsters/Common/Animations/ChestBox/Idle.anim
+  uploadId: 723058
