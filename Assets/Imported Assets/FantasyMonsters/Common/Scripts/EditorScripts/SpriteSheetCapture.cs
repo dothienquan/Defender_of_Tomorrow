@@ -18,7 +18,7 @@ namespace Assets.FantasyMonsters.Common.Scripts.EditorScripts
 
         private readonly Dictionary<string, List<Texture2D>> _clips = new Dictionary<string, List<Texture2D>>();
 
-        public void Capture(int frameSize, int frameCount)
+        public virtual void Capture(int frameSize, int frameCount)
         {
             Monster = FindObjectOfType<Monster>();
             StartCoroutine(CaptureCoroutine(frameSize, frameCount));
@@ -148,7 +148,12 @@ namespace Assets.FantasyMonsters.Common.Scripts.EditorScripts
             Destroy(sheet);
 
             var fileName = $"{Monster.name} {width}x{height} ({string.Join(" ", _clips.Keys).Replace("Ready", "Idle").Replace("Walk", "Run")})";
-            
+
+            Save(fileName, bytes);
+        }
+
+        private void Save(string fileName, byte[] bytes)
+        {
             #if UNITY_EDITOR
 
             var path = UnityEditor.EditorUtility.SaveFilePanel("Save as", Application.dataPath, $"{fileName}", "png");
@@ -161,9 +166,28 @@ namespace Assets.FantasyMonsters.Common.Scripts.EditorScripts
 
             #elif UNITY_STANDALONE_WIN
 
-            Debug.LogError("Import Simple File Browser For Windows!");
-            //StartCoroutine(SimpleFileBrowserForWindows.WindowsFileBrowser.SaveFile("Save as", "", fileName, "Image", ".png", bytes, (_, _) => {}));
-            
+                #if FILE_BROWSER_STANDALONE
+
+                StartCoroutine(SimpleFileBrowserForWindows.WindowsFileBrowser.SaveFile("Save as", "", fileName, "Image", ".png", bytes, (_, _) => {}));
+
+                #else
+
+                throw new NotImplementedException("Import [Simple File Browser for Windows]: http://u3d.as/2QLg");
+                                        
+                #endif
+
+            #elif UNITY_WEBGL
+
+                #if FILE_BROWSER_WEBGL
+
+                SimpleFileBrowserForWebGL.WebFileBrowser.Download(fileName + ".png", bytes);
+
+                #else
+
+                throw new NotImplementedException("Import [Simple File Browser for WebGL]: http://u3d.as/2W52");
+
+                #endif
+
             #endif
         }
     }

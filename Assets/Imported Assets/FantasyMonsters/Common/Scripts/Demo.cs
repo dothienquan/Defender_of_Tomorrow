@@ -15,7 +15,7 @@ namespace Assets.FantasyMonsters.Common.Scripts
     public class Demo : MonoBehaviour
     {
         public UnityEngine.Object MonstersFolder;
-        public List<Monster> Monsters = new List<Monster>();
+        public List<Monster> Monsters = new();
         public GameObject SelectedMonster;
         public Dropdown MonstersDropdown;
 

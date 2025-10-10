@@ -840,6 +840,75 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 546266354}
   m_CullTransparentMesh: 1
+--- !u!1001 &620673348
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1423470163212545534, guid: f79cf179388609c4cb9eda26e18803d3,
+        type: 3}
+      propertyPath: m_Name
+      value: AdvancedHen
+      objectReference: {fileID: 0}
+    - target: {fileID: 2374989008031308591, guid: f79cf179388609c4cb9eda26e18803d3,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2374989008031308591, guid: f79cf179388609c4cb9eda26e18803d3,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2374989008031308591, guid: f79cf179388609c4cb9eda26e18803d3,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2374989008031308591, guid: f79cf179388609c4cb9eda26e18803d3,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2374989008031308591, guid: f79cf179388609c4cb9eda26e18803d3,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2374989008031308591, guid: f79cf179388609c4cb9eda26e18803d3,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2374989008031308591, guid: f79cf179388609c4cb9eda26e18803d3,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2374989008031308591, guid: f79cf179388609c4cb9eda26e18803d3,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2374989008031308591, guid: f79cf179388609c4cb9eda26e18803d3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2374989008031308591, guid: f79cf179388609c4cb9eda26e18803d3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2374989008031308591, guid: f79cf179388609c4cb9eda26e18803d3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f79cf179388609c4cb9eda26e18803d3, type: 3}
 --- !u!1 &643748889
 GameObject:
   m_ObjectHideFlags: 0
@@ -1676,75 +1745,12 @@ MonoBehaviour:
           m_StringArgument: Death
           m_BoolArgument: 0
         m_CallState: 2
---- !u!1001 &1377875380
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 2069015975501184385, guid: 40b2d4ba354dd884c893708f4c791b4e,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 2069015975501184385, guid: 40b2d4ba354dd884c893708f4c791b4e,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2069015975501184385, guid: 40b2d4ba354dd884c893708f4c791b4e,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -1.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 2069015975501184385, guid: 40b2d4ba354dd884c893708f4c791b4e,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2069015975501184385, guid: 40b2d4ba354dd884c893708f4c791b4e,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2069015975501184385, guid: 40b2d4ba354dd884c893708f4c791b4e,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2069015975501184385, guid: 40b2d4ba354dd884c893708f4c791b4e,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2069015975501184385, guid: 40b2d4ba354dd884c893708f4c791b4e,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2069015975501184385, guid: 40b2d4ba354dd884c893708f4c791b4e,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2069015975501184385, guid: 40b2d4ba354dd884c893708f4c791b4e,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2069015975501184385, guid: 40b2d4ba354dd884c893708f4c791b4e,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2069015975501184387, guid: 40b2d4ba354dd884c893708f4c791b4e,
-        type: 3}
-      propertyPath: m_Name
-      value: BlackDragon
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 40b2d4ba354dd884c893708f4c791b4e, type: 3}
+--- !u!1 &1332364859 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1423470163212545534, guid: f79cf179388609c4cb9eda26e18803d3,
+    type: 3}
+  m_PrefabInstance: {fileID: 620673348}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1443884237
 GameObject:
   m_ObjectHideFlags: 0
@@ -1816,7 +1822,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Black Dragon
+  m_Text: Abandoned Stone Well
 --- !u!222 &1443884240
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1825,12 +1831,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1443884237}
   m_CullTransparentMesh: 1
---- !u!1 &1467786250 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2069015975501184387, guid: 40b2d4ba354dd884c893708f4c791b4e,
-    type: 3}
-  m_PrefabInstance: {fileID: 1377875380}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1475173795
 GameObject:
   m_ObjectHideFlags: 0
@@ -1867,7 +1867,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -150, y: 0}
+  m_AnchoredPosition: {x: -149.99994, y: 0}
   m_SizeDelta: {x: -300, y: 50}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &1475173797
@@ -2172,8 +2172,6 @@ GameObject:
   - component: {fileID: 1895976750}
   - component: {fileID: 1895976751}
   - component: {fileID: 1895976752}
-  - component: {fileID: 1895976753}
-  - component: {fileID: 1895976754}
   m_Layer: 0
   m_Name: Dropdown
   m_TagString: Untagged
@@ -2253,13 +2251,107 @@ MonoBehaviour:
   m_Value: 0
   m_Options:
     m_Options:
+    - m_Text: Abandoned Stone Well
+      m_Image: {fileID: 0}
+    - m_Text: Advanced Hen
+      m_Image: {fileID: 0}
+    - m_Text: Ancient Chest
+      m_Image: {fileID: 0}
+    - m_Text: Ancient Clay Urn
+      m_Image: {fileID: 0}
+    - m_Text: Ancient Tombstone
+      m_Image: {fileID: 0}
+    - m_Text: Ash Tree
+      m_Image: {fileID: 0}
+    - m_Text: Bat
+      m_Image: {fileID: 0}
+    - m_Text: Battle Panther
+      m_Image: {fileID: 0}
+    - m_Text: Bear
+      m_Image: {fileID: 0}
+    - m_Text: Bear Mounted
+      m_Image: {fileID: 0}
+    - m_Text: Black Bear
+      m_Image: {fileID: 0}
+    - m_Text: Black Boar
+      m_Image: {fileID: 0}
+    - m_Text: Black Cat
+      m_Image: {fileID: 0}
     - m_Text: Black Dragon
       m_Image: {fileID: 0}
-    - m_Text: Croc01
+    - m_Text: Black Oak Tree
       m_Image: {fileID: 0}
-    - m_Text: Croc02
+    - m_Text: Black Wolf
       m_Image: {fileID: 0}
-    - m_Text: Croc03
+    - m_Text: Black Wood Chest
+      m_Image: {fileID: 0}
+    - m_Text: Blue Brush
+      m_Image: {fileID: 0}
+    - m_Text: Blue Flower
+      m_Image: {fileID: 0}
+    - m_Text: Blue Scorpion
+      m_Image: {fileID: 0}
+    - m_Text: Boar
+      m_Image: {fileID: 0}
+    - m_Text: Boar Mounted
+      m_Image: {fileID: 0}
+    - m_Text: Bug Queen
+      m_Image: {fileID: 0}
+    - m_Text: Bull
+      m_Image: {fileID: 0}
+    - m_Text: Bull Mounted
+      m_Image: {fileID: 0}
+    - m_Text: Bully Rooster
+      m_Image: {fileID: 0}
+    - m_Text: Bunny
+      m_Image: {fileID: 0}
+    - m_Text: Burro
+      m_Image: {fileID: 0}
+    - m_Text: Butcher
+      m_Image: {fileID: 0}
+    - m_Text: Cannibal
+      m_Image: {fileID: 0}
+    - m_Text: Cannon LType A
+      m_Image: {fileID: 0}
+    - m_Text: Cannon LType B
+      m_Image: {fileID: 0}
+    - m_Text: "Cannon LType\u0421"
+      m_Image: {fileID: 0}
+    - m_Text: Cannon MType A
+      m_Image: {fileID: 0}
+    - m_Text: Cannon MType B
+      m_Image: {fileID: 0}
+    - m_Text: Cannon MType C
+      m_Image: {fileID: 0}
+    - m_Text: Cannon SType A
+      m_Image: {fileID: 0}
+    - m_Text: Cannon SType B
+      m_Image: {fileID: 0}
+    - m_Text: Cannon SType C
+      m_Image: {fileID: 0}
+    - m_Text: Caterpillar
+      m_Image: {fileID: 0}
+    - m_Text: Cave Caterpillar
+      m_Image: {fileID: 0}
+    - m_Text: Cave Rat
+      m_Image: {fileID: 0}
+    - m_Text: Cerberus
+      m_Image: {fileID: 0}
+    - m_Text: Chick
+      m_Image: {fileID: 0}
+    - m_Text: Chicken
+      m_Image: {fileID: 0}
+    - m_Text: Coala
+      m_Image: {fileID: 0}
+    - m_Text: Copper Rock
+      m_Image: {fileID: 0}
+    - m_Text: Cow
+      m_Image: {fileID: 0}
+    - m_Text: Crawler
+      m_Image: {fileID: 0}
+    - m_Text: Crystal Lizard
+      m_Image: {fileID: 0}
+    - m_Text: Dark Bunny
       m_Image: {fileID: 0}
     - m_Text: Demon01
       m_Image: {fileID: 0}
@@ -2267,27 +2359,101 @@ MonoBehaviour:
       m_Image: {fileID: 0}
     - m_Text: Demon03
       m_Image: {fileID: 0}
+    - m_Text: Donkey
+      m_Image: {fileID: 0}
+    - m_Text: Dragon Chest
+      m_Image: {fileID: 0}
+    - m_Text: Dragony
+      m_Image: {fileID: 0}
+    - m_Text: Drake
+      m_Image: {fileID: 0}
+    - m_Text: Dread Eye
+      m_Image: {fileID: 0}
+    - m_Text: Dreadnought
+      m_Image: {fileID: 0}
+    - m_Text: Duck
+      m_Image: {fileID: 0}
     - m_Text: Emerald Dragon
+      m_Image: {fileID: 0}
+    - m_Text: Evil Eye
+      m_Image: {fileID: 0}
+    - m_Text: Fancy Parasite
       m_Image: {fileID: 0}
     - m_Text: Fancy Worm
       m_Image: {fileID: 0}
+    - m_Text: Fashion Chest
+      m_Image: {fileID: 0}
+    - m_Text: Flying Demon
+      m_Image: {fileID: 0}
+    - m_Text: Forest Turkey
+      m_Image: {fileID: 0}
+    - m_Text: Foxy
+      m_Image: {fileID: 0}
+    - m_Text: Furry
+      m_Image: {fileID: 0}
+    - m_Text: Ghost
+      m_Image: {fileID: 0}
+    - m_Text: Goat
+      m_Image: {fileID: 0}
+    - m_Text: Gobbler
+      m_Image: {fileID: 0}
     - m_Text: Golden Dragon
+      m_Image: {fileID: 0}
+    - m_Text: Gold Rock
       m_Image: {fileID: 0}
     - m_Text: Golem
       m_Image: {fileID: 0}
+    - m_Text: Goose
+      m_Image: {fileID: 0}
+    - m_Text: Green Apple Tree
+      m_Image: {fileID: 0}
     - m_Text: Green Dragon
+      m_Image: {fileID: 0}
+    - m_Text: Green Parasite
+      m_Image: {fileID: 0}
+    - m_Text: Green Scorpion
       m_Image: {fileID: 0}
     - m_Text: Green Worm
       m_Image: {fileID: 0}
     - m_Text: Grey Dragon
       m_Image: {fileID: 0}
+    - m_Text: Hen
+      m_Image: {fileID: 0}
+    - m_Text: Hog
+      m_Image: {fileID: 0}
+    - m_Text: Horse
+      m_Image: {fileID: 0}
+    - m_Text: Husky
+      m_Image: {fileID: 0}
     - m_Text: Ice Dragon
       m_Image: {fileID: 0}
     - m_Text: Ice Golem
       m_Image: {fileID: 0}
+    - m_Text: Ice Parasite
+      m_Image: {fileID: 0}
     - m_Text: Ice Worm
       m_Image: {fileID: 0}
+    - m_Text: Infected Rat
+      m_Image: {fileID: 0}
+    - m_Text: Iron Chest
+      m_Image: {fileID: 0}
+    - m_Text: Iron Rock
+      m_Image: {fileID: 0}
+    - m_Text: Ivy Tree
+      m_Image: {fileID: 0}
+    - m_Text: Juggernaut
+      m_Image: {fileID: 0}
+    - m_Text: Lamby
+      m_Image: {fileID: 0}
+    - m_Text: Larva
+      m_Image: {fileID: 0}
     - m_Text: Lava Golem
+      m_Image: {fileID: 0}
+    - m_Text: Limestone Rock
+      m_Image: {fileID: 0}
+    - m_Text: Lion
+      m_Image: {fileID: 0}
+    - m_Text: Little Bunny
       m_Image: {fileID: 0}
     - m_Text: Lizard01
       m_Image: {fileID: 0}
@@ -2295,17 +2461,31 @@ MonoBehaviour:
       m_Image: {fileID: 0}
     - m_Text: Lizard03
       m_Image: {fileID: 0}
+    - m_Text: Malachite Chest
+      m_Image: {fileID: 0}
+    - m_Text: Maneater
+      m_Image: {fileID: 0}
+    - m_Text: Manticore Tree
+      m_Image: {fileID: 0}
+    - m_Text: Maple Tree
+      m_Image: {fileID: 0}
+    - m_Text: Meat Bug
+      m_Image: {fileID: 0}
     - m_Text: Mechanical Golem
+      m_Image: {fileID: 0}
+    - m_Text: Mechanical Parasite Type A
+      m_Image: {fileID: 0}
+    - m_Text: Mechanical Parasite Type B
       m_Image: {fileID: 0}
     - m_Text: Mechanical Worm Type A
       m_Image: {fileID: 0}
     - m_Text: Mechanical Worm Type B
       m_Image: {fileID: 0}
-    - m_Text: Megabear01
+    - m_Text: Mimic
       m_Image: {fileID: 0}
-    - m_Text: Megabear02
+    - m_Text: Mimic Chest
       m_Image: {fileID: 0}
-    - m_Text: Megabear03
+    - m_Text: Miner Boar
       m_Image: {fileID: 0}
     - m_Text: Minotaur01
       m_Image: {fileID: 0}
@@ -2313,13 +2493,187 @@ MonoBehaviour:
       m_Image: {fileID: 0}
     - m_Text: Minotaur03
       m_Image: {fileID: 0}
+    - m_Text: Mohawk Bat
+      m_Image: {fileID: 0}
+    - m_Text: Monkey
+      m_Image: {fileID: 0}
+    - m_Text: Mosquito Parasite
+      m_Image: {fileID: 0}
     - m_Text: Mosquito Worm
+      m_Image: {fileID: 0}
+    - m_Text: Moss Queen
+      m_Image: {fileID: 0}
+    - m_Text: Moss Queen Mounted
+      m_Image: {fileID: 0}
+    - m_Text: Night Cat
+      m_Image: {fileID: 0}
+    - m_Text: Nightmare
+      m_Image: {fileID: 0}
+    - m_Text: Oak Tree
+      m_Image: {fileID: 0}
+    - m_Text: Ogre
+      m_Image: {fileID: 0}
+    - m_Text: Ox
+      m_Image: {fileID: 0}
+    - m_Text: Pandy
+      m_Image: {fileID: 0}
+    - m_Text: Panter
+      m_Image: {fileID: 0}
+    - m_Text: Panther
+      m_Image: {fileID: 0}
+    - m_Text: Pig
+      m_Image: {fileID: 0}
+    - m_Text: Piggy
+      m_Image: {fileID: 0}
+    - m_Text: Pirate Boar
+      m_Image: {fileID: 0}
+    - m_Text: Pony
+      m_Image: {fileID: 0}
+    - m_Text: Porcupine
+      m_Image: {fileID: 0}
+    - m_Text: Porky
+      m_Image: {fileID: 0}
+    - m_Text: Possessed Black Bear
+      m_Image: {fileID: 0}
+    - m_Text: Possessed Black Boar
+      m_Image: {fileID: 0}
+    - m_Text: Possessed Rat
+      m_Image: {fileID: 0}
+    - m_Text: Possessed Warg
+      m_Image: {fileID: 0}
+    - m_Text: Possessed Watchdog
+      m_Image: {fileID: 0}
+    - m_Text: Possessed Wolf
+      m_Image: {fileID: 0}
+    - m_Text: Pug
+      m_Image: {fileID: 0}
+    - m_Text: Punisher
       m_Image: {fileID: 0}
     - m_Text: Purple Dragon
       m_Image: {fileID: 0}
+    - m_Text: Purple Scarab
+      m_Image: {fileID: 0}
+    - m_Text: Racoony
+      m_Image: {fileID: 0}
+    - m_Text: Ram
+      m_Image: {fileID: 0}
+    - m_Text: Rat
+      m_Image: {fileID: 0}
+    - m_Text: Rat King
+      m_Image: {fileID: 0}
+    - m_Text: Red Apple Tree
+      m_Image: {fileID: 0}
+    - m_Text: Red Brush
+      m_Image: {fileID: 0}
     - m_Text: Red Dragon
       m_Image: {fileID: 0}
+    - m_Text: Red Flower
+      m_Image: {fileID: 0}
+    - m_Text: Red Sandal Tree
+      m_Image: {fileID: 0}
+    - m_Text: Red Scorpion
+      m_Image: {fileID: 0}
+    - m_Text: Reinforced Chest
+      m_Image: {fileID: 0}
+    - m_Text: Rooster
+      m_Image: {fileID: 0}
+    - m_Text: Royal Boar
+      m_Image: {fileID: 0}
+    - m_Text: Royal Chest
+      m_Image: {fileID: 0}
+    - m_Text: Sabretooth Tiger
+      m_Image: {fileID: 0}
+    - m_Text: Sack
+      m_Image: {fileID: 0}
+    - m_Text: Scarab
+      m_Image: {fileID: 0}
+    - m_Text: Scarab Mounted
+      m_Image: {fileID: 0}
+    - m_Text: Scarecrow
+      m_Image: {fileID: 0}
+    - m_Text: Shard Lizard
+      m_Image: {fileID: 0}
+    - m_Text: Sheep
+      m_Image: {fileID: 0}
+    - m_Text: Silver Rock
+      m_Image: {fileID: 0}
+    - m_Text: Skull Chest
+      m_Image: {fileID: 0}
+    - m_Text: Slug Queen
+      m_Image: {fileID: 0}
+    - m_Text: Small Poodle
+      m_Image: {fileID: 0}
+    - m_Text: Spiky
+      m_Image: {fileID: 0}
+    - m_Text: Stone Rock
+      m_Image: {fileID: 0}
+    - m_Text: Stripy
+      m_Image: {fileID: 0}
+    - m_Text: Stump Cache
+      m_Image: {fileID: 0}
+    - m_Text: Swine
+      m_Image: {fileID: 0}
+    - m_Text: Teddy Bear
+      m_Image: {fileID: 0}
+    - m_Text: Tiger
+      m_Image: {fileID: 0}
+    - m_Text: Tiger Cub
+      m_Image: {fileID: 0}
+    - m_Text: Tin Rock
+      m_Image: {fileID: 0}
+    - m_Text: Treasure Chest
+      m_Image: {fileID: 0}
+    - m_Text: Troll
+      m_Image: {fileID: 0}
+    - m_Text: Turkey
+      m_Image: {fileID: 0}
+    - m_Text: Volcano Parasite
+      m_Image: {fileID: 0}
     - m_Text: Volcano Worm
+      m_Image: {fileID: 0}
+    - m_Text: Warg
+      m_Image: {fileID: 0}
+    - m_Text: Wasp
+      m_Image: {fileID: 0}
+    - m_Text: Watchdog
+      m_Image: {fileID: 0}
+    - m_Text: Whetstone Rock
+      m_Image: {fileID: 0}
+    - m_Text: White Wolf
+      m_Image: {fileID: 0}
+    - m_Text: Wild Goat
+      m_Image: {fileID: 0}
+    - m_Text: Wild Rooster
+      m_Image: {fileID: 0}
+    - m_Text: Willow Tree
+      m_Image: {fileID: 0}
+    - m_Text: Winter Bear
+      m_Image: {fileID: 0}
+    - m_Text: Winter Boar
+      m_Image: {fileID: 0}
+    - m_Text: Winter Ogre
+      m_Image: {fileID: 0}
+    - m_Text: Winter Warg
+      m_Image: {fileID: 0}
+    - m_Text: Winter Wolf Type A
+      m_Image: {fileID: 0}
+    - m_Text: Winter Wolf Type B
+      m_Image: {fileID: 0}
+    - m_Text: Wolf
+      m_Image: {fileID: 0}
+    - m_Text: Wolf Hound
+      m_Image: {fileID: 0}
+    - m_Text: Wolf Mounfed
+      m_Image: {fileID: 0}
+    - m_Text: Wolfy
+      m_Image: {fileID: 0}
+    - m_Text: Wooden Barrel
+      m_Image: {fileID: 0}
+    - m_Text: Wooden Box
+      m_Image: {fileID: 0}
+    - m_Text: Wooden Chest
+      m_Image: {fileID: 0}
+    - m_Text: Wooden Chest
       m_Image: {fileID: 0}
     - m_Text: Wyvern Type1
       m_Image: {fileID: 0}
@@ -2340,6 +2694,16 @@ MonoBehaviour:
     - m_Text: Wyvern Type8
       m_Image: {fileID: 0}
     - m_Text: Wyvern Type9
+      m_Image: {fileID: 0}
+    - m_Text: Yellow Brush
+      m_Image: {fileID: 0}
+    - m_Text: Yellow Flower
+      m_Image: {fileID: 0}
+    - m_Text: Yew Tree
+      m_Image: {fileID: 0}
+    - m_Text: Zinc Rock
+      m_Image: {fileID: 0}
+    - m_Text: Zombie
       m_Image: {fileID: 0}
   m_OnValueChanged:
     m_PersistentCalls:
@@ -4327,48 +4691,6 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls: []
---- !u!114 &1895976753
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1895976656}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d0b148fe25e99eb48b9724523833bab1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Delegates:
-  - eventID: 3
-    callback:
-      m_PersistentCalls:
-        m_Calls: []
-  - eventID: 1
-    callback:
-      m_PersistentCalls:
-        m_Calls: []
---- !u!114 &1895976754
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1895976656}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d0b148fe25e99eb48b9724523833bab1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Delegates:
-  - eventID: 3
-    callback:
-      m_PersistentCalls:
-        m_Calls: []
-  - eventID: 1
-    callback:
-      m_PersistentCalls:
-        m_Calls: []
 --- !u!1 &1943720182
 GameObject:
   m_ObjectHideFlags: 0
@@ -4564,40 +4886,218 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   MonstersFolder: {fileID: 102900000, guid: 308a9106f71795d49b90a15e5dcfa164, type: 3}
   Monsters:
+  - {fileID: 2763581789729810477, guid: 7f594e767358bb14e9e73aab520894fa, type: 3}
+  - {fileID: 1423470163212545530, guid: f79cf179388609c4cb9eda26e18803d3, type: 3}
+  - {fileID: 8114846399977355648, guid: 044eb187d8da0d041930fc89bfbd9753, type: 3}
+  - {fileID: 8698162378941850352, guid: 403a668952bbf1b4abe7cddd77818aae, type: 3}
+  - {fileID: 8658290498142828913, guid: 92a36450e4e3e5848954818eb2941b15, type: 3}
+  - {fileID: 3680100307613250296, guid: 1630a3cdc1fba8641a3f07645663246a, type: 3}
+  - {fileID: 862331890488792565, guid: 7a00bcee877dfcc4a9be832ef88b6c0c, type: 3}
+  - {fileID: 3300963118170059965, guid: 19f30b09ad167404c8235a3261f09a18, type: 3}
+  - {fileID: 9183856356246293654, guid: c4de079c74bed7f4ab57a0f99dd7bf90, type: 3}
+  - {fileID: 9183856356246293654, guid: a0348727310c4b445a3e6a9530e71893, type: 3}
+  - {fileID: 3934031972970375000, guid: e3eddc37ccc1b03419ba416707f6bf21, type: 3}
+  - {fileID: 4410210566636767936, guid: b6f9f436b989ecc44ab41e0d599018d1, type: 3}
+  - {fileID: 250127699055009285, guid: e07aa905fdf60bb4abda585717573631, type: 3}
   - {fileID: 9183856356246293654, guid: 40b2d4ba354dd884c893708f4c791b4e, type: 3}
-  - {fileID: 5187275938958412380, guid: c6d39cb7ad014a6478e02b871f9c8baa, type: 3}
-  - {fileID: 5187275938958412380, guid: f5dc8befc7b4a794c9b36afb92497438, type: 3}
-  - {fileID: 5187275938958412380, guid: 2c5c81ee4ca370a48bc5b5d2b215729f, type: 3}
+  - {fileID: 5547210675029349458, guid: f4e4b549ee977d043a1a2d5ee999a5ae, type: 3}
+  - {fileID: 3300963118170059965, guid: 94d855cd30a54134f88efc35d8913d90, type: 3}
+  - {fileID: 8114846399977355648, guid: 9c87023afe2e5bb4fa1b19d8e44e591b, type: 3}
+  - {fileID: 2109458127471913869, guid: c054771b165a20048b67cb2f64b6d177, type: 3}
+  - {fileID: 2957953458598072761, guid: 7213b1b76c9fc06408f13f88ceed2837, type: 3}
+  - {fileID: 5684636669627360493, guid: aa8c61ee6146551438dde25366b589a3, type: 3}
+  - {fileID: 8316402779051580188, guid: 66d06955add7a4a43b42d57062b569ea, type: 3}
+  - {fileID: 8316402779051580188, guid: cfea51606fdcd5f48ab5bcebadf4717a, type: 3}
+  - {fileID: 5684636669627360493, guid: d1756faa7a52eab409ef106000b28405, type: 3}
+  - {fileID: 250127699055009285, guid: 92cd99af01cd005458fa6fb4080b48c7, type: 3}
+  - {fileID: 250127699055009285, guid: 0ac3d9222c32bec468778d18f0603860, type: 3}
+  - {fileID: 1423470163212545530, guid: d1064c9ceb15d7846a6f45db33c17870, type: 3}
+  - {fileID: 250127699055009285, guid: b8ed0a5acd3620a4880797b9941d64b6, type: 3}
+  - {fileID: 250127699055009285, guid: 7444c8d70b86fd84c8b6956b3e130bfa, type: 3}
+  - {fileID: 250127699055009285, guid: 882efb70f3ba0194cad0695302ae5810, type: 3}
+  - {fileID: 250127699055009285, guid: e929733112a256249a575ed7ae32b6d7, type: 3}
+  - {fileID: 8100061557448645864, guid: 03a135a300544204b950b1c2873315bd, type: 3}
+  - {fileID: 2355332028480303882, guid: 7e1b3c0a388ee024ba72a619d0b7eeb5, type: 3}
+  - {fileID: 8039191405876965164, guid: 25b36cfce0f250742b8f5e4123365058, type: 3}
+  - {fileID: 6059638886914052620, guid: add0a3215baeb2145bc050cd0393277f, type: 3}
+  - {fileID: 6056786917433583255, guid: de8d80497bbd72f43bf5f0d6208af89a, type: 3}
+  - {fileID: -6822827743895044903, guid: 6fc5a48f2ef554e48a47e8509c5f13bb, type: 3}
+  - {fileID: 8236259229623937013, guid: 5b34860206d891540abde6131e33f748, type: 3}
+  - {fileID: -533270001726576580, guid: f8b7bfa24b78e56478a87e26d66d4e58, type: 3}
+  - {fileID: -7683231144393236485, guid: e608815f0488e93439d0df6ce6a49a23, type: 3}
+  - {fileID: 5684636669627360493, guid: 790076bada949b041a1d6f86f6d53995, type: 3}
+  - {fileID: 5684636669627360493, guid: 698e2748641ae0f47a3d5e3dd06609e4, type: 3}
+  - {fileID: 250127699055009285, guid: 10b703a09b8106a44b1bdf7c1df0596d, type: 3}
+  - {fileID: 250127699055009285, guid: b4f6df04273dfca4e9fb12314709fcc6, type: 3}
+  - {fileID: 5684636669627360493, guid: bb53af76b39682941931e3d95dbae2c2, type: 3}
+  - {fileID: 5684636669627360493, guid: b9d32bdf7741c4e4f89c1b22a0e1077d, type: 3}
+  - {fileID: 250127699055009285, guid: 85f3e5a3ffc014b4b9e13b4ce3be4dec, type: 3}
+  - {fileID: 1568037293654493288, guid: 71342cf3bf3e3d0449e0728719bcef66, type: 3}
+  - {fileID: 250127699055009285, guid: ad29202c563f045489287cea7bf43fa1, type: 3}
+  - {fileID: 5684636669627360493, guid: 6bfd714c0cba44246ac50edff9504c3d, type: 3}
+  - {fileID: 250127699055009285, guid: 0feb8791e58a8ea428a6410cc627a1af, type: 3}
+  - {fileID: 250127699055009285, guid: 194feaacb5a009e4aaee5237665a3dfb, type: 3}
   - {fileID: 250127699055009285, guid: 475a5b0f6b85f1b4eb362ee18c21d662, type: 3}
   - {fileID: 250127699055009285, guid: b6ae8523ec8c42744882dfbfbf668780, type: 3}
   - {fileID: 250127699055009285, guid: 31e7b8b2354e4774b83c5cabdc211de6, type: 3}
+  - {fileID: 250127699055009285, guid: 8d075978ea8e22846805c02c86764e1b, type: 3}
+  - {fileID: 8114846399977355648, guid: 059fef02327668340a100237863df887, type: 3}
+  - {fileID: 250127699055009285, guid: bd1c014c98ebc804387043e65d43c177, type: 3}
+  - {fileID: 1423470163212545530, guid: 99e071b4b80df204999471650ea2b760, type: 3}
+  - {fileID: 862331890488792565, guid: 4b16dd11cac072d4a920f58a91f97e75, type: 3}
+  - {fileID: 250127699055009285, guid: dec989f69a977904190b28c5301c2055, type: 3}
+  - {fileID: 1423470163212545530, guid: a840026ad20d41440818b895b39707ff, type: 3}
   - {fileID: 9183856356246293654, guid: 0ebc033db61731344a66859701c6f742, type: 3}
+  - {fileID: 862331890488792565, guid: cf2c7328a3a9f7d40aa3ace693c80b3f, type: 3}
+  - {fileID: 6625635253080820059, guid: 4ee8f38519502ea439ae3ec17acb446f, type: 3}
   - {fileID: 2982329426573278269, guid: 21e8c5c3bb8ecd744a07343e22f60f39, type: 3}
+  - {fileID: 8114846399977355648, guid: b487ad8ac0812d94a8d7cb4ca5c83efb, type: 3}
+  - {fileID: 862331890488792565, guid: 4d138204baab94245bd8938d92fc57a8, type: 3}
+  - {fileID: 1423470163212545530, guid: 7a91a9dc27af68643b23b4792836e70a, type: 3}
+  - {fileID: 250127699055009285, guid: 9f99112b99139004daac4c959ca2c42b, type: 3}
+  - {fileID: 250127699055009285, guid: b1446fd2989fcc24592427da3f08f87e, type: 3}
+  - {fileID: 862331890488792565, guid: 16de629387cb14d479c9e67e98c57b1b, type: 3}
+  - {fileID: 250127699055009285, guid: 727ef3e6fdd20784ba705087d03f0e11, type: 3}
+  - {fileID: 1423470163212545530, guid: 70b02548e3036f046ab704c78e209223, type: 3}
   - {fileID: 9183856356246293654, guid: 55175cac81db0b840b009f05adc550f4, type: 3}
+  - {fileID: 7832694267886135896, guid: 5530a46c8551df34c9218023df0bc2fc, type: 3}
   - {fileID: 250127699055009285, guid: 4e0cb19341c5f0443a9f7948ea19e094, type: 3}
+  - {fileID: 1423470163212545530, guid: ec02b7cd956d5f742bcdee8e851dc580, type: 3}
+  - {fileID: 7398031289008667094, guid: e5c9f334a93080c4e991ecf88b8c7b31, type: 3}
   - {fileID: 9183856356246293654, guid: bfbfc700301867440bee99cc6798e383, type: 3}
+  - {fileID: 6625635253080820059, guid: dc5e6f855a508c545a23fca60af62599, type: 3}
+  - {fileID: 7811984558119567278, guid: a1217f8e44f283846b49dc2136c3b1e9, type: 3}
   - {fileID: 2982329426573278269, guid: 1d36b9860c58c7c4fb05366fe6919435, type: 3}
   - {fileID: 9183856356246293654, guid: 0f8a665ec014cd141bd1248fdcbd8707, type: 3}
+  - {fileID: 1423470163212545530, guid: 4c10f2b3e268ea3488bf74b71707c68e, type: 3}
+  - {fileID: 8316402779051580188, guid: 17604d0d3ebe43444b280559823d67af, type: 3}
+  - {fileID: 250127699055009285, guid: 8e704b9ffa219104595b7433bfcc1bd0, type: 3}
+  - {fileID: 250127699055009285, guid: 9a843c02ea378b5479a1f1b2cc4f44df, type: 3}
   - {fileID: 9183856356246293654, guid: 29280978c070aae4ea4a8e0bad4ddb63, type: 3}
   - {fileID: 250127699055009285, guid: 49c0be2dc37a3614193237cb24874137, type: 3}
+  - {fileID: 6625635253080820059, guid: 94f08a13c1ab6ac4eac3e3e8cb01a241, type: 3}
   - {fileID: 2982329426573278269, guid: d438b2ea7813513439d1c9b7b95406ba, type: 3}
+  - {fileID: 250127699055009285, guid: 2b5371ce0e89b0544941743176d63e14, type: 3}
+  - {fileID: 8114846399977355648, guid: 76a5680e066f7704287e9f2207a2538c, type: 3}
+  - {fileID: 4785028648932052182, guid: 4c12c8cb366c93146aa6a0328cf31fb8, type: 3}
+  - {fileID: 3541412701701407251, guid: 82f610a232827294a906897fce784aa2, type: 3}
+  - {fileID: 250127699055009285, guid: 2a4a4c054d7b22c468007cc1b9e9059a, type: 3}
+  - {fileID: 250127699055009285, guid: d05f7d07896627249972b06bb47f5aa3, type: 3}
+  - {fileID: 5684636669627360493, guid: 917c62cb18828b74f9d5b1adba8a411c, type: 3}
   - {fileID: 250127699055009285, guid: 1a27185bb41c59548a7c88af48ebd9eb, type: 3}
+  - {fileID: 5126827422629781495, guid: 28d69da654f6ed240b954c2cd333534d, type: 3}
+  - {fileID: 3300963118170059965, guid: 8e4f5e35359bdf9499de69001cbfe107, type: 3}
+  - {fileID: 250127699055009285, guid: 6c283dae0b9a87f43b7c19f7fb8461ed, type: 3}
   - {fileID: 5187275938958412380, guid: 98ac605616486aa49a99f47057955c02, type: 3}
   - {fileID: 5187275938958412380, guid: 061ac5f07f42e7944b5a97479df8e1cb, type: 3}
   - {fileID: 5187275938958412380, guid: b280d41d4f68d434ba8292a60a049b25, type: 3}
+  - {fileID: 8114846399977355648, guid: c9566ce2769316642952658333734a33, type: 3}
+  - {fileID: 250127699055009285, guid: a62b250ac02770349b6765791549fbcf, type: 3}
+  - {fileID: 754257192235691051, guid: 1e32bb18f8a8d3e4dbc03b1c38c0bcc9, type: 3}
+  - {fileID: 5094427475429726099, guid: 4c6144087115b4442aef3c47b5797403, type: 3}
+  - {fileID: 5684636669627360493, guid: 619586f8135ac564a84506d20ca18a8c, type: 3}
   - {fileID: 250127699055009285, guid: 17cf7516b7d4cba40a92b4e9e12291a9, type: 3}
+  - {fileID: 6625635253080820059, guid: 08a1218b91893164cb45b6ae52cad774, type: 3}
+  - {fileID: 6625635253080820059, guid: 8173632f37a3c2f49813771b0e40f21a, type: 3}
   - {fileID: 2982329426573278269, guid: 01ea49d450292dd4180c81145e6a4991, type: 3}
   - {fileID: 2982329426573278269, guid: 35947a0c73836514b9f5990adef59f8a, type: 3}
-  - {fileID: 5187275938958412380, guid: 749616fda06b02f46b817b34bf8ddb62, type: 3}
-  - {fileID: 5187275938958412380, guid: 9b0d966d482d37847a0644763cb83376, type: 3}
-  - {fileID: 5187275938958412380, guid: 7e010d2492d0c8f4dafff582de7021c4, type: 3}
+  - {fileID: 6243727923566617607, guid: 2b05bf5a785c389449bbfc9dca2bbcd5, type: 3}
+  - {fileID: 8114846399977355648, guid: c1a37b9d9a5b4a344b698ed79bf02658, type: 3}
+  - {fileID: 4410210566636767936, guid: 0b0656b4f1f318f42ac02ac03752e701, type: 3}
   - {fileID: 5187275938958412380, guid: 8e040e62fd43175428e9d2a465b8128e, type: 3}
   - {fileID: 5187275938958412380, guid: 66dcf630c6a8f384792486d035428b09, type: 3}
   - {fileID: 5187275938958412380, guid: 3924f666eae26fc40a47bfc7b894db6d, type: 3}
+  - {fileID: 862331890488792565, guid: ff3197dfbdd49e1478902b7756ef4b18, type: 3}
+  - {fileID: 250127699055009285, guid: a139ab6667d84364bac03cf4bfac1845, type: 3}
+  - {fileID: 6625635253080820059, guid: d16ad5f534986d545bcca537ad55e6ce, type: 3}
   - {fileID: 2982329426573278269, guid: 476f13751f4e953438e742d92f94d8af, type: 3}
+  - {fileID: 5684636669627360493, guid: b87f24ea4d5505744b6b5c06711b445f, type: 3}
+  - {fileID: 5684636669627360493, guid: 07e94021373aa6d41acb72a62a1bc853, type: 3}
+  - {fileID: 250127699055009285, guid: 7d99cf9fd545bf4428ede5261ad02c1d, type: 3}
+  - {fileID: 250127699055009285, guid: e8cdf896591e1b54691320d947658554, type: 3}
+  - {fileID: 6632204516172126118, guid: 03a8303bef013684d9bc6236e00897e6, type: 3}
+  - {fileID: 250127699055009285, guid: dce772e443df16443a5103f9fa7d1567, type: 3}
+  - {fileID: 250127699055009285, guid: 47aaeecc281ccf2499647b3aaa06d458, type: 3}
+  - {fileID: 250127699055009285, guid: 9d09049f754c1fe45ac08e262f720bac, type: 3}
+  - {fileID: 250127699055009285, guid: f5203f100dd6e9f4ead42d771c4f345d, type: 3}
+  - {fileID: 3300963118170059965, guid: 0f292f531def56943822f89b03a73aca, type: 3}
+  - {fileID: 1423470163212545530, guid: e3e7eae90968cc846a9f7890ee022d0a, type: 3}
+  - {fileID: 1423470163212545530, guid: bd9363e1e97cb2e499e18d39f56fd156, type: 3}
+  - {fileID: 8316402779051580188, guid: c5d243e3b47d4c840a281b7f47cd9480, type: 3}
+  - {fileID: 250127699055009285, guid: b4673b278c49c434dbdaf5783405a4c9, type: 3}
+  - {fileID: 250127699055009285, guid: aeda42e2e1d524241b9f0b6f06652de3, type: 3}
+  - {fileID: 1423470163212545530, guid: 028d7e906bfe57b4a83e6d7373880785, type: 3}
+  - {fileID: 3046587559266849723, guid: 2f743aaed25d2db479943c51cc052e35, type: 3}
+  - {fileID: 948499981450828563, guid: 4bc0ecd8bd4aeaf49b9e699d7963996d, type: 3}
+  - {fileID: 6052795445942342182, guid: 200031dc208b67041a18eda3f9b0241a, type: 3}
+  - {fileID: 2953802163180528389, guid: fb771d4b40e5f3748b6d6d9372e10376, type: 3}
+  - {fileID: 2749437866018321046, guid: 2f3a65e7bf1a1ac498fa3ec1e55aa0b4, type: 3}
+  - {fileID: 2475146064235465528, guid: b269564598026e348ac4750be7d611cc, type: 3}
+  - {fileID: 1423470163212545530, guid: f7f6c3f289adff041b1bf1e3b6bed6e7, type: 3}
+  - {fileID: 250127699055009285, guid: 0dd5eb7ecd7cd994b9ec1c4a6501b9bc, type: 3}
   - {fileID: 9183856356246293654, guid: 2b1d198eb110e124b9aafe910a05fbed, type: 3}
+  - {fileID: 5684636669627360493, guid: ac2e4c7f5e3d2b043b8d022b8bc6cc5a, type: 3}
+  - {fileID: 250127699055009285, guid: fcbb30a5d82076347ab96cc79b3361b3, type: 3}
+  - {fileID: 250127699055009285, guid: dc6b020691b43d7488cb75be6d797a89, type: 3}
+  - {fileID: 250127699055009285, guid: c830dfed47304bb40b15a4b5cb03625e, type: 3}
+  - {fileID: 250127699055009285, guid: 2bf13e0662774d842b999aff406f9fbf, type: 3}
+  - {fileID: 9116145685030658894, guid: 4a50689a431dcea4ba16e1209d79cd42, type: 3}
+  - {fileID: 2874636580537943765, guid: c5b2720527df6f1418ac035eab76d347, type: 3}
   - {fileID: 9183856356246293654, guid: 57a8dc0c00f258a458f0824774ceb5e1, type: 3}
+  - {fileID: 5375758089893951960, guid: 8b82967e7676d0341818617cd28bf306, type: 3}
+  - {fileID: 8632144926040512741, guid: 43b9c65917c83e6488f8afd714c0cdbe, type: 3}
+  - {fileID: 4110763748647775648, guid: 958d885750f8cc640a306692cc1adb3a, type: 3}
+  - {fileID: 8114846399977355648, guid: 70217a3338307de468d817d15f55e7e8, type: 3}
+  - {fileID: 1423470163212545530, guid: 569bf686b00610f4aa321ccc58614d7b, type: 3}
+  - {fileID: 8316402779051580188, guid: fd3be1810dbc8cc48a33680193f89d40, type: 3}
+  - {fileID: 8114846399977355648, guid: 2cb3e23dc4af48d4395408932f7b9926, type: 3}
+  - {fileID: 3300963118170059965, guid: 88c1f3a6887070b44a43dda5ed7399b9, type: 3}
+  - {fileID: 663748851386281061, guid: 23f3becf76975744199a2ef07c90cefb, type: 3}
+  - {fileID: 5684636669627360493, guid: 48fb138254009d848982b13be4abef85, type: 3}
+  - {fileID: 5684636669627360493, guid: 5e0fe1c4dd464c445990a30d213da82b, type: 3}
+  - {fileID: 1423470163212545530, guid: a08cc9e27cf78724884e3246e2127a8b, type: 3}
+  - {fileID: 250127699055009285, guid: 202a64aca3ce5744d9842f460b8f59ed, type: 3}
+  - {fileID: 250127699055009285, guid: 96818ddc3a3466f4dab442e6f9c5bdd8, type: 3}
+  - {fileID: 8950330082721092712, guid: cdf75e8647186294dab393cd61a663eb, type: 3}
+  - {fileID: 8114846399977355648, guid: ff63f59b68c19bb4581b0ae8d028ce26, type: 3}
+  - {fileID: 5684636669627360493, guid: de79d9226946d6140bb85bb9df9f4953, type: 3}
+  - {fileID: 250127699055009285, guid: ef6096ab92763a14eb637dad8485f291, type: 3}
+  - {fileID: 250127699055009285, guid: 0383fc7f39508fe48ac5c4be9c22e205, type: 3}
+  - {fileID: 3572138991671929388, guid: 7bde38f5499d87046b4bb1652a5f2ec6, type: 3}
+  - {fileID: 250127699055009285, guid: fa14c2aa87ca6ce4faae8caeabcc77f1, type: 3}
+  - {fileID: 2051397215231809351, guid: 72cb3dbf3b2310c499daffff1f163f26, type: 3}
+  - {fileID: 8316402779051580188, guid: 602614b1478c4d84e9be0e55d47f6816, type: 3}
+  - {fileID: 250127699055009285, guid: befa55ea1b8f8d04e989ec8017bb8281, type: 3}
+  - {fileID: 3300963118170059965, guid: e031565d9a5a1f1479cd8d5331c35920, type: 3}
+  - {fileID: 250127699055009285, guid: d531a53a5c399684cb93385dad41fe7f, type: 3}
+  - {fileID: 972838389492323249, guid: 2fc1056111f094346959ab81586a0681, type: 3}
+  - {fileID: 8114846399977355648, guid: adef4ca0b16e83741b1110b824a02a12, type: 3}
+  - {fileID: 250127699055009285, guid: 13c8d084bda939e44ad19967dbedeeea, type: 3}
+  - {fileID: 1423470163212545530, guid: 2473815fed4abc44582e86f2af87f4e7, type: 3}
+  - {fileID: 6625635253080820059, guid: 3dee80a172c8efd4cb7d695fea57742b, type: 3}
   - {fileID: 2982329426573278269, guid: 7974b5b6a08fe72439c3314f312bae76, type: 3}
+  - {fileID: 3262762749566779890, guid: d5beda1937ed44d46abb6cbc0641d432, type: 3}
+  - {fileID: 862331890488792565, guid: a19d67483ac7cc342a3f73356bf26a0c, type: 3}
+  - {fileID: 250127699055009285, guid: fea6bde0a78eadf459b05701d9fa5369, type: 3}
+  - {fileID: 6124173786197565268, guid: ac85fca3a0da57341a2726b3152c8574, type: 3}
+  - {fileID: 3300963118170059965, guid: 08a2b9609e4295145bff3ffe38472b0e, type: 3}
+  - {fileID: 250127699055009285, guid: d51a7d3396b416b47bf1306a817d495b, type: 3}
+  - {fileID: 1423470163212545530, guid: 112306b97b015ba4c87ece5d14c48895, type: 3}
+  - {fileID: 8953232122567672464, guid: 282311ee26b6de044a68757010750e7a, type: 3}
+  - {fileID: 9183856356246293654, guid: c5e1680bf27e1254bbcb1e3fc6b10efe, type: 3}
+  - {fileID: 948499981450828563, guid: 49847455b5c20eb45bea84e3aa6ce8b8, type: 3}
+  - {fileID: 250127699055009285, guid: bec986bb8d064c84b9f9401668eef940, type: 3}
+  - {fileID: 3262762749566779890, guid: 8e755ee11c677e241946f9fff2f8a669, type: 3}
+  - {fileID: 3300963118170059965, guid: cb7da61e81da9b844b0bcd40823a947a, type: 3}
+  - {fileID: 3300963118170059965, guid: 642c21bd4c29e844094aec33298b18e8, type: 3}
+  - {fileID: 250127699055009285, guid: 9be81215ad29f7f438264e4851dac964, type: 3}
+  - {fileID: 250127699055009285, guid: 1858933b0072d6d4c92be270f75f4ec5, type: 3}
+  - {fileID: 250127699055009285, guid: d34deef9f0d74034d88179e7458d3ca2, type: 3}
+  - {fileID: 250127699055009285, guid: 9432806e1cef7034cb2a15a8fd78716e, type: 3}
+  - {fileID: 8114846399977355648, guid: d50796fa6b8c8e3479105f20a3420db6, type: 3}
+  - {fileID: 8410221302009789785, guid: 0b858de3a730cac418dae86588a72a69, type: 3}
+  - {fileID: 8114846399977355648, guid: 9be744b01c1e1dc4eab7c92ddb88b7eb, type: 3}
+  - {fileID: 8114846399977355648, guid: 75efbf0dc7b1507409f8a235d2619b07, type: 3}
   - {fileID: 9183856356246293654, guid: 0ea6841f78f229d4e946b9e673b7e6e3, type: 3}
   - {fileID: 9183856356246293654, guid: b0aeff15fc8333746a4969fe39644d43, type: 3}
   - {fileID: 9183856356246293654, guid: 0f667b9874ef7874e9844b1b94292389, type: 3}
@@ -4608,7 +5108,12 @@ MonoBehaviour:
   - {fileID: 9183856356246293654, guid: 71bf45f5ed386344a9969c47162de7ae, type: 3}
   - {fileID: 9183856356246293654, guid: 1ecd923e2bad8234d85cd9aa63da02d1, type: 3}
   - {fileID: 9183856356246293654, guid: f2a652f7a5575e347be6617346863b44, type: 3}
-  SelectedMonster: {fileID: 1467786250}
+  - {fileID: 9141788361851681371, guid: 4e5a63a49b1983243af5e3303bd72ec8, type: 3}
+  - {fileID: 3929377858641295838, guid: cb6da5d9da72fef4fb67fc1e1dde7b2b, type: 3}
+  - {fileID: 5428162546760226812, guid: 7b196b72f1da102499c35c15a46a6a58, type: 3}
+  - {fileID: 1796656810633512379, guid: 437ee9a127a754a43b42458438374152, type: 3}
+  - {fileID: 250127699055009285, guid: 8a4bb90ee871d4f46ab03692b617c9ce, type: 3}
+  SelectedMonster: {fileID: 1332364859}
   MonstersDropdown: {fileID: 1895976658}
 --- !u!4 &2071615380
 Transform:
