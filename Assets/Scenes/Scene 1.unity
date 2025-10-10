@@ -5709,7 +5709,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5276995599669284400, guid: d411c8e4d519878449e2a29726f47847, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2113385500}
   m_SourcePrefab: {fileID: 100100000, guid: d411c8e4d519878449e2a29726f47847, type: 3}
 --- !u!1 &606522932
 GameObject:
@@ -18945,7 +18948,7 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 5088931284346379001, guid: d411c8e4d519878449e2a29726f47847, type: 3}
   m_PrefabInstance: {fileID: 600658043}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
+  m_GameObject: {fileID: 2113385487}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b7cc7f4f36ce0d84d93b5f326cd25de0, type: 3}
@@ -18956,7 +18959,7 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 6807803962567380591, guid: d411c8e4d519878449e2a29726f47847, type: 3}
   m_PrefabInstance: {fileID: 600658043}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
+  m_GameObject: {fileID: 2113385487}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c1008d9af3d5148419e14677fa2f72ed, type: 3}
@@ -20737,6 +20740,24 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 99e5de9fb19399c459f14db9dbae5add, type: 3}
+--- !u!1 &2113385487 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5276995599669284400, guid: d411c8e4d519878449e2a29726f47847, type: 3}
+  m_PrefabInstance: {fileID: 600658043}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2113385500
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2113385487}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a59a6995eaf5ecc41afbc2a514c64797, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHP: 100
 --- !u!1 &2114447323
 GameObject:
   m_ObjectHideFlags: 0

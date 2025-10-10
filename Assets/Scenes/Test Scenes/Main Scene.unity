@@ -606,7 +606,7 @@ Camera:
   far clip plane: 1000
   field of view: 34
   orthographic: 1
-  orthographic size: 17.125
+  orthographic size: 11.25
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -631,7 +631,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 59.59931, y: 5.49648, z: -11.984954}
+  m_LocalPosition: {x: 81.51335, y: 29.238136, z: -11.984954}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2520,7 +2520,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f13461c49f133b745bdbd5cbf0e14054, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _isTimeStopped: 0
 --- !u!4 &1215272650
 Transform:
   m_ObjectHideFlags: 0
@@ -3271,8 +3270,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bb62efb29fb3484c898e78aa514a520, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  duration: 3
-  activateKey: 113
 --- !u!4 &1520540720 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4702629660427719542, guid: dabe2c823bbefcb448fb406e1122bf2f, type: 3}
@@ -20624,3 +20621,6 @@ SceneRoots:
   - {fileID: 1435477068}
   - {fileID: 1324529429}
   - {fileID: 1215272650}
+  - {fileID: 1453282140}
+  - {fileID: 1071621828}
+  - {fileID: 188315598}
