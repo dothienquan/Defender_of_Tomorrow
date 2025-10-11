@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 57f75dd888da6ae4fa9bd871bb4def55
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255717
+  packageName: 2D Platformer Dark Forest
+  packageVersion: 1.0
+  assetPath: Assets/BluBlu/Animations/fogg.anim
+  uploadId: 596322

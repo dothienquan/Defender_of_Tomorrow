@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7cfc3428d9c20594785da7e8a263f9a0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255717
+  packageName: 2D Platformer Dark Forest
+  packageVersion: 1.0
+  assetPath: Assets/BluBlu/Prefabs/glowing bush.prefab
+  uploadId: 596322
