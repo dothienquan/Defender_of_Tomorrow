@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6221de349471bda439c4258a7c1f8e18, type: 3}
+  m_Name: Quest
+  m_EditorClassIdentifier: 
+  questID: 43e8844a-8232-448c-ab94-a181ef7676ea
+  questName: "Quan s\xE1t xung quanh"
+  description: "M\u1EDF kh\xF3a d\u1EF1a v\xE0o m\u1EADt m\xE3 tr\xEAn c\xE1c phi\u1EBFn
+    \u0111\xE1."
+  objectives: []
