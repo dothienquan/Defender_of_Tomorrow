@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Spear-Shield Raider
+  m_Controller: {fileID: 9100000, guid: 33126f0a774990b4c8724f54c0614a22, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: e2867313ada39864e827ff820dc68440, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6d83af36f39824b62a07d2fdd57f1a64, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 042692c6b76ee42aeaf6871c522f02c6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 93fb5a812112c444b80266aa2ceb66fd, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e1423bf1fe8ac4fab813c77d4f6533c7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9a6f655489b5f4d52921d3f8ef0147f5, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: def586489612a42cfb6ccfa174305cd9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5839f4f68a064455c81fa797218771f6, type: 2}
