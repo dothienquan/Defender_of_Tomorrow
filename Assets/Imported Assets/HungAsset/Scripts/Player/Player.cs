@@ -260,7 +260,7 @@ public class Player : MonoBehaviour {
                                 slide = 0f; //Reset slide button press
                             }
                             else if (!sliding) {
-                                if (player_rigidbody2d.linearVelocity.magnitude != 0f) {
+                                if (player_rigidbody2d.linearVelocity.magnitude >= 0.01f) {
                                     player_animator.SetInteger("AnimState", 1);
                                 }
                                 else {

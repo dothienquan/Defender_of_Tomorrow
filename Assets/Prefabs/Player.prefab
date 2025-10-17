@@ -122,7 +122,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 100
-  m_Sprite: {fileID: 9128384846270689552, guid: 3126f8b01d170654bacbfd377bd82911, type: 3}
+  m_Sprite: {fileID: 9128384846270689552, guid: 3126f8b01d170654bacbfd377bd82911,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -282,7 +283,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c442af7d51b522c4b858342cbc9427e7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  interactAction: {fileID: 1781555164194001046, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  interactAction: {fileID: 1781555164194001046, guid: 2bcd2660ca9b64942af0de543d8d7100,
+    type: 3}
   promptUI: {fileID: 0}
 --- !u!114 &4486776840934688966
 MonoBehaviour:
@@ -302,7 +304,7 @@ MonoBehaviour:
   groundCheckRadius: 0.2
   groundLayer:
     serializedVersion: 2
-    m_Bits: 64
+    m_Bits: 0
   speedDampTime: 0.1
 --- !u!114 &6807803962567380591
 MonoBehaviour:
@@ -368,7 +370,8 @@ MonoBehaviour:
   spawnTimeNormalized: 0.35
   castCooldown: 0.2
   firePoint: {fileID: 5609984329200130084}
-  fireballPrefab: {fileID: 8853830610766208811, guid: ee11c6f9feef6da46be386aee24e08c5, type: 3}
+  fireballPrefab: {fileID: 8853830610766208811, guid: ee11c6f9feef6da46be386aee24e08c5,
+    type: 3}
   facingParam: Facing
   actionParam: Action
   castKey: 101
@@ -386,7 +389,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   castKey: 113
-  pillarPrefab: {fileID: 4060661301189262116, guid: 7ce22b013c40f0c4aaaded99e286ff36, type: 3}
+  pillarPrefab: {fileID: 4060661301189262116, guid: 7ce22b013c40f0c4aaaded99e286ff36,
+    type: 3}
   spawnOrigin: {fileID: 5609984329200130084}
   forwardSpacing: 1.5
   pillarCount: 3
@@ -407,7 +411,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   castKey: 118
-  zonePrefab: {fileID: 2181062109512601200, guid: f32d6a9899e352a48b25b85bf1426e2b, type: 3}
+  zonePrefab: {fileID: 2181062109512601200, guid: f32d6a9899e352a48b25b85bf1426e2b,
+    type: 3}
   spawnOrigin: {fileID: 2353492565277296078}
   castDistance: 3
   playerAnimator: {fileID: 1080650154027720160}
