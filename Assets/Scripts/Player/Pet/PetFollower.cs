@@ -7,13 +7,17 @@ public class PetFollower : MonoBehaviour
     [SerializeField] Transform player;
 
     [Header("Follow Settings")]
-    [SerializeField] float smoothTime = 0.25f;     
+    [SerializeField] float smoothTime = 0.25f;
     [SerializeField] float floatAmplitude = 0.3f;
     [SerializeField] float floatSpeed = 2f;
     [SerializeField] Vector2 offset = new Vector2(1f, 1f);
 
     [Header("Random Motion")]
     [SerializeField] float randomRadius = 0.3f;
+
+    [Header("VFX")]
+    [SerializeField] ParticleSystem trailVFX;        // normal looping VFX that follows pet
+    [SerializeField] ParticleSystem startMoveVFX;    // burst when movement starts
 
     [Header("Flip Settings")]
     [SerializeField] bool flipWithPlayer = true;
@@ -22,6 +26,7 @@ public class PetFollower : MonoBehaviour
     private Vector3 velocity;
     private Vector3 baseOffset;
     private Vector3 lastPlayerPos;
+    private Vector3 lastTargetPos;
     private float floatTimer;
     private bool isFacingLeft;
 
@@ -29,7 +34,7 @@ public class PetFollower : MonoBehaviour
     {
         if (player == null)
         {
-            Debug.LogWarning("PetFollower2D: No player assigned!");
+            Debug.LogWarning("PetFollower: No player assigned!");
             enabled = false;
             return;
         }
@@ -39,7 +44,12 @@ public class PetFollower : MonoBehaviour
 
         baseOffset = offset;
         lastPlayerPos = player.position;
+        lastTargetPos = transform.position;
         StartFloating();
+
+        // start looping trail effect
+        if (trailVFX != null && !trailVFX.isPlaying)
+            trailVFX.Play();
     }
 
     void Update()
@@ -62,16 +72,26 @@ public class PetFollower : MonoBehaviour
             lastPlayerPos = player.position;
         }
 
-        // Floating and smooth follow
+        // Floating effect
         floatTimer += Time.deltaTime * floatSpeed;
         Vector3 floatOffset = Vector3.up * Mathf.Sin(floatTimer) * floatAmplitude;
 
+        // Calculate target position
         Vector3 targetPos = player.position
                             + (Vector3)offset
                             + floatOffset
                             + (Vector3)Random.insideUnitCircle * randomRadius * 0.05f;
 
-        // Smoothly move toward target
+        // Detect new movement -> play startMoveVFX
+        if ((targetPos - lastTargetPos).sqrMagnitude > 0.05f)
+        {
+            if (startMoveVFX != null)
+                startMoveVFX.Play();
+
+            lastTargetPos = targetPos;
+        }
+
+        // Smooth follow
         transform.position = Vector3.SmoothDamp(transform.position, targetPos, ref velocity, smoothTime);
     }
 
