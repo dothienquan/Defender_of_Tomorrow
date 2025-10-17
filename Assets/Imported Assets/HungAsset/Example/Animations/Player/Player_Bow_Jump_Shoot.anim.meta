@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3c0b5ed666d2b064582fed1529a8a9a1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200714
+  packageName: 2D Action Platformer Game System
+  packageVersion: 1.1.9
+  assetPath: Assets/[2DAPGS]/Example/Animations/Player/Player_Bow_Jump_Shoot.anim
+  uploadId: 599068

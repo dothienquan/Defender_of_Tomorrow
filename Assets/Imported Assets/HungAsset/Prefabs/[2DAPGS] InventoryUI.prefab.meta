@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 55c716eb6ded8474db8f02070dfe4e91
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200714
+  packageName: 2D Action Platformer Game System
+  packageVersion: 1.1.9
+  assetPath: Assets/[2DAPGS]/Prefabs/[2DAPGS] InventoryUI.prefab
+  uploadId: 599068

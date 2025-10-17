@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7eab90a423121ea44ad1f21f006b3206
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 6200000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200714
+  packageName: 2D Action Platformer Game System
+  packageVersion: 1.1.9
+  assetPath: Assets/[2DAPGS]/Example/Materials/PlayerNoFrictionMaterial.physicsMaterial2D
+  uploadId: 599068

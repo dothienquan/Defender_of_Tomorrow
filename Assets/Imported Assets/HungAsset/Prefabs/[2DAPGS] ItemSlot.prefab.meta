@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5f92f512189adbf418bca4de333cfb50
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200714
+  packageName: 2D Action Platformer Game System
+  packageVersion: 1.1.9
+  assetPath: Assets/[2DAPGS]/Prefabs/[2DAPGS] ItemSlot.prefab
+  uploadId: 599068

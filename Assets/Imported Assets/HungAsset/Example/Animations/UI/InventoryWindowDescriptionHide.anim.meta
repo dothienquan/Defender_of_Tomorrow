@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ad368ed313228fc42891dd07285b89f8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200714
+  packageName: 2D Action Platformer Game System
+  packageVersion: 1.1.9
+  assetPath: Assets/[2DAPGS]/Example/Animations/UI/InventoryWindowDescriptionHide.anim
+  uploadId: 599068

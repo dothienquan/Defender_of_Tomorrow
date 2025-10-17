@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6a7fcdc98cdd582488bc569ebd596eb7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200714
+  packageName: 2D Action Platformer Game System
+  packageVersion: 1.1.9
+  assetPath: Assets/[2DAPGS]/Example/Prefabs/Enemies/[2DAPGS] Enemy_Mushroom.prefab
+  uploadId: 599068

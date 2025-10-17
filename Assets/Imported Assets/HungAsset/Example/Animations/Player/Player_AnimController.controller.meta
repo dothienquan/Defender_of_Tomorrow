@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b95265f99b6d90e438df1308a89c8bab
+timeCreated: 1514705461
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200714
+  packageName: 2D Action Platformer Game System
+  packageVersion: 1.1.9
+  assetPath: Assets/[2DAPGS]/Example/Animations/Player/Player_AnimController.controller
+  uploadId: 599068

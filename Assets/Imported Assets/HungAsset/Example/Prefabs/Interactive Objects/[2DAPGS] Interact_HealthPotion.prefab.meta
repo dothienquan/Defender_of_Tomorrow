@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bd1d312f99480744caad2b93b0ce8bd5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200714
+  packageName: 2D Action Platformer Game System
+  packageVersion: 1.1.9
+  assetPath: Assets/[2DAPGS]/Example/Prefabs/Interactive Objects/[2DAPGS] Interact_HealthPotion.prefab
+  uploadId: 599068

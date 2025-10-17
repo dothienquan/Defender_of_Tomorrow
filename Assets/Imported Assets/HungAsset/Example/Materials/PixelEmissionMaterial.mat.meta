@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1a80bf3db24d66c4ca18edaad0c6917c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200714
+  packageName: 2D Action Platformer Game System
+  packageVersion: 1.1.9
+  assetPath: Assets/[2DAPGS]/Example/Materials/PixelEmissionMaterial.mat
+  uploadId: 599068

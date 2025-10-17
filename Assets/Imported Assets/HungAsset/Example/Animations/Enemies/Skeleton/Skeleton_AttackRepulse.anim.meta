@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2c63f448dcae06f4cadb864f4782e283
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200714
+  packageName: 2D Action Platformer Game System
+  packageVersion: 1.1.9
+  assetPath: Assets/[2DAPGS]/Example/Animations/Enemies/Skeleton/Skeleton_AttackRepulse.anim
+  uploadId: 599068

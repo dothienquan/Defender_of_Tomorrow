@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ed9c3040915a24d44825559d10025a05
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200714
+  packageName: 2D Action Platformer Game System
+  packageVersion: 1.1.9
+  assetPath: Assets/[2DAPGS]/Example/Art/Tiles and Palettes/Tiles/tiles_212.asset
+  uploadId: 599068

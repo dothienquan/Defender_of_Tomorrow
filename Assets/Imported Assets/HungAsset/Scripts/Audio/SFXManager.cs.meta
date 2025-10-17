@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5bd7de7d9a45e2f4fb704f79663e3a86
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200714
+  packageName: 2D Action Platformer Game System
+  packageVersion: 1.1.9
+  assetPath: Assets/[2DAPGS]/Scripts/Audio/SFXManager.cs
+  uploadId: 599068

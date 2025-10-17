@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 72fc7ab6e583bdd4bb0e478960fd00af
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200714
+  packageName: 2D Action Platformer Game System
+  packageVersion: 1.1.9
+  assetPath: Assets/[2DAPGS]/Example/Animations/Enemies/Goblin/Goblin_Die.anim
+  uploadId: 599068

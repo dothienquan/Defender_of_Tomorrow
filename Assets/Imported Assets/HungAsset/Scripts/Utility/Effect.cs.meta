@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 33c6b0de5b6e1e64e97b4ace728cc09a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200714
+  packageName: 2D Action Platformer Game System
+  packageVersion: 1.1.9
+  assetPath: Assets/[2DAPGS]/Scripts/Utility/Effect.cs
+  uploadId: 599068

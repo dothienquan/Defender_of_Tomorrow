@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5ebd92ec0147c7d4dac5630b51456c5f
+timeCreated: 1514705461
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200714
+  packageName: 2D Action Platformer Game System
+  packageVersion: 1.1.9
+  assetPath: Assets/[2DAPGS]/Example/Animations/Player/Player_Idle.anim
+  uploadId: 599068
