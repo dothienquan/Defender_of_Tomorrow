@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f2520a1a4195f35408174a5e4c152629
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200714
+  packageName: 2D Action Platformer Game System
+  packageVersion: 1.1.9
+  assetPath: Assets/[2DAPGS]/Example/Animations/Enemies/Mushroom/Mushroom_Run.anim
+  uploadId: 599068

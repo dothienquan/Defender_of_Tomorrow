@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: deebfc1bed5345f4b8e14541fd900e52
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200714
+  packageName: 2D Action Platformer Game System
+  packageVersion: 1.1.9
+  assetPath: Assets/[2DAPGS]/Example/Art/WaterTest.renderTexture
+  uploadId: 599068

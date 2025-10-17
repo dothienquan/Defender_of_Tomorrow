@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a71a562afe49bc74c8feb8692a00134b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200714
+  packageName: 2D Action Platformer Game System
+  packageVersion: 1.1.9
+  assetPath: Assets/[2DAPGS]/Example/Prefabs/Enemies/[2DAPGS] Enemy_Goblin.prefab
+  uploadId: 599068

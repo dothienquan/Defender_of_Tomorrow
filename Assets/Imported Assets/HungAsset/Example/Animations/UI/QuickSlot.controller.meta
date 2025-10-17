@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1e23978d9f13893489cd05dda1db9cc6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200714
+  packageName: 2D Action Platformer Game System
+  packageVersion: 1.1.9
+  assetPath: Assets/[2DAPGS]/Example/Animations/UI/QuickSlot.controller
+  uploadId: 599068

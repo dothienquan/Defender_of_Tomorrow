@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ff0c2c29ec1a60d46be7ded63464f2c2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200714
+  packageName: 2D Action Platformer Game System
+  packageVersion: 1.1.9
+  assetPath: Assets/[2DAPGS]/Scripts/Utility/OnColliderOrTriggerEvent.cs
+  uploadId: 599068

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d21a840b7d999e045b9c54c946790c40
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200714
+  packageName: 2D Action Platformer Game System
+  packageVersion: 1.1.9
+  assetPath: Assets/[2DAPGS]/Example/Animations/Player/Player_DoubleJump.anim
+  uploadId: 599068

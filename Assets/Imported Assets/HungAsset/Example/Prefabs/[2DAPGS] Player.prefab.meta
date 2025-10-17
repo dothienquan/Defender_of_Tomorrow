@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 36ccadf8843644048a2fdd16f30554cd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200714
+  packageName: 2D Action Platformer Game System
+  packageVersion: 1.1.9
+  assetPath: Assets/[2DAPGS]/Example/Prefabs/[2DAPGS] Player.prefab
+  uploadId: 599068

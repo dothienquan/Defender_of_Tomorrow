@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 907691b4e224fca43a29cf64e22ca029
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200714
+  packageName: 2D Action Platformer Game System
+  packageVersion: 1.1.9
+  assetPath: Assets/[2DAPGS]/Prefabs/[2DAPGS] SoundManager.prefab
+  uploadId: 599068

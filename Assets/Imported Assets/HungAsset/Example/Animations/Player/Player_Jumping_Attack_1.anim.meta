@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e4f651e562e2683448d0f34f4efcafb2
+timeCreated: 1514705557
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200714
+  packageName: 2D Action Platformer Game System
+  packageVersion: 1.1.9
+  assetPath: Assets/[2DAPGS]/Example/Animations/Player/Player_Jumping_Attack_1.anim
+  uploadId: 599068

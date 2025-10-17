@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 454fba46d6badbd4e9022854b7298191
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200714
+  packageName: 2D Action Platformer Game System
+  packageVersion: 1.1.9
+  assetPath: Assets/[2DAPGS]/Example/Animations/Player/Player_Crouch.anim
+  uploadId: 599068
