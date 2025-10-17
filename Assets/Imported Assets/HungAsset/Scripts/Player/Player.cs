@@ -128,8 +128,8 @@ public class Player : MonoBehaviour {
         maximumHealth = currentHealth;
 
         //Disabling cursor
-        Cursor.lockState = CursorLockMode.Locked;
-        Cursor.visible = false;
+        Cursor.lockState = CursorLockMode.None;   // instead of Locked
+        Cursor.visible = true;
     }
 
     public void Update() {
