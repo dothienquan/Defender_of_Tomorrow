@@ -2,12 +2,13 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 3
+  serializedVersion: 2
   tags:
   - Enemy
-  - Mirror
-  - Goal
-  - RoomBounds
+  - Water
+  - UIBlackBars
+  - InteractiveObject
+  - OneWayPlatform
   layers:
   - Default
   - TransparentFX
@@ -15,12 +16,12 @@ TagManager:
   - 
   - Water
   - UI
+  - 
+  - 
   - Ground
-  - Player
   - Enemy
-  - HurtBox
-  - 
-  - 
+  - Player
+  - InteractiveObject
   - 
   - 
   - 
@@ -45,14 +46,30 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 1795807593
+    locked: 0
+  - name: BehindPlayer
+    uniqueID: 4062724369
+    locked: 0
+  - name: Player
+    uniqueID: 2348805257
+    locked: 0
+  - name: InteractiveObject
+    uniqueID: 3622871791
+    locked: 0
   - name: Enemy
-    uniqueID: 2645385993
+    uniqueID: 3753440371
     locked: 0
-  - name: UpperGround
-    uniqueID: 467892115
+  - name: Water
+    uniqueID: 1484312607
     locked: 0
-  - name: New Layer 3
-    uniqueID: 2752341425
+  - name: InFrontOfPlayer
+    uniqueID: 1508147017
     locked: 0
-  m_RenderingLayers:
-  - Default
+  - name: EmissiveLighting
+    uniqueID: 260080621
+    locked: 0
+  - name: UI
+    uniqueID: 3972128679
+    locked: 0
