@@ -1,6 +1,7 @@
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.Events;
 
 public class ImageSlot : MonoBehaviour
 {
@@ -13,6 +14,9 @@ public class ImageSlot : MonoBehaviour
 
     [Tooltip("Starting index (0-based)")]
     [SerializeField] private int startIndex = 0;
+
+    [Header("Events")]
+    public UnityEvent onChanged;   // <-- NEW: gọi khi slot đổi hình
 
     public int CurrentIndex { get; private set; } = 0;
     public Sprite CurrentSprite => (spritePool != null && spritePool.Count > 0)
@@ -58,6 +62,7 @@ public class ImageSlot : MonoBehaviour
     private void Apply()
     {
         if (targetImage != null) targetImage.sprite = CurrentSprite;
+        onChanged?.Invoke(); // <-- NEW: thông báo đã đổi
     }
 
     // Optional: allow keyboard/controller per-slot (focus the slot, then use up/down)

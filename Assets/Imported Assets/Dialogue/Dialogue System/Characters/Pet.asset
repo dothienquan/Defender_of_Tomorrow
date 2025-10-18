@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f4a308dae7ffd048a8b0eb8d5ae4a02, type: 3}
   m_Name: Pet
   m_EditorClassIdentifier: 
-  characterPhoto: {fileID: -1867939574613991624, guid: bdd1760ef243ea74c97bd68bdae88c1f, type: 3}
-  characterName: "B\u01B0\u1EDBm"
+  characterPhoto: {fileID: -4751686531051869727, guid: da6b328fecf0d5643ae4aa9a2c80e10c,
+    type: 3}
+  characterName: Nora

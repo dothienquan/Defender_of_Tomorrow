@@ -8,6 +8,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/[2DAPGS]/Example/Scenes/Demo_Scene_With_Inventory.unity
     guid: 97056bac41923d84998e2075fa3dc78e
+  - enabled: 1
+    path: Assets/Scenes/Pre Scene 1.unity
+    guid: 7f442f776ffd4394b8a3bc7c95d4dd47
+  - enabled: 1
+    path: Assets/Scenes/Scene 1.unity
+    guid: 2d9a39bfe42dde74c93b0bb1749d5b24
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: afeb687cfbb56634388b00c2fde14c20,
       type: 2}

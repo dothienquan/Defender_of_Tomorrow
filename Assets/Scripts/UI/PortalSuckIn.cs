@@ -1,11 +1,12 @@
 // PortalSuckIn.cs
 // Put this on your Portal (needs a Collider2D set to isTrigger).
 // When the Player enters, tween them into the portal center (move root, scale/spin/fade visuals).
-
+using System.Collections;
 using System.Collections.Generic;
 using DG.Tweening;
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.SceneManagement; // <-- NEW
 
 [RequireComponent(typeof(Collider2D))]
 public class PortalSuckIn : MonoBehaviour
@@ -40,6 +41,18 @@ public class PortalSuckIn : MonoBehaviour
     [Header("Events")]
     public UnityEvent onSuckStart;
     public UnityEvent onSuckComplete;
+
+    // ---------------- NEW: Scene switch options ----------------
+    [Header("Next Scene (optional)")]
+    [Tooltip("Leave empty to skip auto-loading by name.")]
+    [SerializeField] private string nextSceneName = "";
+    [Tooltip("Use -1 to skip auto-loading by index.")]
+    [SerializeField] private int nextSceneBuildIndex = -1;
+    [Tooltip("Delay after animation completes before loading scene.")]
+    [SerializeField] private float loadDelay = 0f;
+    [Tooltip("Load scene additive? If false, loads Single.")]
+    [SerializeField] private bool loadAdditive = false;
+    // -----------------------------------------------------------
 
     private void Reset()
     {
@@ -122,6 +135,42 @@ public class PortalSuckIn : MonoBehaviour
                 cameraFollowComponent.enabled = camWasEnabled;
 
             onSuckComplete?.Invoke();
+
+            // NEW: Load next scene after animation
+            TryLoadNextScene();
         });
     }
+
+    // ---------------- NEW ----------------
+    private void TryLoadNextScene()
+    {
+        // If neither name nor index set, do nothing
+        bool hasName = !string.IsNullOrEmpty(nextSceneName);
+        bool hasIndex = nextSceneBuildIndex >= 0;
+
+        if (!hasName && !hasIndex) return;
+        StartCoroutine(CoLoadAfterDelay());
+    }
+
+    private IEnumerator CoLoadAfterDelay()
+    {
+        if (loadDelay > 0f)
+        {
+            // respect time scale choice: if tween used ignoreTimeScale, we should wait unscaled
+            float t = 0f;
+            while (t < loadDelay)
+            {
+                t += ignoreTimeScale ? Time.unscaledDeltaTime : Time.deltaTime;
+                yield return null;
+            }
+        }
+
+        var mode = loadAdditive ? LoadSceneMode.Additive : LoadSceneMode.Single;
+
+        if (!string.IsNullOrEmpty(nextSceneName))
+            SceneManager.LoadScene(nextSceneName, mode);
+        else
+            SceneManager.LoadScene(nextSceneBuildIndex, mode);
+    }
+    // -------------------------------------
 }

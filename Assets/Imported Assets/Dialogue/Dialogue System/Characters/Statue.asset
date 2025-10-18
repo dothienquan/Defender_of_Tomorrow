@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f4a308dae7ffd048a8b0eb8d5ae4a02, type: 3}
   m_Name: Statue
   m_EditorClassIdentifier: 
-  characterPhoto: {fileID: -5975279711075545993, guid: 820fd4417740b5649b0951b4b7925453, type: 3}
-  characterName: "T\u01B0\u1EE3ng N\u1EEF Th\u1EA7n"
+  characterPhoto: {fileID: 1269501495562176812, guid: 61d4756f0bbb59c4ba75feec1027939f,
+    type: 3}
+  characterName: "N\u1EEF Th\u1EA7n"

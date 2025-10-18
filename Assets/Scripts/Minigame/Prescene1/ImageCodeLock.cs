@@ -20,16 +20,45 @@ public class ImageCodeLock : MonoBehaviour
     public UnityEvent onIncorrect;
 
     [Header("Options")]
-    [Tooltip("If true, checks automatically whenever any slot changes (call Check() from slot events if needed).")]
-    public bool autoCheckOnChange = false;
+    [Tooltip("If true, checks automatically whenever any slot changes.")]
+    public bool autoCheckOnChange = true;
 
-    private void Start()
+    [Tooltip("Instantiate this VFX when the code is correct (optional).")]
+    [SerializeField] private GameObject correctVFXPrefab;
+
+    [Tooltip("Where to spawn the VFX (defaults to this object).")]
+    [SerializeField] private Transform vfxSpawnAt;
+
+    [Tooltip("Auto destroy spawned VFX after seconds (<=0 = don't destroy).")]
+    [SerializeField] private float vfxLifetime = 2f;
+
+    [Tooltip("Disable all slots after correct?")]
+    [SerializeField] private bool disableSlotsOnCorrect = true;
+
+    private void OnEnable()
     {
-        // Optional: auto-check when scene loads
-        // Check();
+        // Subscribe to slot change -> auto check
+        if (autoCheckOnChange && slots != null)
+        {
+            foreach (var s in slots)
+                if (s != null) s.onChanged.AddListener(OnAnySlotChanged);
+        }
     }
 
-    // Call this from a "Submit" button, or wire slots to call Check() after Next/Prev if autoCheckOnChange=true
+    private void OnDisable()
+    {
+        if (slots != null)
+        {
+            foreach (var s in slots)
+                if (s != null) s.onChanged.RemoveListener(OnAnySlotChanged);
+        }
+    }
+
+    private void OnAnySlotChanged()
+    {
+        if (autoCheckOnChange) Check();
+    }
+
     public void Check()
     {
         if (slots == null || slots.Count == 0)
@@ -54,28 +83,43 @@ public class ImageCodeLock : MonoBehaviour
         {
             for (int i = 0; i < slots.Count; i++)
             {
-                if (slots[i].CurrentIndex != secretIndices[i])
-                {
-                    match = false;
-                    break;
-                }
+                if (slots[i].CurrentIndex != secretIndices[i]) { match = false; break; }
             }
         }
         else // usingSprites
         {
             for (int i = 0; i < slots.Count; i++)
             {
-                var s = slots[i].CurrentSprite;
-                if (s != secretSprites[i])
-                {
-                    match = false;
-                    break;
-                }
+                if (slots[i].CurrentSprite != secretSprites[i]) { match = false; break; }
             }
         }
 
-        if (match) onCorrect?.Invoke();
-        else onIncorrect?.Invoke();
+        if (match)
+        {
+            onCorrect?.Invoke();
+            PlayCorrectVFX();
+
+            if (disableSlotsOnCorrect)
+            {
+                foreach (var s in slots) if (s) s.enabled = false;
+                enabled = false; // stop further checks if muốn
+            }
+        }
+        else
+        {
+            onIncorrect?.Invoke();
+        }
+    }
+
+    private void PlayCorrectVFX()
+    {
+        if (correctVFXPrefab == null) return;
+
+        Transform where = vfxSpawnAt != null ? vfxSpawnAt : transform;
+        var vfx = Instantiate(correctVFXPrefab, where.position, where.rotation, where);
+
+        if (vfxLifetime > 0f)
+            Destroy(vfx, vfxLifetime);
     }
 
     // Optional helper: set all indices at once (e.g., randomize start)
